@@ -1,6 +1,6 @@
 import React from 'react';
-import { UniversalLink } from '@plone/volto/components/manage/UniversalLink/UniversalLink';
-import { Icon } from '@plone/volto/components/theme/Icon/Icon';
+import UniversalLink from '@plone/volto/components/manage/UniversalLink/UniversalLink';
+import Icon from '@plone/volto/components/theme/Icon/Icon';
 import cx from 'classnames';
 import blueskyIcon from '@plonegovbr/volto-network-block/icons/bluesky.svg';
 import facebookIcon from '@plonegovbr/volto-network-block/icons/facebook.svg';

@@ -3,7 +3,7 @@
  * @module components/Sponsors/Sponsor
  */
 import React from 'react';
-import { UniversalLink } from '@plone/volto/components/manage/UniversalLink/UniversalLink';
+import UniversalLink from '@plone/volto/components/manage/UniversalLink/UniversalLink';
 import { flattenToAppURL } from '@plone/volto/helpers/Url/Url';
 
 const SponsorLogo = ({ content }) => {

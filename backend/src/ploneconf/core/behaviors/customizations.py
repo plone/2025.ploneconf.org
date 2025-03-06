@@ -63,7 +63,6 @@ class ISiteCustomizationSettings(model.Schema):
         fields=[
             "logo",
             "complementary_logo",
-            "intranet_flag",
         ],
     )
 
@@ -106,16 +105,6 @@ class ISiteCustomizationSettings(model.Schema):
             "help_complementary_logo",
             default="If the project has a complimentary logo, please upload it here. "
             "It will show in the right side of the header",
-        ),
-        required=False,
-    )
-
-    intranet_flag = TextLine(
-        title=_("label_intranet_flag", default="Intranet Flag"),
-        description=_(
-            "help_intranet_flag",
-            default="If your site is an intranet, the intranet flag is the color pill"
-            " at the top left of the header.",
         ),
         required=False,
     )

@@ -12,6 +12,7 @@
     },
     "f5640342-aa72-4711-894f-b6948dfd7596": {
       "@type": "form",
+      "captcha": "honeypot",
       "configValidation": {
         "required_fields": [
           "default_to",
@@ -20,12 +21,13 @@
           "captcha"
         ],
         "schema_validation": [],
-        "valid": false
+        "valid": true
       },
       "default_from": "noreply@plone.org",
       "default_subject": "Plone Conference Site",
       "default_to": "conf@plone.org",
       "lastChange": 1741185368326,
+      "remove_data_after_days": -1,
       "send_email": true,
       "store": true,
       "subblocks": [
@@ -88,6 +90,7 @@
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
+  "exportimport.conversation": [],
   "id": "contact",
   "is_folderish": true,
   "language": "##DEFAULT##",
@@ -96,7 +99,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-03-05T14:36:40+00:00",
+  "modified": "2025-03-06T14:20:45+00:00",
   "preview_caption": null,
   "preview_image": null,
   "review_state": "published",
@@ -123,5 +126,7 @@
         "time": "2025-03-05T14:36:40+00:00"
       }
     ]
-  }
+  },
+  "working_copy": null,
+  "working_copy_of": null
 }

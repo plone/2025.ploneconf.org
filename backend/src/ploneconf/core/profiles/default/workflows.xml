@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object meta_type="Plone Workflow Tool"
+        name="portal_workflow"
+>
+  <object meta_type="Workflow"
+          name="folder_workflow"
+          remove="true"
+  />
+  <object meta_type="Workflow"
+          name="intranet_folder_workflow"
+          remove="true"
+  />
+  <object meta_type="Workflow"
+          name="intranet_workflow"
+          remove="true"
+  />
+  <object meta_type="Workflow"
+          name="one_state_workflow"
+          remove="true"
+  />
+  <object meta_type="Workflow"
+          name="plone_workflow"
+          remove="true"
+  />
+</object>

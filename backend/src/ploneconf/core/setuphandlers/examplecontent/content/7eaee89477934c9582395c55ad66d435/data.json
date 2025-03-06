@@ -8,6 +8,7 @@
   "description": "The Plone Foundation is a non-profit organization dedicated to supporting and advancing the open-source content management system, Plone.",
   "exclude_from_nav": false,
   "exportimport.constrains": {},
+  "exportimport.conversation": [],
   "facebook": null,
   "github": "https://github.com/plone",
   "id": "plone-foundation",
@@ -67,5 +68,7 @@
       }
     ]
   },
+  "working_copy": null,
+  "working_copy_of": null,
   "youtube": "https://youtube.com/@plonecms"
 }

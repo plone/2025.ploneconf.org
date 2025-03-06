@@ -49,6 +49,7 @@
   "exclude_from_nav": true,
   "expires": null,
   "exportimport.constrains": {},
+  "exportimport.conversation": [],
   "id": "images",
   "is_folderish": true,
   "language": "##DEFAULT##",
@@ -84,5 +85,7 @@
         "time": "2024-05-27T03:50:30+00:00"
       }
     ]
-  }
+  },
+  "working_copy": null,
+  "working_copy_of": null
 }

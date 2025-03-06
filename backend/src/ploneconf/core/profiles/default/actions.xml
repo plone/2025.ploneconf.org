@@ -15,6 +15,23 @@
     </object>
   </object>
   <object meta_type="CMF Action Category"
+          name="site_actions"
+  >
+    <property name="title">Site actions</property>
+    <object meta_type="CMF Action"
+            name="sitemap"
+            i18n:domain="plone"
+    >
+      <property name="visible">False</property>
+    </object>
+    <object meta_type="CMF Action"
+            name="contact"
+            i18n:domain="plone"
+    >
+      <property name="visible">False</property>
+    </object>
+  </object>
+  <object meta_type="CMF Action Category"
           name="social_actions"
   >
     <property name="title">Social actions</property>

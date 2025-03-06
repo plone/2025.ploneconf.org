@@ -52,7 +52,7 @@ sync: ## Sync project dependencies
 	@uv sync
 
 .PHONY: install
-install: sync ## Install Project
+install: sync config ## Install Plone and dependencies
 
 instance/etc/zope.ini instance/etc/zope.conf: ## Create instance configuration
 	@echo "$(GREEN)==> Create instance configuration$(RESET)"
@@ -61,8 +61,6 @@ instance/etc/zope.ini instance/etc/zope.conf: ## Create instance configuration
 .PHONY: config
 config: instance/etc/zope.ini
 
-.PHONY: install
-install: $(VENV_FOLDER) config ## Install Plone and dependencies
 
 .PHONY: clean
 clean: ## Clean installation and instance

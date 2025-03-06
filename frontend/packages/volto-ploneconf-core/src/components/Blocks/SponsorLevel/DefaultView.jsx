@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { defineMessages, useIntl } from 'react-intl';
 import { getNavroot } from '@plone/volto/actions/navroot/navroot';
 import { useSelector, useDispatch } from 'react-redux';
-import { UniversalLink } from '@plone/volto/components/manage/UniversalLink/UniversalLink';
+import UniversalLink from '@plone/volto/components/manage/UniversalLink/UniversalLink';
 import {
   hasApiExpander,
   toBackendLang,

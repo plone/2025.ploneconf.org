@@ -7,9 +7,16 @@
   "allow_discussion": null,
   "blocks": {
     "31355424-cc34-4902-8b11-946fab0e8dc4": {
+      "@type": "sponsorsList"
+    },
+    "5f31e9e4-173f-4ec1-ab48-64e9e2789b76": {
+      "@type": "title"
+    },
+    "6fd4df1a-d82d-4d31-b3a2-36116615350b": {
       "@type": "slate",
       "plaintext": "",
       "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
@@ -20,14 +27,12 @@
           "type": "p"
         }
       ]
-    },
-    "5f31e9e4-173f-4ec1-ab48-64e9e2789b76": {
-      "@type": "title"
     }
   },
   "blocks_layout": {
     "items": [
       "5f31e9e4-173f-4ec1-ab48-64e9e2789b76",
+      "6fd4df1a-d82d-4d31-b3a2-36116615350b",
       "31355424-cc34-4902-8b11-946fab0e8dc4"
     ]
   },
@@ -41,6 +46,7 @@
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
+  "exportimport.conversation": [],
   "footer_links": {
     "blocks": {
       "2abf9f90-c772-48c7-a3b9-e8eb631fa716": {
@@ -100,5 +106,7 @@
   "table_of_contents": null,
   "title": "Plone Conference 2025",
   "type_title": "Plone Site",
-  "workflow_history": {}
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
 }

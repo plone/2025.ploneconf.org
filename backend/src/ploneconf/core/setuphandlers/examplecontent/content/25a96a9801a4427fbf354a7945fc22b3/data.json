@@ -215,6 +215,7 @@
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
+  "exportimport.conversation": [],
   "id": "sponsors",
   "is_folderish": true,
   "language": "##DEFAULT##",
@@ -247,5 +248,7 @@
         "time": "2025-03-05T14:07:29+00:00"
       }
     ]
-  }
+  },
+  "working_copy": null,
+  "working_copy_of": null
 }
