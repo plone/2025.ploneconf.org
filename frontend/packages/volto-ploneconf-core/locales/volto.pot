@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
-"POT-Creation-Date: 2024-03-22T12:43:34.158Z\n"
+"POT-Creation-Date: 2025-03-06T00:13:27.572Z\n"
 "Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -12,3 +12,74 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
+
+#. Default: "Be the First!"
+#: components/Blocks/SponsorLevel/DefaultView
+msgid "Be the First!"
+msgstr ""
+
+#. Default: "CTA Label"
+#: components/Blocks/SponsorLevel/schema
+msgid "CTA Label"
+msgstr ""
+
+#. Default: "Copyright"
+#: components/Footer/Footer
+msgid "Copyright"
+msgstr ""
+
+#. Default: "Display CTA?"
+#: components/Blocks/SponsorLevel/schema
+msgid "Display CTA?"
+msgstr ""
+
+#. Default: "Distributed under the {license}."
+#: components/Footer/Footer
+msgid "Distributed under the {license}."
+msgstr ""
+
+#. Default: "GNU GPL license"
+#: components/Footer/Footer
+msgid "GNU GPL license"
+msgstr ""
+
+#. Default: "Plone Foundation"
+#: components/Footer/Footer
+msgid "Plone Foundation"
+msgstr ""
+
+#. Default: "Plone{reg} Open Source CMS/WCM"
+#: components/Footer/Footer
+msgid "Plone{reg} Open Source CMS/WCM"
+msgstr ""
+
+#. Default: "Sponsor Level"
+#: components/Blocks/SponsorLevel/schema
+msgid "Sponsor Level"
+msgstr ""
+
+#. Default: "Sponsor Us"
+#: components/Blocks/SponsorLevel/DefaultView
+msgid "Sponsor Us"
+msgstr ""
+
+#. Default: "Sponsors"
+#: components/Blocks/SponsorLevel/DefaultView
+#: components/Sponsors/Sponsors
+msgid "Sponsors"
+msgstr ""
+
+#. Default: "Sponsorship Form"
+#: components/Blocks/SponsorLevel/schema
+msgid "Sponsorship Form"
+msgstr ""
+
+#. Default: "The {plonecms} is {copyright} 2000-{current_year} by the {plonefoundation} and friends."
+#: components/Footer/Footer
+msgid "The {plonecms} is {copyright} 2000-{current_year} by the {plonefoundation} and friends."
+msgstr ""
+
+#. Default: "Title"
+#: components/Blocks/SponsorLevel/schema
+msgid "Title"
+msgstr ""

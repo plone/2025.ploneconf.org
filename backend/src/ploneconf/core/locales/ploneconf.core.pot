@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-25 17:12+0000\n"
+"POT-Creation-Date: 2025-03-06 00:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,3 +16,270 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: ploneconf.core\n"
+
+#: ploneconf/core/behaviors/links.py:40
+msgid "Bluesky"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:41
+msgid "Bluesky profile url"
+msgstr ""
+
+#: ploneconf/core/profiles/default/types/Sponsor.xml
+msgid "Conference Sponsor."
+msgstr ""
+
+#: ploneconf/core/profiles/default/types/SponsorsDB.xml
+msgid "Conference Sponsoring information."
+msgstr ""
+
+#: ploneconf/core/behaviors/configure.zcml:26
+msgid "Conference: Links Information"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:22
+msgid "Create example content to showcase the new website"
+msgstr ""
+
+#: ploneconf/core/behaviors/configure.zcml:19
+msgid "Customizations for sites/subsites"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:50
+msgid "Default FZJ font"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:76
+msgid "Facebook"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:77
+msgid "Facebook page url"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:85
+msgid "Footer customizations"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:220
+msgid "Footer links"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:173
+msgid "Footer logos"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:200
+msgid "Footer logos container width"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:213
+msgid "Footer logos size"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:52
+msgid "Georgia / Lucida Sans"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:46
+msgid "GitHub"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:47
+msgid "GitHub profile url"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:62
+msgid "Header customizations"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:51
+msgid "Impact / Arial Narrow"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:58
+msgid "Instagram"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:59
+msgid "Instagram profile url"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:30
+msgid "Link to site"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:64
+msgid "LinkedIn"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:65
+msgid "LinkedIn profile url"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:14
+msgid "Links"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:52
+msgid "Mastodon"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:53
+msgid "Mastodon profile url"
+msgstr ""
+
+#: ploneconf/core/profiles/default/types/SponsorLevel.xml
+msgid "Package of sponsorship for the conference."
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:13
+msgid "Package to configure a new Plone Conference 2025 site"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:22
+msgid "Plone Conference 2025: Example content"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:13
+msgid "Plone Conference 2025: Install"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:38
+msgid "Plone Conference 2025: OAuth Live/Staging"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:46
+msgid "Plone Conference 2025: OAuth Local"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:30
+msgid "Plone Conference 2025: Uninstall"
+msgstr ""
+
+#: ploneconf/core/behaviors/configure.zcml:19
+msgid "Set of fields to customize sites and subsites"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:46
+msgid "Setup OAuth for development environments."
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:38
+msgid "Setup OAuth for public facing installations."
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:29
+msgid "Site"
+msgstr ""
+
+#: ploneconf/core/profiles/default/types/Sponsor.xml
+msgid "Sponsor"
+msgstr ""
+
+#: ploneconf/core/profiles/default/types/SponsorsDB.xml
+msgid "Sponsors Database"
+msgstr ""
+
+#: ploneconf/core/profiles/default/types/SponsorLevel.xml
+msgid "Sponsorship Level"
+msgstr ""
+
+#: ploneconf/core/behaviors/customizations.py:72
+msgid "Theming"
+msgstr ""
+
+#: ploneconf/core/profiles.zcml:30
+msgid "Uninstall Plone Conference 2025 setup."
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:35
+msgid "X"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:36
+msgid "X profile url"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:70
+msgid "YouTube"
+msgstr ""
+
+#: ploneconf/core/behaviors/links.py:71
+msgid "YouTube channel url"
+msgstr ""
+
+#. Default: "If the project has a complimentary logo, please upload it here. It will show in the right side of the header"
+#: ploneconf/core/behaviors/customizations.py:105
+msgid "help_complementary_logo"
+msgstr ""
+
+#. Default: "Used in item listings and search results."
+#: ploneconf/core/content/sponsors/sponsor.py:21
+msgid "help_description"
+msgstr ""
+
+#. Default: "If your site is an intranet, the intranet flag is the color pill at the top left of the header."
+#: ploneconf/core/behaviors/customizations.py:115
+msgid "help_intranet_flag"
+msgstr ""
+
+#. Default: "If the site or subsite has a logo, please upload it here."
+#: ploneconf/core/behaviors/customizations.py:96
+msgid "help_site_logo"
+msgstr ""
+
+#. Default: "accent_colordefault"
+#: ploneconf/core/behaviors/customizations.py:125
+msgid "label_accent_color"
+msgstr ""
+
+#. Default: "accent_foreground_colordefault"
+#: ploneconf/core/behaviors/customizations.py:133
+msgid "label_accent_foreground_color"
+msgstr ""
+
+#. Default: "Complementary Logo"
+#: ploneconf/core/behaviors/customizations.py:104
+msgid "label_complementary_logo"
+msgstr ""
+
+#. Default: "Summary"
+#: ploneconf/core/content/sponsors/sponsor.py:20
+msgid "label_description"
+msgstr ""
+
+#. Default: "Intranet Flag"
+#: ploneconf/core/behaviors/customizations.py:114
+msgid "label_intranet_flag"
+msgstr ""
+
+#. Default: "primary_foreground_colordefault"
+#: ploneconf/core/behaviors/customizations.py:144
+msgid "label_primary_foreground_color"
+msgstr ""
+
+#. Default: "secondary_colordefault"
+#: ploneconf/core/behaviors/customizations.py:153
+msgid "label_secondary_color"
+msgstr ""
+
+#. Default: "secondary_foreground_colordefault"
+#: ploneconf/core/behaviors/customizations.py:164
+msgid "label_secondary_foreground_color"
+msgstr ""
+
+#. Default: "Site Logo"
+#: ploneconf/core/behaviors/customizations.py:95
+msgid "label_site_logo"
+msgstr ""
+
+#. Default: "Text"
+#: ploneconf/core/content/sponsors/sponsor.py:30
+msgid "label_text"
+msgstr ""
+
+#. Default: "Title"
+#: ploneconf/core/content/sponsors/sponsor.py:17
+msgid "label_title"
+msgstr ""
