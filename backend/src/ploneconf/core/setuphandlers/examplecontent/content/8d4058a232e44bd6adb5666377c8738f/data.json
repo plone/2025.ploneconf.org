@@ -1,0 +1,83 @@
+{
+  "@id": "/about",
+  "@type": "Document",
+  "UID": "8d4058a232e44bd6adb5666377c8738f",
+  "allow_discussion": null,
+  "blocks": {
+    "21978d19-ba61-49c5-bed3-4a817f28749f": {
+      "@type": "title"
+    },
+    "75f12dac-5e08-452b-b837-336dbf53f629": {
+      "@type": "description"
+    },
+    "76d0f541-d7ee-4ff2-a1f7-afebb4741939": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "21978d19-ba61-49c5-bed3-4a817f28749f",
+      "75f12dac-5e08-452b-b837-336dbf53f629",
+      "76d0f541-d7ee-4ff2-a1f7-afebb4741939"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-05T14:04:54+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "The Plone Conference, the annual gathering of the vibrant Plone community, has been a cornerstone of the open-source CMS world for nearly two decades. From the first edition, back in 2003 to its latest edition in 2024, the conference has evolved into a global celebration of collaboration, innovation, and knowledge sharing.",
+  "effective": "2025-03-05T11:04:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "id": "about",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-03-05T14:36:04+00:00",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "About",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-05T14:04:54+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-05T14:04:58+00:00"
+      }
+    ]
+  }
+}

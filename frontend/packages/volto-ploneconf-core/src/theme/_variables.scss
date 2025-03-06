@@ -1,0 +1,36 @@
+// Spacing
+$spacing-xsmall: 10px !default;
+$spacing-small: 20px !default;
+$spacing-medium: 40px !default;
+$spacing-large: 60px !default;
+$spacing-xlarge: 80px !default;
+
+:root {
+  // Colors
+  --main-color: rgb(0, 131, 190);
+  --reverse-color: rgb(255, 255, 255);
+}
+
+// Animation
+@mixin animate-hover() {
+  box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+@mixin ctaButton() {
+  padding: $spacing-xsmall;
+  border: 1px solid var(--main-color);
+  border-radius: 10px;
+  margin-left: $spacing-small;
+  background-color: var(--main-color);
+  color: var(--reverse-color);
+  &.active {
+    color: var(--reverse-color);
+  }
+  &:hover {
+    color: var(--reverse-color);
+    @include animate-hover();
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "@id": "/Plone",
+  "@type": "Plone Site",
+  "UID": "plone_site_root",
+  "accent_color": null,
+  "accent_foreground_color": null,
+  "allow_discussion": null,
+  "blocks": {
+    "31355424-cc34-4902-8b11-946fab0e8dc4": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5f31e9e4-173f-4ec1-ab48-64e9e2789b76": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "5f31e9e4-173f-4ec1-ab48-64e9e2789b76",
+      "31355424-cc34-4902-8b11-946fab0e8dc4"
+    ]
+  },
+  "complementary_logo": null,
+  "contributors": [],
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "footer_links": {
+    "blocks": {
+      "2abf9f90-c772-48c7-a3b9-e8eb631fa716": {
+        "href": [
+          {
+            "@id": "/about/contact",
+            "@type": "Document",
+            "Description": "",
+            "Title": "Contact",
+            "title": "Contact"
+          }
+        ],
+        "title": "Contact"
+      },
+      "8358f04e-3591-46d9-931d-31a24300119d": {
+        "href": [
+          {
+            "@id": "/about/code-of-conduct",
+            "@type": "Document",
+            "Description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
+            "Title": "Code of Conduct",
+            "title": "Code of Conduct"
+          }
+        ],
+        "title": "Code of Conduct"
+      }
+    },
+    "blocks_layout": {
+      "items": [
+        "2abf9f90-c772-48c7-a3b9-e8eb631fa716",
+        "8358f04e-3591-46d9-931d-31a24300119d"
+      ]
+    }
+  },
+  "footer_logos": {
+    "blocks": {},
+    "blocks_layout": {}
+  },
+  "footer_logos_container_width": "default",
+  "footer_logos_size": "s",
+  "id": "Plone",
+  "intranet_flag": null,
+  "is_folderish": true,
+  "items_total": 3,
+  "language": "##DEFAULT##",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "logo": null,
+  "primary_foreground_color": null,
+  "review_state": null,
+  "rights": "",
+  "secondary_color": null,
+  "secondary_foreground_color": null,
+  "subjects": [],
+  "table_of_contents": null,
+  "title": "Plone Conference 2025",
+  "type_title": "Plone Site",
+  "workflow_history": {}
+}

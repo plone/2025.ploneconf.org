@@ -1,0 +1,72 @@
+{
+  "@id": "/sponsors/organizer",
+  "@type": "SponsorLevel",
+  "UID": "741ab3e39f554c068ef28b74a0e9d3e2",
+  "allow_discussion": null,
+  "blocks": {
+    "15bd4fc7-33d7-4bd4-96e8-94a1f345fdb2": {
+      "@type": "title"
+    },
+    "24fca894-f969-40af-bd74-ffa048409291": {
+      "@type": "slate"
+    },
+    "573a0fac-cf50-4e74-8eb7-2b8b37161cea": {
+      "@type": "sponsorLevel",
+      "title": " "
+    },
+    "da570231-b8e9-4855-ba3d-35247835a43b": {
+      "@type": "description"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "15bd4fc7-33d7-4bd4-96e8-94a1f345fdb2",
+      "da570231-b8e9-4855-ba3d-35247835a43b",
+      "573a0fac-cf50-4e74-8eb7-2b8b37161cea",
+      "24fca894-f969-40af-bd74-ffa048409291"
+    ]
+  },
+  "contributors": [],
+  "created": "2025-03-05T15:12:49+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Plone Conference 2025 is organized by the following entities",
+  "effective": "2025-03-05T12:12:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "id": "organizer",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-03-05T18:13:11+00:00",
+  "nav_title": null,
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Organizers",
+  "type_title": "Sponsorship Level",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-05T15:12:49+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-05T15:12:52+00:00"
+      }
+    ]
+  }
+}

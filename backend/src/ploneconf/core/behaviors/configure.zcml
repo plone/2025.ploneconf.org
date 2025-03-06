@@ -1,0 +1,28 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    xmlns:zcml="http://namespaces.zope.org/zcml"
+    i18n_domain="ploneconf.core"
+    >
+
+  <include
+      package="plone.behavior"
+      file="meta.zcml"
+      />
+
+  <plone:behavior
+      name="ploneconf.core.sitecustomization"
+      title="Customizations for sites/subsites"
+      description="Set of fields to customize sites and subsites"
+      provides=".customizations.ISiteCustomizationSettings"
+      />
+
+  <plone:behavior
+      name="ploneconf.core.links"
+      title="Conference: Links Information"
+      description=""
+      provides=".links.ILinkInformation"
+      />
+
+</configure>

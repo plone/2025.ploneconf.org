@@ -1,0 +1,17 @@
+body.contenttype-sponsor {
+  .documentDescription {
+    max-width: var(--layout-container-width);
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .sponsorText {
+    margin-bottom: $spacing-medium;
+  }
+
+  #sponsorLogo {
+    img {
+      max-width: 400px !important;
+    }
+  }
+}

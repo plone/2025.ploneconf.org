@@ -1,0 +1,166 @@
+{
+  "__version__": "1.0.0",
+  "_blob_files_": [
+    "a58ccead718140c1baa98d43595fc3e6/image/plone-foundation.png",
+    "7eaee89477934c9582395c55ad66d435/image/pf_logo.png"
+  ],
+  "_data_files_": [
+    "plone_site_root/data.json",
+    "8d4058a232e44bd6adb5666377c8738f/data.json",
+    "1b8b0b690026425990f5dcb17c49dbab/data.json",
+    "7e95cf2fe5da43cbb0bd21caf23d5b94/data.json",
+    "a720393b3c0240e5bd27c43fcd2cfd1e/data.json",
+    "a58ccead718140c1baa98d43595fc3e6/data.json",
+    "25a96a9801a4427fbf354a7945fc22b3/data.json",
+    "741ab3e39f554c068ef28b74a0e9d3e2/data.json",
+    "7eaee89477934c9582395c55ad66d435/data.json"
+  ],
+  "default_page": {},
+  "local_permissions": {
+    "1b8b0b690026425990f5dcb17c49dbab": {},
+    "25a96a9801a4427fbf354a7945fc22b3": {
+      "ploneconf.core: Add SponsorsDB": {
+        "acquire": false,
+        "roles": []
+      }
+    },
+    "741ab3e39f554c068ef28b74a0e9d3e2": {},
+    "7e95cf2fe5da43cbb0bd21caf23d5b94": {},
+    "7eaee89477934c9582395c55ad66d435": {},
+    "8d4058a232e44bd6adb5666377c8738f": {},
+    "a58ccead718140c1baa98d43595fc3e6": {},
+    "a720393b3c0240e5bd27c43fcd2cfd1e": {},
+    "plone_site_root": {
+      "Add portal member": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner"
+        ]
+      },
+      "Content rules: Manage rules": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own password": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own properties": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Show Toolbar": {
+        "acquire": false,
+        "roles": [
+          "Authenticated"
+        ]
+      },
+      "plone.resource: Export ZIP file": {
+        "acquire": false,
+        "roles": [
+          "Manager"
+        ]
+      },
+      "plone.resourceeditor: Manage Sources": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "ploneconf.core: Add SponsorsDB": {
+        "acquire": false,
+        "roles": []
+      }
+    }
+  },
+  "local_roles": {
+    "1b8b0b690026425990f5dcb17c49dbab": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "25a96a9801a4427fbf354a7945fc22b3": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "741ab3e39f554c068ef28b74a0e9d3e2": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "7e95cf2fe5da43cbb0bd21caf23d5b94": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "7eaee89477934c9582395c55ad66d435": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "8d4058a232e44bd6adb5666377c8738f": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a58ccead718140c1baa98d43595fc3e6": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a720393b3c0240e5bd27c43fcd2cfd1e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "plone_site_root": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    }
+  },
+  "ordering": {
+    "1b8b0b690026425990f5dcb17c49dbab": 0,
+    "25a96a9801a4427fbf354a7945fc22b3": 43,
+    "741ab3e39f554c068ef28b74a0e9d3e2": 0,
+    "7e95cf2fe5da43cbb0bd21caf23d5b94": 1,
+    "7eaee89477934c9582395c55ad66d435": 0,
+    "8d4058a232e44bd6adb5666377c8738f": 42,
+    "a58ccead718140c1baa98d43595fc3e6": 0,
+    "a720393b3c0240e5bd27c43fcd2cfd1e": 41
+  },
+  "relations": []
+}

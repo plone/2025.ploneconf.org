@@ -1,0 +1,127 @@
+{
+  "@id": "/about/contact",
+  "@type": "Document",
+  "UID": "7e95cf2fe5da43cbb0bd21caf23d5b94",
+  "allow_discussion": null,
+  "blocks": {
+    "3d405c35-d08e-48c9-b070-afc2503f3b82": {
+      "@type": "slate"
+    },
+    "e952d1b2-d234-494d-a249-92aabc3a155a": {
+      "@type": "title"
+    },
+    "f5640342-aa72-4711-894f-b6948dfd7596": {
+      "@type": "form",
+      "configValidation": {
+        "required_fields": [
+          "default_to",
+          "default_from",
+          "default_subject",
+          "captcha"
+        ],
+        "schema_validation": [],
+        "valid": false
+      },
+      "default_from": "noreply@plone.org",
+      "default_subject": "Plone Conference Site",
+      "default_to": "conf@plone.org",
+      "lastChange": 1741185368326,
+      "send_email": true,
+      "store": true,
+      "subblocks": [
+        {
+          "field_id": "1741185193192",
+          "field_type": "text",
+          "id": "1741185193192",
+          "label": "Your name",
+          "required": true
+        },
+        {
+          "field_id": "1741185210504",
+          "field_type": "from",
+          "id": "1741185210504",
+          "label": "E-mail",
+          "required": true,
+          "use_as_bcc": false,
+          "use_as_reply_to": true
+        },
+        {
+          "field_id": "1741185224239",
+          "field_type": "single_choice",
+          "id": "1741185224239",
+          "input_values": [
+            "Tickets",
+            "Sponsorship",
+            "Code of Conduct",
+            "Travel / Accommodation",
+            "Invitation Letter",
+            "Call for Papers"
+          ],
+          "label": "Topic",
+          "required": true
+        },
+        {
+          "field_id": "1741185303428",
+          "field_type": "textarea",
+          "id": "1741185303428",
+          "label": "Message",
+          "required": true
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e952d1b2-d234-494d-a249-92aabc3a155a",
+      "f5640342-aa72-4711-894f-b6948dfd7596",
+      "3d405c35-d08e-48c9-b070-afc2503f3b82"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-05T14:36:04+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": "2025-03-05T11:36:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "id": "contact",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-03-05T14:36:40+00:00",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Contact",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-05T14:36:04+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-05T14:36:40+00:00"
+      }
+    ]
+  }
+}

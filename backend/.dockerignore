@@ -1,0 +1,15 @@
+.editorconfig
+.gitattributes
+bin
+dist
+Dockerfile
+Dockerfile.acceptance
+include
+instance
+instance.yaml
+lib
+lib64
+Makefile
+pyvenv.cfg
+var
+.venv

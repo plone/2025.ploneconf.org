@@ -1,0 +1,93 @@
+---
+version: '3.9'
+
+services:
+
+  frontend:
+    image: ${FRONTEND_IMAGE}:${STACK_PARAM:-latest}
+    environment:
+      RAZZLE_INTERNAL_API_PATH: http://${STACK_NAME}_backend:8080/Plone
+      RAZZLE_API_PATH: https://${PUBLIC_URL}
+    depends_on:
+      - backend
+    networks:
+      - public
+      - nw-internal
+    deploy:
+      replicas: 2
+      update_config:
+        parallelism: 1
+        delay: 5s
+        order: start-first
+      placement:
+        constraints:
+          - node.labels.type == app
+      labels:
+        - traefik.enable=true
+        - traefik.docker.network=public
+        - traefik.constraint-label=public
+        # SERVICE
+        - traefik.http.services.${STACK_PREFIX}-frontend.loadbalancer.server.port=3000
+        # MIDDLEWARES
+        ### ClassicUI Access Authentication
+        - traefik.http.middlewares.${STACK_PREFIX}-frontend-auth.basicauth.users=${BASIC_AUTH_USER}:${BASIC_AUTH_PASSWORD}
+        # HOSTS: Main
+        - traefik.http.routers.${STACK_PREFIX}-frontend.rule=Host(`${PUBLIC_URL}`)
+        - traefik.http.routers.${STACK_PREFIX}-frontend.entrypoints=https
+        - traefik.http.routers.${STACK_PREFIX}-frontend.tls=true
+        - traefik.http.routers.${STACK_PREFIX}-frontend.tls.certresolver=le
+        - traefik.http.routers.${STACK_PREFIX}-frontend.service=${STACK_PREFIX}-frontend
+        - traefik.http.routers.${STACK_PREFIX}-frontend.middlewares=gzip
+
+  backend:
+    image: ${BACKEND_IMAGE}:${STACK_PARAM:-latest}
+    environment:
+      RELSTORAGE_DSN: "dbname='${DB_NAME:-plone}' user='${DB_USER:-plone}' host='${DB_HOST:-db}' password='${DB_PASSWORD}' port='${DB_PORT:-5432}'"
+    networks:
+      - public
+      - nw-internal
+    deploy:
+      replicas: 2
+      update_config:
+        parallelism: 1
+        delay: 5s
+        order: start-first
+      placement:
+        constraints:
+          - node.labels.type == app
+      labels:
+        - traefik.enable=true
+        - traefik.docker.network=public
+        - traefik.constraint-label=public
+        # SERVICE
+        - traefik.http.services.${STACK_PREFIX}-backend.loadbalancer.server.port=8080
+        # MIDDLEWARES
+        ### ClassicUI Access Authentication
+        - traefik.http.middlewares.${STACK_PREFIX}-backend-auth.basicauth.users=${BASIC_AUTH_USER}:${BASIC_AUTH_PASSWORD}
+        ### Backend ++api++ VHM
+        - "traefik.http.middlewares.${STACK_PREFIX}-vhm.replacepathregex.regex=^/\\+\\+api\\+\\+($$|/.*)"
+        - "traefik.http.middlewares.${STACK_PREFIX}-vhm.replacepathregex.replacement=/VirtualHostBase/https/${PUBLIC_URL}/Plone/++api++/VirtualHostRoot/$$1"
+        ### Backend ClassicUI VHM
+        - "traefik.http.middlewares.${STACK_PREFIX}-vhm-classicui.replacepathregex.regex=^/ClassicUI($$|/.*)"
+        - "traefik.http.middlewares.${STACK_PREFIX}-vhm-classicui.replacepathregex.replacement=/VirtualHostBase/https/${PUBLIC_URL}/Plone/VirtualHostRoot/_vh_ClassicUI/$$1"
+        # ROUTES
+        ## API
+        - traefik.http.routers.${STACK_PREFIX}-backend.rule=Host(`${PUBLIC_URL}`) && (PathPrefix(`/++api++`))
+        - traefik.http.routers.${STACK_PREFIX}-backend.entrypoints=https
+        - traefik.http.routers.${STACK_PREFIX}-backend.tls=true
+        - traefik.http.routers.${STACK_PREFIX}-backend.service=${STACK_PREFIX}-backend
+        - traefik.http.routers.${STACK_PREFIX}-backend.middlewares=gzip,${STACK_PREFIX}-vhm
+        ### /ClassicUI - protected with basic auth (prevent SEOs from crawling it)
+        - traefik.http.routers.${STACK_PREFIX}-classicui.rule=Host(`${PUBLIC_URL}`) && (PathPrefix(`/ClassicUI`))
+        - traefik.http.routers.${STACK_PREFIX}-classicui.entrypoints=https
+        - traefik.http.routers.${STACK_PREFIX}-classicui.tls=true
+        - traefik.http.routers.${STACK_PREFIX}-classicui.service=${STACK_PREFIX}-backend
+        - traefik.http.routers.${STACK_PREFIX}-classicui.middlewares=gzip,${STACK_PREFIX}-backend-auth,${STACK_PREFIX}-vhm-classicui
+
+# Network name doesn't need to parameterised, is prefixed by the stack name by Docker Swarm
+networks:
+  public:
+    external: true
+  nw-internal:
+    internal: true
+    driver: overlay

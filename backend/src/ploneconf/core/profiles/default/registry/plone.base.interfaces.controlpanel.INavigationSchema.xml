@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registry>
+  <records interface="plone.base.interfaces.controlpanel.INavigationSchema"
+           prefix="plone"
+  >
+    <value key="displayed_types"
+           purge="true"
+    >
+      <element>Link</element>
+      <element>Document</element>
+      <element>SponsorsDB</element>
+      <element>SponsorLevel</element>
+    </value>
+  </records>
+</registry>

@@ -1,0 +1,63 @@
+{
+  "name": "volto-ploneconf-core",
+  "version": "1.0.0-alpha.0",
+  "description": "Site for the 2025 edition of the Plone Conference",
+  "main": "src/index.js",
+  "license": "MIT",
+  "keywords": [
+    "volto-addon",
+    "volto",
+    "plone",
+    "react"
+  ],
+  "author": "Plone Foundation",
+  "homepage": "https://github.com/plone/volto-ploneconf-core#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:plone/volto-ploneconf-core.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "i18n": "rm -rf build/messages && NODE_ENV=production i18n --addon",
+    "dry-release": "release-it --dry-run",
+    "release": "release-it",
+    "release-major-alpha": "release-it major --preRelease=alpha",
+    "release-alpha": "release-it --preRelease=alpha"
+  },
+  "addons": [
+    "@eeacms/volto-accordion-block",
+    "@kitconcept/volto-slider-block",
+    "@kitconcept/volto-social-blocks",
+    "@mbarde/volto-image-crop-widget",
+    "volto-form-block",
+    "@plonegovbr/volto-network-block",
+    "@kitconcept/volto-separator-block",
+    "@kitconcept/volto-button-block",
+    "@plone-collective/volto-authomatic",
+    "@plone-collective/volto-eventbrite-block",
+    "@kitconcept/volto-heading-block",
+    "@kitconcept/volto-light-theme",
+    "@eeacms/volto-matomo"
+  ],
+  "dependencies": {
+    "@plone/components": "workspace:*",
+    "@kitconcept/volto-light-theme": "6.0.0-alpha.16",
+    "@plone-collective/volto-authomatic": "2.0.1",
+    "@plone-collective/volto-eventbrite-block": "1.0.0-alpha.1",
+    "@plonegovbr/volto-network-block": "1.0.0",
+    "@kitconcept/volto-social-blocks": "1.0.0-alpha.4",
+    "@mbarde/volto-image-crop-widget": "0.5.1",
+    "volto-form-block": "3.11.0",
+    "@eeacms/volto-matomo": "5.0.0"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@plone/scripts": "^3.6.1",
+    "release-it": "^17.1.1"
+  }
+}
