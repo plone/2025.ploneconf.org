@@ -37,7 +37,7 @@ services:
         - traefik.http.routers.${STACK_PREFIX}-frontend.tls=true
         - traefik.http.routers.${STACK_PREFIX}-frontend.tls.certresolver=le
         - traefik.http.routers.${STACK_PREFIX}-frontend.service=${STACK_PREFIX}-frontend
-        - traefik.http.routers.${STACK_PREFIX}-frontend.middlewares=gzip
+        - traefik.http.routers.${STACK_PREFIX}-frontend.middlewares=gzip,${STACK_PREFIX}-frontend-auth
 
   backend:
     image: ${BACKEND_IMAGE}:${STACK_PARAM:-latest}
@@ -83,6 +83,8 @@ services:
         - traefik.http.routers.${STACK_PREFIX}-classicui.tls=true
         - traefik.http.routers.${STACK_PREFIX}-classicui.service=${STACK_PREFIX}-backend
         - traefik.http.routers.${STACK_PREFIX}-classicui.middlewares=gzip,${STACK_PREFIX}-backend-auth,${STACK_PREFIX}-vhm-classicui
+
+networks:
 
 # Network name doesn't need to parameterised, is prefixed by the stack name by Docker Swarm
 networks:
