@@ -110,6 +110,7 @@ jobs:
           NEED_FRONTEND: ${{ needs.config.outputs.frontend }}
           FINISHED_BACKEND: ${{ needs.backend.result }}
           FINISHED_FRONTEND: ${{ needs.frontend.result }}
+          GITHUB_REF: ${{ github.ref }}
         run: |
           if [[ "${NEED_BACKEND}" == "true" && "${FINISHED_BACKEND}" != "success" ]]; then
             echo "::error::Backend image not built succesfully, but required for deploy"
@@ -117,6 +118,15 @@ jobs:
           fi
           if [[ "${NEED_FRONTEND}" == "true" && "${FINISHED_FRONTEND}" != "success" ]]; then
             echo "::error::Fontend image not built succesfully, but required for deploy"
+            exit 1
+          fi
+          fi
+          if [[ "${NEED_FRONTEND}" == "false" && "${NEED_BACKEND}" == "false" ]]; then
+            echo "::error::Merge to main, but no deploy needed. Aborting."
+            exit 1
+          fi
+          if [[ "${GITHUB_REF}" != "refs/heads/main" ]]; then
+            echo "::error::No merge to main. Aborting."
             exit 1
           fi
 
