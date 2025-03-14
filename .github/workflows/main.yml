@@ -1,4 +1,4 @@
-name: Plone Conference 2025 CI
+name: Plone Conference testing CI
 
 on:
   push:
@@ -15,6 +15,12 @@ env:
   IMAGE_NAME_PREFIX: ghcr.io/plone/2025.ploneconf.org
   NODE_VERSION: "22.x"
   PYTHON_VERSION: "3.12"
+  STACK_PARAM: latest
+  STACK_NAME: testing-ploneconf-org
+  STACK_PREFIX: testing_ploneconf
+  PUBLIC_URL: testing.ploneconf.org
+  CERTRESOLVER: le-cloudflare
+  STACK_FILE: devops/stacks/testing.ploneconf.org.yml
 
 jobs:
   config:
@@ -85,3 +91,54 @@ jobs:
     permissions:
       contents: read
       packages: write
+
+  deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
+    concurrency: deploy_testing
+    needs: >-
+      ${{
+        fromJSON(format('["config",{0}{1}]',
+          needs.config.outputs.backend == 'true' && '"backend"' || '',
+          needs.config.outputs.frontend == 'true' && (needs.config.outputs.backend == 'true' && ',"frontend"' || '"frontend"') || ''
+        ))
+      }}
+    runs-on: ubuntu-latest
+    environment:
+        name: ${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}
+        url: https://${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Test vars
+        run: |
+          echo "DEPLOY_ENVIRONMENT=${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}"
+          echo "PLONE_VERSION=${{ needs.meta.outputs.PLONE_VERSION }}"
+
+      - name: Deploy to testingtagung.plone.de
+        uses: kitconcept/docker-stack-deploy@v1.2.0
+        with:
+          registry: 'ghcr.io'
+          username: ${{ github.actor }}
+          password: ${{ secrets.DEPLOY_GHCR_READ_TOKEN }}
+          remote_host: ${{ vars.DEPLOY_HOST }}
+          remote_port: ${{ vars.DEPLOY_PORT }}
+          remote_user: ${{ vars.DEPLOY_USER }}
+          remote_private_key: ${{ secrets.DEPLOY_SSH }}
+          stack_file: ${{ env.STACK_FILE }}
+          stack_name: ${{ env.STACK_NAME }}
+          env_file: |
+            STACK_NAME=${{ env.STACK_NAME }}
+            STACK_PREFIX=${{ env.STACK_PREFIX }}
+            PUBLIC_URL=${{ env.PUBLIC_URL }}
+            CERTRESOLVER=${{ env.CERTRESOLVER }}
+            BACKEND_IMAGE=${{ env.IMAGE_NAME_PREFIX }}-backend
+            FRONTEND_IMAGE=${{ env.IMAGE_NAME_PREFIX }}-frontend
+            DB_HOST=${{ vars.DB_HOST }}
+            DB_NAME=${{ vars.DB_NAME }}
+            DB_USER=${{ vars.DB_USER }}
+            DB_PASSWORD=${{ secrets.DB_PASSWORD }}
+            BASIC_AUTH_USER=${{ vars.BASIC_AUTH_USER }}
+            BASIC_AUTH_PASSWORD=${{ vars.BASIC_AUTH_PASSWORD }}
+          deploy_timeout: 480
