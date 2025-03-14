@@ -44,14 +44,15 @@ jobs:
         run: |
           echo "BASE_TAG=sha-$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
           echo "PLONE_VERSION=$(cat backend/version.txt)" >> $GITHUB_OUTPUT
-          echo "DEPLOY_ENVIRONMENT=${{ env.PUBLIC_URL }}" >> $GITHUB_OUTPUT
           python3 -c 'import json; data = json.load(open("./frontend/mrs.developer.json")); print("VOLTO_VERSION=" + (data["core"].get("tag") or "latest"))' >> $GITHUB_OUTPUT
+          echo "DEPLOY_ENVIRONMENT=${{ env.PUBLIC_URL }}" >> $GITHUB_OUTPUT
 
       - name: Test vars
         run: |
           echo 'BASE_TAG=${{ steps.vars.outputs.BASE_TAG }}'
           echo 'PLONE_VERSION=${{ steps.vars.outputs.PLONE_VERSION }}'
           echo 'VOLTO_VERSION=${{ steps.vars.outputs.VOLTO_VERSION }}'
+          echo "DEPLOY_ENVIRONMENT=${{ env.PUBLIC_URL }}" >> $GITHUB_OUTPUT
 
       - uses: dorny/paths-filter@v3
         id: filter
@@ -101,8 +102,8 @@ jobs:
     timeout-minutes: 8
     runs-on: ubuntu-latest
     environment:
-        name: ${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}
-        url: https://${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}
+        name: ${{ needs.config.outputs.DEPLOY_ENVIRONMENT }}
+        url: https://${{ needs.config.outputs.DEPLOY_ENVIRONMENT }}
     steps:
 
       - name: Verify container builds
@@ -138,6 +139,7 @@ jobs:
         run: |
           echo "DEPLOY_ENVIRONMENT=${{ needs.config.outputs.DEPLOY_ENVIRONMENT }}"
           echo "PLONE_VERSION=${{ needs.config.outputs.PLONE_VERSION }}"
+          echo "VOlTO_VERSION=${{ needs.config.outputs.VOLTO_VERSION }}"
 
       - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
