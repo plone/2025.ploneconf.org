@@ -1,4 +1,4 @@
-name: Plone Conference testing CI
+name: Main branch deploy testing
 
 on:
   push:

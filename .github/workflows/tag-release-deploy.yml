@@ -1,4 +1,4 @@
-name: Plone Conference testing CI
+name: Live tag release deploy
 
 on:
   push:
@@ -123,5 +123,7 @@ jobs:
             DB_USER=${{ vars.DB_USER }}
             DB_PASSWORD=${{ secrets.DB_PASSWORD }}
             BASIC_AUTH_USER=${{ vars.BASIC_AUTH_USER }}
-            BASIC_AUTH_PASSWORD=${{ vars.BASIC_AUTH_PASSWORD }}
+            BASIC_AUTH_PASSWORD_FRONTEND=${{ vars.BASIC_AUTH_PASSWORD_FRONTEND }}
+            BASIC_AUTH_PASSWORD_CLASSICUI=${{ vars.BASIC_AUTH_PASSWORD_CLASSICUI }}
+
           deploy_timeout: 480
