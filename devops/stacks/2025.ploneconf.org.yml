@@ -30,14 +30,14 @@ services:
         - traefik.http.services.${STACK_PREFIX}-frontend.loadbalancer.server.port=3000
         # MIDDLEWARES
         ### ClassicUI Access Authentication
-        - traefik.http.middlewares.${STACK_PREFIX}-frontend-auth.basicauth.users=${BASIC_AUTH_USER}:${BASIC_AUTH_PASSWORD}
+        - traefik.http.middlewares.${STACK_PREFIX}-frontend-auth.basicauth.users=${BASIC_AUTH_USER}:${BASIC_AUTH_PASSWORD_FRONTEND}
         # HOSTS: Main
         - traefik.http.routers.${STACK_PREFIX}-frontend.rule=Host(`${PUBLIC_URL}`)
         - traefik.http.routers.${STACK_PREFIX}-frontend.entrypoints=https
         - traefik.http.routers.${STACK_PREFIX}-frontend.tls=true
         - traefik.http.routers.${STACK_PREFIX}-frontend.tls.certresolver=le
         - traefik.http.routers.${STACK_PREFIX}-frontend.service=${STACK_PREFIX}-frontend
-        - traefik.http.routers.${STACK_PREFIX}-frontend.middlewares=gzip,${STACK_PREFIX}-frontend-auth
+        - traefik.http.routers.${STACK_PREFIX}-frontend.middlewares=gzip
 
   backend:
     image: ${BACKEND_IMAGE}:${STACK_PARAM:-latest}
@@ -63,7 +63,7 @@ services:
         - traefik.http.services.${STACK_PREFIX}-backend.loadbalancer.server.port=8080
         # MIDDLEWARES
         ### ClassicUI Access Authentication
-        - traefik.http.middlewares.${STACK_PREFIX}-backend-auth.basicauth.users=${BASIC_AUTH_USER}:${BASIC_AUTH_PASSWORD}
+        - traefik.http.middlewares.${STACK_PREFIX}-backend-auth.basicauth.users=${BASIC_AUTH_USER}:${BASIC_AUTH_PASSWORD_CLASSICUI}
         ### Backend ++api++ VHM
         - "traefik.http.middlewares.${STACK_PREFIX}-vhm.replacepathregex.regex=^/\\+\\+api\\+\\+($$|/.*)"
         - "traefik.http.middlewares.${STACK_PREFIX}-vhm.replacepathregex.replacement=/VirtualHostBase/https/${PUBLIC_URL}/Plone/++api++/VirtualHostRoot/$$1"
