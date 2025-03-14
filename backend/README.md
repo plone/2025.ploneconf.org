@@ -1,6 +1,6 @@
 # ploneconf.core
 
-Site for the 2025 edition of the Plone Conference.
+Site for the 2025 edition of the Plone Conference..
 
 ## Features
 
