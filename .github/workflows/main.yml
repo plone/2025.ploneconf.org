@@ -120,7 +120,6 @@ jobs:
             echo "::error::Fontend image not built succesfully, but required for deploy"
             exit 1
           fi
-          fi
           if [[ "${NEED_FRONTEND}" == "false" && "${NEED_BACKEND}" == "false" ]]; then
             echo "::error::Merge to main, but no deploy needed. Aborting."
             exit 1
@@ -151,6 +150,9 @@ jobs:
           remote_private_key: ${{ secrets.DEPLOY_SSH }}
           stack_file: ${{ env.STACK_FILE }}
           stack_name: ${{ env.STACK_NAME }}
+          # stack_param: container version/tag. because we don't specify it here 'latest' is used in the stack file.
+          # 'latest' is needed because one of the backend/frontend iamges was maybe not built on this base_tag
+          # Then we re-use the existing latest ;-)
           env_file: |
             STACK_NAME=${{ env.STACK_NAME }}
             STACK_PREFIX=${{ env.STACK_PREFIX }}
