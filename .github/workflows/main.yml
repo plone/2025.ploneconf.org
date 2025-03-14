@@ -93,21 +93,33 @@ jobs:
       packages: write
 
   deploy:
-    if: ${{ github.ref == 'refs/heads/main' }}
     concurrency: deploy_testing
-    needs: >-
-      ${{
-        fromJSON(format('["config",{0}{1}]',
-          needs.config.outputs.backend == 'true' && '"backend"' || '',
-          needs.config.outputs.frontend == 'true' && (needs.config.outputs.backend == 'true' && ',"frontend"' || '"frontend"') || ''
-        ))
-      }}
+    needs: [config, backend, frontend]
+    if: always()
+    timeout-minutes: 8
     runs-on: ubuntu-latest
     environment:
         name: ${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}
         url: https://${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}
-
     steps:
+
+      - name: Verify container builds
+        id: verify_image_builds
+        env:
+          NEED_BACKEND: ${{ needs.config.outputs.backend }}
+          NEED_FRONTEND: ${{ needs.config.outputs.frontend }}
+          FINISHED_BACKEND: ${{ needs.backend.result }}
+          FINISHED_FRONTEND: ${{ needs.frontend.result }}
+        run: |
+          if [[ "${NEED_BACKEND}" == "true" && "${FINISHED_BACKEND}" != "success" ]]; then
+            echo "::error::Backend image not built succesfully, but required for deploy"
+            exit 1
+          fi
+          if [[ "${NEED_FRONTEND}" == "true" && "${FINISHED_FRONTEND}" != "success" ]]; then
+            echo "::error::Fontend image not built succesfully, but required for deploy"
+            exit 1
+          fi
+
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -116,8 +128,9 @@ jobs:
           echo "DEPLOY_ENVIRONMENT=${{ needs.meta.outputs.DEPLOY_ENVIRONMENT }}"
           echo "PLONE_VERSION=${{ needs.meta.outputs.PLONE_VERSION }}"
 
-      - name: Deploy to testingtagung.plone.de
+      - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           registry: 'ghcr.io'
           username: ${{ github.actor }}
