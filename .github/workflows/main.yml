@@ -124,11 +124,11 @@ jobs:
             exit 1
           fi
           if [[ "${NEED_FRONTEND}" == "false" && "${NEED_BACKEND}" == "false" ]]; then
-            echo "::error::Merge to main, but no deploy needed. Aborting."
+            echo "::warning::Merge to main, but no deploy needed. Aborting."
             exit 1
           fi
           if [[ "${GITHUB_REF}" != "refs/heads/main" ]]; then
-            echo "::error::No merge to main. Aborting."
+            echo "::warning::No merge to main. Aborting."
             exit 1
           fi
 

@@ -1,6 +1,6 @@
 # Plone Conference 2025 (volto-ploneconf-core)
 
-Site for the 2025 edition of the Plone Conference..
+Site for the 2025 edition of the Plone Conference.
 
 [![npm](https://img.shields.io/npm/v/volto-ploneconf-core)](https://www.npmjs.com/package/volto-ploneconf-core)
 [![](https://img.shields.io/badge/-Storybook-ff4785?logo=Storybook&logoColor=white&style=flat-square)](https://plone.github.io/volto-ploneconf-core/)
