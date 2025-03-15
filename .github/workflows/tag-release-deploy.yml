@@ -99,7 +99,6 @@ jobs:
 
       - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           registry: 'ghcr.io'
           username: ${{ github.actor }}
