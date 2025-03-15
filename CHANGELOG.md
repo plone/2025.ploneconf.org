@@ -1,6 +1,6 @@
 # Changes
 
-## 0.5.1 (unreleased)
+## 0.5.1 (2025-03-15)
 
 
 - Update tag release GHA workflow. [fredvd]
