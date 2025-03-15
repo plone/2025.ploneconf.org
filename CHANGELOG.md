@@ -1,6 +1,6 @@
 # Changes
 
-## 0.5.2 (unreleased)
+## 0.5.2 (2025-03-15)
 
 
 - Test release. [fredvd]
