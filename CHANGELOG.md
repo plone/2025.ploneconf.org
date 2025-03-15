@@ -1,5 +1,7 @@
 # Changes
 
-## 1.0.0 (2025-03-05)
+## 0.5.0.dev0 (unreleased)
 
-- Initial version [plone]
+- Adaptation for plone foundation CI/CD [ericof, fredvd]
+
+- Initial version [ericof, fredvd]
