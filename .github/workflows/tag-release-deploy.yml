@@ -79,7 +79,6 @@ jobs:
       packages: write
 
   deploy:
-    concurrency: deploy_live
     needs: [config, backend, frontend]
     runs-on: ubuntu-latest
     environment:
@@ -95,7 +94,8 @@ jobs:
           echo "DEPLOY_ENVIRONMENT=${{ needs.config.outputs.DEPLOY_ENVIRONMENT }}"
           echo "PLONE_VERSION=${{ needs.config.outputs.PLONE_VERSION }}"
           echo "VOlTO_VERSION=${{ needs.config.outputs.VOLTO_VERSION }}"
-  
+          echo "TAG=${{ needs.config.outputs.TAG }}"
+          echo "BASE_TAG=${{ needs.config.outputs.BASE_TAG }}"  
 
       - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
@@ -110,10 +110,10 @@ jobs:
           remote_private_key: ${{ secrets.DEPLOY_SSH }}
           stack_file: ${{ env.STACK_FILE }}
           stack_name: ${{ env.STACK_NAME }}
+          stack_param: ${{ needs.config.outputs.TAG }}
           env_file: |
             STACK_NAME=${{ env.STACK_NAME }}
             STACK_PREFIX=${{ env.STACK_PREFIX }}
-            STACK_PARAM=${{ needs.config.outputs.TAG }}
             PUBLIC_URL=${{ env.PUBLIC_URL }}
             CERTRESOLVER=${{ env.CERTRESOLVER }}
             BACKEND_IMAGE=${{ env.IMAGE_NAME_PREFIX }}-backend

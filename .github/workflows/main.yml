@@ -116,20 +116,16 @@ jobs:
           GITHUB_REF: ${{ github.ref }}
         run: |
           if [[ "${NEED_BACKEND}" == "true" && "${FINISHED_BACKEND}" != "success" ]]; then
-            echo "::error::Backend image not built succesfully, but required for deploy"
-            exit 1
+            echo "::warning::Backend image not built succesfully, but required for deploy"
           fi
           if [[ "${NEED_FRONTEND}" == "true" && "${FINISHED_FRONTEND}" != "success" ]]; then
-            echo "::error::Fontend image not built succesfully, but required for deploy"
-            exit 1
+            echo "::warning::Fontend image not built succesfully, but required for deploy"
           fi
           if [[ "${NEED_FRONTEND}" == "false" && "${NEED_BACKEND}" == "false" ]]; then
             echo "::warning::Merge to main, but no deploy needed. Aborting."
-            exit 1
           fi
           if [[ "${GITHUB_REF}" != "refs/heads/main" ]]; then
             echo "::warning::No merge to main. Aborting."
-            exit 1
           fi
 
       - name: Checkout
@@ -143,7 +139,7 @@ jobs:
 
       - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ always() && github.ref == 'refs/heads/main' && !contains(needs.*.result, 'failure') }}
         with:
           registry: 'ghcr.io'
           username: ${{ github.actor }}
