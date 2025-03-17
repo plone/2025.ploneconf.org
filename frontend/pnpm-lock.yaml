@@ -1538,9 +1538,6 @@ importers:
       '@mbarde/volto-image-crop-widget':
         specifier: 0.5.1
         version: 0.5.1(react@18.2.0)
-      '@plone-collective/volto-authomatic':
-        specifier: 2.0.1
-        version: 2.0.1(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))
       '@plone-collective/volto-eventbrite-block':
         specifier: 1.0.0-alpha.1
         version: 1.0.0-alpha.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))
@@ -3485,11 +3482,6 @@ packages:
   '@pkgr/core@0.1.1':
     resolution: {integrity: sha512-cq8o4cWH0ibXh9VGi5P20Tu9XF/0fFXl9EUinr9QfTM7a7p0oTA4iJRCQWppXR1Pg8dSM0UCItCkPwsk9qWWYA==}
     engines: {node: ^12.20.0 || ^14.18.0 || >=16.0.0}
-
-  '@plone-collective/volto-authomatic@2.0.1':
-    resolution: {integrity: sha512-V92EN+5NcxturfGjFsNo1h/c0GC5UgvjOWIUuhSB99XOj7R4X/gM/GxqVH5fRYkM3tp9h6ux82wBpnMSIOyStQ==}
-    peerDependencies:
-      '@plone/volto': '>=13.8.0'
 
   '@plone-collective/volto-eventbrite-block@1.0.0-alpha.1':
     resolution: {integrity: sha512-+P/WPRPA4kdLszO85GiGO0FGX1Ty3nNdXf96G6OBAVapcKLIIH/+Lna1mdXI2J92UAr+8sef98FtECnKibPxNA==}
@@ -16811,10 +16803,6 @@ snapshots:
     optional: true
 
   '@pkgr/core@0.1.1': {}
-
-  '@plone-collective/volto-authomatic@2.0.1(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))':
-    dependencies:
-      '@plone/volto': 18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
 
   '@plone-collective/volto-eventbrite-block@1.0.0-alpha.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))':
     dependencies:

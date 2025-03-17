@@ -3,7 +3,7 @@
 ## 0.5.3 (unreleased)
 
 
-- Nothing changed yet.
+- Remove volto-authomatic from frontend. [fredvd]
 
 
 ## 0.5.2 (2025-03-15)

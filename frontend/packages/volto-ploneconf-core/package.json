@@ -35,7 +35,6 @@
     "@plonegovbr/volto-network-block",
     "@kitconcept/volto-separator-block",
     "@kitconcept/volto-button-block",
-    "@plone-collective/volto-authomatic",
     "@plone-collective/volto-eventbrite-block",
     "@kitconcept/volto-heading-block",
     "@kitconcept/volto-light-theme",
@@ -44,7 +43,6 @@
   "dependencies": {
     "@plone/components": "workspace:*",
     "@kitconcept/volto-light-theme": "6.0.0-alpha.16",
-    "@plone-collective/volto-authomatic": "2.0.1",
     "@plone-collective/volto-eventbrite-block": "1.0.0-alpha.1",
     "@plonegovbr/volto-network-block": "1.0.0",
     "@kitconcept/volto-social-blocks": "1.0.0-alpha.4",
