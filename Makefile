@@ -219,3 +219,18 @@ ci-acceptance-test:
 	pnpm dlx wait-on --httpTimeout 20000 http-get://localhost:55001/plone http://localhost:3000
 	$(MAKE) -C "./frontend/" ci-acceptance-test
 	$(MAKE) acceptance-containers-stop
+
+.PHONY:
+devenv-test:
+	@echo CODESPACE_NAME=$$CODESPACE_NAME >.env
+	@echo GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN=$$GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN >>.env
+	@devenv test
+
+.PHONY:
+devenv-up:
+	@echo CODESPACE_NAME=$$CODESPACE_NAME >.env
+	@echo GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN=$$GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN >>.env
+	@devenv up
+
+.PHONY:
+up: devenv-up  ## Start services at GitHub Codespaces

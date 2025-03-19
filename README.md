@@ -117,6 +117,18 @@ Generate translation files for Plone and Volto with ease:
 make i18n
 ```
 
+## GitHub Codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/plone/2025.ploneconf.org)
+
+This repository has experimental support for developing with GitHub Codespaces. Its [Devenv](https://devenv.sh) based setup requires a few minutes to build and start up for the first time. First the space is ready, developed site could be started with:
+
+```shell
+make up
+```
+
+This will eventually start proxied site at port 8000, with backend proxied at path /api.
+
 ## Credits and Acknowledgements 🙏
 
 Generated using [Cookieplone (0.8.4)](https://github.com/plone/cookieplone) and [cookieplone-templates (fee8300)](https://github.com/plone/cookieplone-templates/commit/fee830099b17807699071b99c3c4ee92a08f1547) on 2025-03-05 10:26:44.465074. A special thanks to all contributors and supporters!

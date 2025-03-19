@@ -3,3 +3,8 @@ node_modules
 /core
 /public
 *.mo
+.env
+.devenv*
+.pre-commit-config.yaml
+devenv.local.nix
+/instance/

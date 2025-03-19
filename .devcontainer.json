@@ -1,0 +1,29 @@
+{
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "charliermarsh.ruff",
+        "redhat.vscode-yaml",
+        "ms-vscode.makefile-tools",
+        "bbenoist.Nix"
+      ]
+    }
+  },
+  "image": "ghcr.io/cachix/devenv:v1.3.1",
+  "overrideCommand": false,
+  "updateContentCommand": "make devenv-test",
+  "portsAttributes": {
+    "3000": {
+      "label": "frontend"
+    },
+    "3001": {
+      "label": "webpack"
+    },
+    "8000": {
+      "label": "proxy"
+    },
+    "8080": {
+      "label": "backend"
+    }
+  }
+}
