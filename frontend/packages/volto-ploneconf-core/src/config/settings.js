@@ -40,5 +40,8 @@ export default function installSettings(config) {
     ],
   };
 
+  config.settings.matomoSiteId = '15';
+  config.settings.matomoUrlBase = 'https://stats.ploneconf.org/';
+
   return config;
 }

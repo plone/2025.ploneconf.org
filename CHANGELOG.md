@@ -3,7 +3,7 @@
 ## 0.5.4 (unreleased)
 
 
-- Nothing changed yet.
+- Configure volto-matomo with site id on stats.plone.org. [fredvd]
 
 
 ## 0.5.3 (2025-03-17)
