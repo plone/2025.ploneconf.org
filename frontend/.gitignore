@@ -1,6 +1,7 @@
 .*project
 .settings/
 .vscode
+.nvmrc
 *~
 acceptance/cypress/videos/
 acceptance/node_modules

@@ -90,8 +90,8 @@ importers:
         specifier: ^5.59.0
         version: 5.67.1(react@18.2.0)
       axios:
-        specifier: ^1.6.7
-        version: 1.8.1(debug@4.3.4)
+        specifier: ^1.8.2
+        version: 1.8.4(debug@4.3.4)
       debug:
         specifier: 4.3.4
         version: 4.3.4(supports-color@8.1.1)
@@ -1519,6 +1519,12 @@ importers:
       cypress-file-upload:
         specifier: 5.0.8
         version: 5.0.8(cypress@13.13.2)
+      react:
+        specifier: ^18.2.0
+        version: 18.2.0
+      react-dom:
+        specifier: ^18.2.0
+        version: 18.2.0(react@18.2.0)
     devDependencies:
       release-it:
         specifier: ^17.1.1
@@ -1531,10 +1537,10 @@ importers:
         version: 5.0.0(react@18.2.0)
       '@kitconcept/volto-light-theme':
         specifier: 6.0.0-alpha.16
-        version: 6.0.0-alpha.16(@eeacms/volto-accordion-block@10.4.6)(@kitconcept/volto-button-block@3.0.3(classnames@2.5.1)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0))(@kitconcept/volto-dsgvo-banner@2.3.2)(@kitconcept/volto-heading-block@2.4.0(react@18.2.0))(@kitconcept/volto-highlight-block@4.0.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-introduction-block@1.0.0)(@kitconcept/volto-separator-block@4.1.2(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5)))(@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0))(classnames@2.5.1)(lodash@4.17.21)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react-redux@8.1.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1))(react-router-dom@5.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))
+        version: 6.0.0-alpha.16(@eeacms/volto-accordion-block@10.4.6)(@kitconcept/volto-button-block@3.0.3(classnames@2.5.1)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0))(@kitconcept/volto-dsgvo-banner@2.3.2)(@kitconcept/volto-heading-block@2.4.0(react@18.2.0))(@kitconcept/volto-highlight-block@4.0.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-introduction-block@1.0.0)(@kitconcept/volto-separator-block@4.1.2(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5)))(@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0))(classnames@2.5.1)(lodash@4.17.21)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react-redux@8.1.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1))(react-router-dom@5.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))
       '@kitconcept/volto-social-blocks':
         specifier: 1.0.0-alpha.4
-        version: 1.0.0-alpha.4(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
+        version: 1.0.0-alpha.4(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@mbarde/volto-image-crop-widget':
         specifier: 0.5.1
         version: 0.5.1(react@18.2.0)
@@ -1546,7 +1552,7 @@ importers:
         version: link:../../core/packages/components
       '@plonegovbr/volto-network-block':
         specifier: 1.0.0
-        version: 1.0.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))
+        version: 1.0.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))
       react:
         specifier: 18.2.0
         version: 18.2.0
@@ -1555,7 +1561,7 @@ importers:
         version: 18.2.0(react@18.2.0)
       volto-form-block:
         specifier: 3.11.0
-        version: 3.11.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(volto-subblocks@2.1.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0))
+        version: 3.11.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(volto-subblocks@2.1.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0))
     devDependencies:
       '@plone/scripts':
         specifier: ^3.6.1
@@ -3520,14 +3526,14 @@ packages:
     resolution: {integrity: sha512-QjZvqJZxawcb+aPA3oByHLCsPmpoZ6Q6ogJxvFGmpS9Oo/+rHDZTYtsRHZ5waS0TfUj0znnX896KD6KY5afAjQ==}
     hasBin: true
 
-  '@plone/volto-slate@18.2.2':
-    resolution: {integrity: sha512-Qnsniug09UfgUGBv7+SOtEDoatIGmy4vtiKA5x/chf0IG8FoRsgD0H9FVrEr3Yn6Zai+jj+qDhAjYwjLEelMcA==}
+  '@plone/volto-slate@18.2.3':
+    resolution: {integrity: sha512-xavWmbKbI/vi9UxObQwlq0aS6zRnmnW9weEzcZVAFJ2pCrT4mfUDywqeQ8zetDMIet/U3enBPvQcNe0zdNw5Og==}
     peerDependencies:
       react: ^18.2.0
       react-dom: ^18.2.0
 
-  '@plone/volto@18.9.1':
-    resolution: {integrity: sha512-AdguRl83wdzbCF6++2BYdCoYnJWXY/+7uFHETm+U/eED63FT0G6X/EPd7drs3MYMXZsIwjoKI7q33bkeO67MGw==}
+  '@plone/volto@18.10.1':
+    resolution: {integrity: sha512-wVthZeEm1+lNW+v01z2NxLUBh1XAI/YAajU0X4vny6Tmo2moyz0gS+BNhFeICqRHVEW6vrmpzTa3ZL/NQyxtog==}
     engines: {node: ^20 || ^22}
 
   '@plonegovbr/volto-network-block@1.0.0':
@@ -5719,8 +5725,8 @@ packages:
   axios@0.24.0:
     resolution: {integrity: sha512-Q6cWsys88HoPgAaFAVUb0WpPk0O8iTeisR9IMqy9G8AbO4NlpVknrnQS03zzF9PGAWgO3cgletO3VjV/P7VztA==}
 
-  axios@1.8.1:
-    resolution: {integrity: sha512-NN+fvwH/kV01dYUQ3PTOZns4LWtWhOFCAhQ/pHb88WQ1hNe5V/dvFwc4VJcDL11LT9xSX0QtsR8sWUuyOuOq7g==}
+  axios@1.8.4:
+    resolution: {integrity: sha512-eBSYY4Y68NNlHbHBMdeDmKNtDgXWhQsJcGqzO3iLUM0GraQFSS9cVgPX5I9b3lbdFKyYoAEGAZF1DwhTaljNAw==}
 
   axobject-query@4.1.0:
     resolution: {integrity: sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ==}
@@ -16200,7 +16206,7 @@ snapshots:
 
   '@kitconcept/volto-introduction-block@1.0.0': {}
 
-  ? '@kitconcept/volto-light-theme@6.0.0-alpha.16(@eeacms/volto-accordion-block@10.4.6)(@kitconcept/volto-button-block@3.0.3(classnames@2.5.1)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0))(@kitconcept/volto-dsgvo-banner@2.3.2)(@kitconcept/volto-heading-block@2.4.0(react@18.2.0))(@kitconcept/volto-highlight-block@4.0.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-introduction-block@1.0.0)(@kitconcept/volto-separator-block@4.1.2(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5)))(@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0))(classnames@2.5.1)(lodash@4.17.21)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react-redux@8.1.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1))(react-router-dom@5.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))'
+  ? '@kitconcept/volto-light-theme@6.0.0-alpha.16(@eeacms/volto-accordion-block@10.4.6)(@kitconcept/volto-button-block@3.0.3(classnames@2.5.1)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0))(@kitconcept/volto-dsgvo-banner@2.3.2)(@kitconcept/volto-heading-block@2.4.0(react@18.2.0))(@kitconcept/volto-highlight-block@4.0.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-introduction-block@1.0.0)(@kitconcept/volto-separator-block@4.1.2(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5)))(@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0))(classnames@2.5.1)(lodash@4.17.21)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react-redux@8.1.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1))(react-router-dom@5.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))'
   : dependencies:
       '@eeacms/volto-accordion-block': 10.4.6
       '@kitconcept/volto-button-block': 3.0.3(classnames@2.5.1)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)
@@ -16209,7 +16215,7 @@ snapshots:
       '@kitconcept/volto-highlight-block': 4.0.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@kitconcept/volto-introduction-block': 1.0.0
       '@kitconcept/volto-separator-block': 4.1.2(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))
-      '@kitconcept/volto-slider-block': 6.3.1(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0)
+      '@kitconcept/volto-slider-block': 6.3.1(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0)
       '@plone/components': 3.0.2(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.3(prettier@3.2.5))
       classnames: 2.5.1
       lodash: 4.17.21
@@ -16233,9 +16239,9 @@ snapshots:
     transitivePeerDependencies:
       - storybook
 
-  '@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0)':
+  '@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.5.2)(react@18.2.0)':
     dependencies:
-      '@plone/volto': 18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
+      '@plone/volto': 18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
       deepmerge: 4.2.2
       embla-carousel-autoplay: 8.5.2(embla-carousel@8.5.2)
       embla-carousel-react: 8.5.2(react@18.2.0)
@@ -16243,9 +16249,9 @@ snapshots:
       - embla-carousel
       - react
 
-  '@kitconcept/volto-social-blocks@1.0.0-alpha.4(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)':
+  '@kitconcept/volto-social-blocks@1.0.0-alpha.4(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)':
     dependencies:
-      '@plone/volto': 18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
+      '@plone/volto': 18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
       react-social-media-embed: 2.5.18(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
     transitivePeerDependencies:
       - react
@@ -16894,7 +16900,7 @@ snapshots:
       - debug
       - supports-color
 
-  '@plone/volto-slate@18.2.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1)':
+  '@plone/volto-slate@18.2.3(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1)':
     dependencies:
       classnames: 2.2.6
       github-slugger: 1.4.0
@@ -16928,13 +16934,13 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)':
+  '@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)':
     dependencies:
       '@loadable/component': 5.14.1(react@18.2.0)
       '@loadable/server': 5.14.0(@loadable/component@5.14.1(react@18.2.0))(react@18.2.0)
       '@plone/registry': 2.4.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@plone/scripts': 3.8.2(debug@4.3.2)
-      '@plone/volto-slate': 18.2.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1)
+      '@plone/volto-slate': 18.2.3(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1)
       '@redux-devtools/extension': 3.3.0(redux@4.2.1)
       classnames: 2.2.6
       connected-react-router: 6.8.0(history@4.10.1)(immutable@3.8.2)(react-redux@8.1.2(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1))(react-router@5.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1)(seamless-immutable@7.1.4)
@@ -17035,9 +17041,9 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@plonegovbr/volto-network-block@1.0.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))':
+  '@plonegovbr/volto-network-block@1.0.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))':
     dependencies:
-      '@plone/volto': 18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
+      '@plone/volto': 18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
 
   '@pmmmwh/react-refresh-webpack-plugin@0.5.15(react-refresh@0.14.2)(sockjs-client@1.4.0)(type-fest@2.19.0)(webpack-dev-server@4.11.1(debug@4.3.2)(webpack@5.90.1(esbuild@0.25.0)))(webpack-hot-middleware@2.26.1)(webpack@5.90.1(esbuild@0.25.0))':
     dependencies:
@@ -20029,7 +20035,7 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
-  axios@1.8.1(debug@4.3.2):
+  axios@1.8.4(debug@4.3.2):
     dependencies:
       follow-redirects: 1.15.9(debug@4.3.2)
       form-data: 4.0.2
@@ -20037,7 +20043,7 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
-  axios@1.8.1(debug@4.3.4):
+  axios@1.8.4(debug@4.3.4):
     dependencies:
       follow-redirects: 1.15.9(debug@4.3.4)
       form-data: 4.0.2
@@ -30769,20 +30775,20 @@ snapshots:
       - terser
     optional: true
 
-  volto-form-block@3.11.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(volto-subblocks@2.1.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0)):
+  volto-form-block@3.11.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(volto-subblocks@2.1.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0)):
     dependencies:
       '@hcaptcha/react-hcaptcha': 0.3.10(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
-      '@plone/volto': 18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
+      '@plone/volto': 18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
       file-saver: 2.0.5
       react-google-recaptcha-v3: 1.10.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
-      volto-subblocks: 2.1.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0)
+      volto-subblocks: 2.1.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0)
     transitivePeerDependencies:
       - react
       - react-dom
 
-  volto-subblocks@2.1.0(@plone/volto@18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0):
+  volto-subblocks@2.1.0(@plone/volto@18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(react@18.2.0):
     dependencies:
-      '@plone/volto': 18.9.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
+      '@plone/volto': 18.10.1(@babel/runtime@7.26.9)(@popperjs/core@2.11.8)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
       react-dnd: 5.0.0(react@18.2.0)
       react-dnd-html5-backend: 5.0.1
     transitivePeerDependencies:
@@ -30826,7 +30832,7 @@ snapshots:
 
   wait-on@7.2.0:
     dependencies:
-      axios: 1.8.1(debug@4.3.2)
+      axios: 1.8.4(debug@4.3.2)
       joi: 17.13.3
       lodash: 4.17.21
       minimist: 1.2.8
@@ -30836,7 +30842,7 @@ snapshots:
 
   wait-on@7.2.0(debug@4.3.2):
     dependencies:
-      axios: 1.8.1(debug@4.3.2)
+      axios: 1.8.4(debug@4.3.2)
       joi: 17.13.3
       lodash: 4.17.21
       minimist: 1.2.8
@@ -30846,7 +30852,7 @@ snapshots:
 
   wait-on@7.2.0(debug@4.3.4):
     dependencies:
-      axios: 1.8.1(debug@4.3.4)
+      axios: 1.8.4(debug@4.3.4)
       joi: 17.13.3
       lodash: 4.17.21
       minimist: 1.2.8

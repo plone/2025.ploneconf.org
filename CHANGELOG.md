@@ -2,6 +2,7 @@
 
 ## 0.5.4 (unreleased)
 
+- Update Volto to 18.10.1 [fredvd]
 
 - Configure volto-matomo with site id on stats.plone.org. [fredvd]
 
