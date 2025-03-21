@@ -12,13 +12,6 @@
       />
 
   <plone:behavior
-      name="ploneconf.core.sitecustomization"
-      title="Customizations for sites/subsites"
-      description="Set of fields to customize sites and subsites"
-      provides=".customizations.ISiteCustomizationSettings"
-      />
-
-  <plone:behavior
       name="ploneconf.core.links"
       title="Conference: Links Information"
       description=""
