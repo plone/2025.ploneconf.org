@@ -3,19 +3,15 @@
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
     >
 
-  <!-- Example upgrade step
   <genericsetup:upgradeSteps
       profile="ploneconf.core:default"
       source="1000"
-      destination="1001"
+      destination="20250321001"
       >
-    <genericsetup:upgradeDepends
-        title="Update registry value"
-        import_steps="plone.app.registry"
+    <genericsetup:upgradeStep
+        title="Update data structure for site customizations fields"
+        handler=".v20250321001.update_to_vlt_site_customizations_fields"
         />
   </genericsetup:upgradeSteps>
-  -->
-
-  <!-- -*- extra stuff goes here -*- -->
 
 </configure>
