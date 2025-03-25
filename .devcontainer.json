@@ -3,7 +3,6 @@
     "vscode": {
       "extensions": [
         "charliermarsh.ruff",
-        "redhat.vscode-yaml",
         "ms-vscode.makefile-tools",
         "bbenoist.Nix"
       ]
@@ -11,7 +10,7 @@
   },
   "image": "ghcr.io/cachix/devenv:v1.3.1",
   "overrideCommand": false,
-  "updateContentCommand": "make devenv-test",
+  "updateContentCommand": "make codespace-install",
   "portsAttributes": {
     "3000": {
       "label": "frontend"

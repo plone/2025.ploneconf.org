@@ -1,40 +1,34 @@
+{ pkgs, ... }:
 {
-  pkgs,
-  inputs,
-  ...
-}:
-let
-  python = pkgs.python311;
-  workspace = inputs.uv2nix.lib.workspace.loadWorkspace {
-    workspaceRoot = ./.;
+  tasks = {
+    "bash:backend:install" = {
+      exec = ''
+        UV_PROJECT_ENVIRONMENT=$(pwd)/backend/.venv
+        UV_PYTHON_DOWNLOADS=never
+        UV_PYTHON_PREFERENCE=system
+        if [[ ! -e backend/instance ]]; then
+          make -C backend install
+          make -C backend create-site
+        fi
+      '';
+      before = [
+        "devenv:enterShell"
+      ];
+    };
   };
-  overlay = workspace.mkPyprojectOverlay {
-    sourcePreference = "wheel";
+
+  languages.python = {
+    enable = true;
+    package = pkgs.python311;
+    uv = {
+      enable = true;
+      package = pkgs.uv;
+    };
   };
-  pythonSet =
-    (pkgs.callPackage inputs.pyproject-nix.build.packages {
-      inherit python;
-    }).overrideScope
-      (
-        pkgs.lib.composeManyExtensions [
-          inputs.pyproject-build-systems.overlays.default
-          overlay
-          (import ./overrides.nix { inherit pkgs; })
-        ]
-      );
-  editableOverlay = workspace.mkEditablePyprojectOverlay {
-    root = "$REPO_ROOT";
-  };
-  editablePythonSet = pythonSet.overrideScope editableOverlay;
-  pyprojectName = (builtins.fromTOML (builtins.readFile (./pyproject.toml))).project.name;
-  virtualenv =
-    (editablePythonSet.mkVirtualEnv "${pyprojectName}-dev-env" workspace.deps.all).overrideAttrs
-      (old: {
-        venvIgnoreCollisions = [ "*" ];
-      });
-in
-{
-  packages = [
-    virtualenv
-  ];
+
+  enterShell = ''
+    export UV_PROJECT_ENVIRONMENT=$(pwd)/backend/.venv
+    export UV_PYTHON_DOWNLOADS=never
+    export UV_PYTHON_PREFERENCE=system
+  '';
 }

@@ -220,17 +220,14 @@ ci-acceptance-test:
 	$(MAKE) -C "./frontend/" ci-acceptance-test
 	$(MAKE) acceptance-containers-stop
 
-.PHONY:
-devenv-test:
+.env:
 	@echo CODESPACE_NAME=$$CODESPACE_NAME >.env
 	@echo GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN=$$GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN >>.env
-	@devenv test
 
 .PHONY:
-devenv-up:
-	@echo CODESPACE_NAME=$$CODESPACE_NAME >.env
-	@echo GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN=$$GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN >>.env
+codespace-install: .env
+	@devenv shell -- echo "Ok."
+
+.PHONY:
+codespace-start: .env ## Start services at GitHub Codespaces
 	@devenv up
-
-.PHONY:
-up: devenv-up  ## Start services at GitHub Codespaces
