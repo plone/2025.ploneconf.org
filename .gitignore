@@ -3,3 +3,6 @@ node_modules
 /core
 /public
 *.mo
+.env
+.devenv*
+devenv.local.nix
