@@ -3,7 +3,7 @@
 ## 0.5.5 (unreleased)
 
 
-- Nothing changed yet.
+- Update DB settings. [fredvd]
 
 
 ## 0.5.4 (2025-03-20)
