@@ -1,6 +1,6 @@
 # Changes
 
-## 0.5.5 (unreleased)
+## 0.5.5 (2025-04-18)
 
 
 - Update DB settings. [fredvd]
