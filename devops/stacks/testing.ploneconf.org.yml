@@ -85,7 +85,6 @@ services:
         # interpolation trick: don't install basic auth middleware if no password is set
         - traefik.http.routers.${STACK_PREFIX}-classicui.middlewares=gzip,${STACK_PREFIX}-backend-auth,${STACK_PREFIX}-vhm-classicui
 
-networks:
 
 # Network name doesn't need to parameterised, is prefixed by the stack name by Docker Swarm
 networks:
