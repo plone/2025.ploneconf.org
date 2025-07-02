@@ -217,7 +217,7 @@ constraints = [
     { name = "plone-resource", specifier = "==3.0.2" },
     { name = "plone-resourceeditor", specifier = "==4.0.1" },
     { name = "plone-rest", specifier = "==5.0.0" },
-    { name = "plone-restapi", specifier = "==9.11.0" },
+    { name = "plone-restapi", specifier = "==9.13.2" },
     { name = "plone-rfc822", specifier = "==3.0.1" },
     { name = "plone-scale", specifier = "==4.1.3" },
     { name = "plone-schema", specifier = "==2.0.1" },
@@ -1260,6 +1260,21 @@ wheels = [
 ]
 
 [[package]]
+name = "kitconcept-voltolighttheme"
+version = "6.0.0a17"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "plone-api" },
+    { name = "plone-restapi" },
+    { name = "plone-volto" },
+    { name = "products-cmfplone" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/96/5f/db1f58a5a6909b7cc50eb899c755f9b5253cca20bf26cbdb12ac7e2d42df/kitconcept.voltolighttheme-6.0.0a17.tar.gz", hash = "sha256:30e1f08be59bf381480fc91627aff7331106e3acc9a8213330519148c84d2940", size = 8982106 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/54/92/19ad25eca4aa544a53a83ce377b15bf45ca47af3967324e2d959811e4b75/kitconcept.voltolighttheme-6.0.0a17-py3-none-any.whl", hash = "sha256:a20bd9df1ea326ee6deec3261adf39f4773c5ba42ca30da7b99ced0023bfb47d", size = 9015549 },
+]
+
+[[package]]
 name = "legacy-cgi"
 version = "2.6.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1364,15 +1379,6 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/0d/34/eb8410ca60ad89487f0c6dca21c89068a17a323acc67d5c078cd2fb65ff6/Missing-5.0.tar.gz", hash = "sha256:81e53a025e1b31a1311aeec56e35249cd7d7f0c278bef42dc09c6dd893ccb185", size = 8276 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/2d/b7/9a84a141b07dc1b0ef4d65b4fa2d2173fef84a64649dc8700b62bcddcc7e/Missing-5.0-py3-none-any.whl", hash = "sha256:482e73d644cb7de8d1ae7f559a787e794d27a42981ee9d770f781cb4ab770920", size = 6026 },
-]
-
-[[package]]
-name = "mock"
-version = "5.1.0"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/66/ab/41d09a46985ead5839d8be987acda54b5bb93f713b3969cc0be4f81c455b/mock-5.1.0.tar.gz", hash = "sha256:5e96aad5ccda4718e0a229ed94b2024df75cc2d55575ba5762d31f5767b8767d", size = 80232 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/6b/20/471f41173930550f279ccb65596a5ac19b9ac974a8d93679bcd3e0c31498/mock-5.1.0-py3-none-any.whl", hash = "sha256:18c694e5ae8a208cdb3d2c20a993ca1a7b0efa258c247a1e565150f477f83744", size = 30938 },
 ]
 
 [[package]]
@@ -2191,6 +2197,54 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/a6/40/c6c43a10be0c94ad48a4b627af9e943344293a1c68a340de3348dbd203f2/plone_app_lockingbehavior-2.0.2.tar.gz", hash = "sha256:e4bb1837026b09713628006247af8f4c39d6580f7dd0f261148d662653652f8b", size = 14849 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/c4/c9/6d33edfc043aabcc85395ec36f17e2b97aeda12644cf7ee16addc6dcf248/plone.app.lockingbehavior-2.0.2-py3-none-any.whl", hash = "sha256:5a08a13ef67e29535c433a3a575deaf677fad77252b3c7b7e8ee0a4ee5eaa1f4", size = 7832 },
+]
+
+[[package]]
+name = "plone-app-multilingual"
+version = "8.2.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "btrees" },
+    { name = "plone-app-content" },
+    { name = "plone-app-contentmenu" },
+    { name = "plone-app-dexterity" },
+    { name = "plone-app-event" },
+    { name = "plone-app-i18n" },
+    { name = "plone-app-layout" },
+    { name = "plone-app-querystring" },
+    { name = "plone-app-registry" },
+    { name = "plone-app-uuid" },
+    { name = "plone-app-z3cform" },
+    { name = "plone-autoform" },
+    { name = "plone-base" },
+    { name = "plone-behavior" },
+    { name = "plone-dexterity" },
+    { name = "plone-i18n" },
+    { name = "plone-indexer" },
+    { name = "plone-locking" },
+    { name = "plone-memoize" },
+    { name = "plone-protect" },
+    { name = "plone-registry" },
+    { name = "plone-schemaeditor" },
+    { name = "plone-supermodel" },
+    { name = "plone-uuid" },
+    { name = "plone-z3cform" },
+    { name = "products-cmfcore" },
+    { name = "products-cmfplone" },
+    { name = "products-genericsetup" },
+    { name = "products-statusmessages" },
+    { name = "setuptools" },
+    { name = "z3c-form" },
+    { name = "z3c-relationfield" },
+    { name = "zc-relation" },
+    { name = "zope" },
+    { name = "zope-browsermenu" },
+    { name = "zope-intid" },
+    { name = "zope-pagetemplate" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/31/16/57e3443346ef6f61b639ad31fef0aa808659a0ec3cac408d14b62c82bb2f/plone_app_multilingual-8.2.1.tar.gz", hash = "sha256:9c71f86f6a352652c33eeb3c19b950b071a3b8c1a2ef4815bd73a03b748c7843", size = 776588 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d5/5f/18a456e105e8a6ca34d7c460cf623d7de7a50669e7725930f4f508e77378/plone.app.multilingual-8.2.1-py3-none-any.whl", hash = "sha256:9bfd7851174d2d62c441402dbae10ff732e51050163d3845c5297e3178ef2968", size = 244071 },
 ]
 
 [[package]]
@@ -3273,9 +3327,10 @@ wheels = [
 
 [[package]]
 name = "plone-restapi"
-version = "9.11.0"
+version = "9.13.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
+    { name = "packaging" },
     { name = "plone-rest" },
     { name = "plone-schema" },
     { name = "products-cmfplone" },
@@ -3284,22 +3339,23 @@ dependencies = [
     { name = "pytz" },
     { name = "setuptools" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c9/20/b1b6c630b7604d3d0908ede36c97b93ec4443f934ea94d28dc2cc074fd91/plone_restapi-9.11.0.tar.gz", hash = "sha256:e53160c32f1b843682fd991a90b2acc27d1354f7167192531f6b2a7a1997f3fe", size = 2955125 }
+sdist = { url = "https://files.pythonhosted.org/packages/3c/96/049ab186600a7f817207a74c86a892fdf3b116fb230723427c4cf5109df4/plone_restapi-9.13.2.tar.gz", hash = "sha256:6a40f4cf11a607173946dfa8038b67a655a4f48614019f3a9744fb8f3841a20f", size = 2968257 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/48/c4/f7a5680e076f07e9d9edbb128b101bea950a7f3f8a77fe94da6f40ad5e5c/plone.restapi-9.11.0-py3-none-any.whl", hash = "sha256:f5dc07c37ba425c9ea74f38156d4a4c769ac034545ad3204f14c3b5aa745fb66", size = 3079654 },
+    { url = "https://files.pythonhosted.org/packages/58/b6/f94136147b387c4ded46dc7d74da40dac0a194e7eb6fa9f41e45a9e79724/plone.restapi-9.13.2-py3-none-any.whl", hash = "sha256:30d532b5f147b60f4d1a36bcd825dc9916e1419ed60ba7d2614c5045e41bbe04", size = 3090515 },
 ]
 
 [package.optional-dependencies]
 test = [
     { name = "collective-mockmailhost" },
-    { name = "mock" },
     { name = "plone-api" },
     { name = "plone-app-caching" },
     { name = "plone-app-contenttypes", extra = ["test"] },
     { name = "plone-app-discussion", extra = ["test"] },
     { name = "plone-app-iterate" },
+    { name = "plone-app-multilingual" },
     { name = "plone-app-testing" },
     { name = "plone-app-upgrade" },
+    { name = "plone-rest" },
     { name = "requests" },
 ]
 
@@ -3590,6 +3646,7 @@ source = { editable = "." }
 dependencies = [
     { name = "collective-honeypot" },
     { name = "collective-volto-formsupport" },
+    { name = "kitconcept-voltolighttheme" },
     { name = "pas-plugins-authomatic" },
     { name = "plone-api" },
     { name = "plone-app-upgrade" },
@@ -3624,11 +3681,12 @@ test = [
 requires-dist = [
     { name = "collective-honeypot" },
     { name = "collective-volto-formsupport" },
+    { name = "kitconcept-voltolighttheme" },
     { name = "pas-plugins-authomatic", specifier = ">=2.0.0b2" },
     { name = "plone-api" },
     { name = "plone-app-testing", marker = "extra == 'test'" },
     { name = "plone-app-upgrade" },
-    { name = "plone-restapi" },
+    { name = "plone-restapi", specifier = ">=9.13.2" },
     { name = "plone-restapi", extras = ["test"], marker = "extra == 'test'" },
     { name = "plone-volto" },
     { name = "products-cmfplone", specifier = "==6.1.0" },
