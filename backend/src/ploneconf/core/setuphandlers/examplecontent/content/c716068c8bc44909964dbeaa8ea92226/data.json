@@ -1,0 +1,199 @@
+{
+  "@id": "/news/keynote-muuttolintujen-kevat-automatic-bird-sound-classifier",
+  "@type": "News Item",
+  "UID": "c716068c8bc44909964dbeaa8ea92226",
+  "allow_discussion": null,
+  "blocks": {
+    "0660b23e-3700-4e6a-affd-c6f7ad77f6a8": {
+      "@type": "slate",
+      "plaintext": "The model processes data by converting the audio signal to spectrogram image via Fourier transform, splitting the input spectrogram to slightly overlapping 3 second clips, and predicting the probability of presence for each species for every 3 second frame.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The model processes data by converting the audio signal to spectrogram image via Fourier transform, splitting the input spectrogram to slightly overlapping 3 second clips, and predicting the probability of presence for each species for every 3 second frame."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1c63301e-9393-4e67-a14e-4e96a885b337": {
+      "@type": "slate",
+      "plaintext": " Muuttolintujen Kev\u00e4t (\u201cSpring of migratory birds\u201d) is a mobile application \u2013based citizen science campaign where citizens collect bird observations with help of an automated bird sound classifier of Finnish birds. Since spring 2023 the method has attracted 300,000 participants who have uploaded more than 14 million recordings containing 37 million bird observations.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Muuttolintujen Kev\u00e4t"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " (\u201cSpring of migratory birds\u201d) is a mobile application \u2013based citizen science campaign where citizens collect bird observations with help of an automated bird sound classifier of Finnish birds. Since spring 2023 the method has attracted 300,000 participants who have uploaded more than 14 million recordings containing 37 million bird observations. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "389897b8-5a59-4b3d-9772-631d20e481bd": {
+      "@type": "slate"
+    },
+    "4bdc6736-a93c-40a5-b0f5-63d2eb63d4ca": {
+      "@type": "slate",
+      "plaintext": "The recordings made by citizen scientists are analyzed with an AI identification model, more specifically a convolutional neural network (CNN). The CNN model has been trained in Python with Tensorflow to identify the vocalizations of all 263 Finnish bird species.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The recordings made by citizen scientists are analyzed with an AI identification model, more specifically a convolutional neural network (CNN). The CNN model has been trained in Python with Tensorflow to identify the vocalizations of all 263 Finnish bird species. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6ba6958c-d46e-4f2d-8bce-4cafca4387e7": {
+      "@type": "title"
+    },
+    "7fa74920-009b-46f4-a619-8430f781f541": {
+      "@type": "leadimage"
+    },
+    "aa2f3b73-c748-4742-a57d-27f8299bd8ae": {
+      "@type": "slate",
+      "plaintext": " Patrik is a PhD student from the University of Helsinki. He works in a research group lead by Otso Ovaskainen and his task is to develop methods for automatic bird sound recognition. In his master's and bachelor's degree he studied statistics and data science and he currently works with ecological applications of machine learning models. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Patrik is a PhD student from the University of Helsinki. He works in a research group lead by Otso Ovaskainen and his task is to develop methods for automatic bird sound recognition. In his master's and bachelor's degree he studied statistics and data science and he currently works with ecological applications of machine learning models."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b9d4371d-9693-41b6-9bf6-38274d7998a9": {
+      "@type": "slate",
+      "plaintext": " Plone Conference 2025 and PyCon Finland 2025 Keynote by Patrik Lauha .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Conference 2025 and PyCon Finland 2025 Keynote by Patrik Lauha"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "6ba6958c-d46e-4f2d-8bce-4cafca4387e7",
+      "b9d4371d-9693-41b6-9bf6-38274d7998a9",
+      "7fa74920-009b-46f4-a619-8430f781f541",
+      "389897b8-5a59-4b3d-9772-631d20e481bd",
+      "1c63301e-9393-4e67-a14e-4e96a885b337",
+      "4bdc6736-a93c-40a5-b0f5-63d2eb63d4ca",
+      "0660b23e-3700-4e6a-affd-c6f7ad77f6a8",
+      "aa2f3b73-c748-4742-a57d-27f8299bd8ae"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-06-14T09:18:32+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Plone Conference 2025 and PyCon Finland 2025 Keynote by Patrik Lauha",
+  "effective": "2025-06-23T09:37:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "keynote-muuttolintujen-kevat-automatic-bird-sound-classifier",
+  "image": {
+    "blob_path": "c716068c8bc44909964dbeaa8ea92226/image/patrik-cropped.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "patrik-cropped.jpeg",
+    "height": 725,
+    "size": 231734,
+    "width": 1397
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-24T07:55:06+00:00",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Keynote: Muuttolintujen Kev\u00e4t - Automatic Bird Sound Classifier",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-06-14T09:18:32+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-06-23T09:37:54+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

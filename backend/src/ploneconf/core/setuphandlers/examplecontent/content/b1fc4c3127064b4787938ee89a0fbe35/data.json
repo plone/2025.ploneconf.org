@@ -1,0 +1,40 @@
+{
+  "@id": "/images/diamond.png",
+  "@type": "Image",
+  "UID": "b1fc4c3127064b4787938ee89a0fbe35",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-24T08:41:44+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "diamond.png",
+  "image": {
+    "blob_path": "b1fc4c3127064b4787938ee89a0fbe35/image/diamond.png",
+    "content-type": "image/png",
+    "filename": "diamond.png",
+    "height": 40,
+    "size": 2411,
+    "width": 47
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-24T08:41:44+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "diamond.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

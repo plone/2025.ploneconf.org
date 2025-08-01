@@ -1,0 +1,743 @@
+{
+  "@id": "/pyconfi-2025",
+  "@type": "Document",
+  "UID": "1894aa8e64d84c22ab08d9956fe9d665",
+  "allow_discussion": null,
+  "blocks": {
+    "0b6e2c86-f53f-42bc-98b2-1f99e98f8d2a": {
+      "@type": "slate",
+      "plaintext": " Plone CMS is one of the oldest big Python projects out there (anybody remember Zope, which powers it?) and has been powering websites and web based solutions for over 20 years. University of Jyv\u00e4skyl\u00e4 has as long a history with Plone and Python also.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone CMS"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": " is one of the oldest big "
+            },
+            {
+              "children": [
+                {
+                  "text": "Python"
+                }
+              ],
+              "data": {
+                "url": "https://python.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": " projects out there (anybody remember Zope, which powers it?) and has been powering websites and web based solutions for over 20 years. "
+            },
+            {
+              "children": [
+                {
+                  "text": "University of Jyv\u00e4skyl\u00e4"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi/"
+              },
+              "type": "link"
+            },
+            {
+              "text": " has as long a history with Plone and Python also. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0bb6ed3c-95aa-4607-b361-9832fe4046f5": {
+      "@type": "image",
+      "align": "center",
+      "alt": "Asko Soukka announces PyCon Finland in Helsinki in Helsinki Python meetup on April 15, 2025.",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Asko Soukka announces PyCon Finland in Helsinki in Helsinki Python meetup on April 15, 2025.",
+      "url": "../resolveuid/7e9c5fd830b74221b561e5bdfd043480"
+    },
+    "114fe6c3-075d-46cb-bc18-a7183827c987": {
+      "@type": "slate",
+      "plaintext": "Call for papers",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Call for papers"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "115429cc-c7fa-474e-9e4c-49e01e2dfee2": {
+      "@type": "slate",
+      "plaintext": "PyCon Finland 2025 takes place at the beautiful lakeside campus of University of Jyv\u00e4skyl\u00e4 .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "PyCon Finland 2025 takes place "
+            },
+            {
+              "children": [
+                {
+                  "text": "at the beautiful lakeside campus of University of Jyv\u00e4skyl\u00e4"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8bcd56be266d41c8ac633dee8d172261"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1343594a-8503-4d23-a70a-d2fba604852c": {
+      "@type": "slate",
+      "plaintext": "  We're sharing the Call for Proposals (CfP) with Plone Conference 2025. Check out the CfP details and deadlines \u2014 or jump right in and submit your proposal .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "We're sharing the Call for Proposals (CfP) with Plone Conference 2025. "
+            },
+            {
+              "children": [
+                {
+                  "text": "Check out the CfP details and deadlines"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/63d3bc88d6f84ff0b1355508020a16f9"
+              },
+              "type": "link"
+            },
+            {
+              "text": " \u2014 or jump right in and "
+            },
+            {
+              "children": [
+                {
+                  "text": "submit your proposal"
+                }
+              ],
+              "data": {
+                "url": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "147cff77-a2b6-4f78-824b-216af66e3aea": {
+      "@type": "slate",
+      "plaintext": "Program",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Program"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "2ee57b7f-2071-4c88-b25c-9f156091541b": {
+      "@type": "slate",
+      "plaintext": "This year, in cooperation with active pythonistas in Finland, we are bringing back PyCon Finland ! Inside the week-long Plone Conference , we dedicate Friday October 17th , with dedicated single-day ticket , to cater content specifically to pythonistas out there.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This year, in cooperation with active pythonistas in Finland, we are bringing back "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "! Inside the "
+            },
+            {
+              "children": [
+                {
+                  "text": "week-long Plone Conference"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/7632cf838e1f410ea6a0bb201a3a6420"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", we dedicate "
+            },
+            {
+              "children": [
+                {
+                  "text": "Friday October 17th"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ", with dedicated "
+            },
+            {
+              "children": [
+                {
+                  "text": "single-day ticket"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ", to cater content specifically to pythonistas out there."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3bdb176b-ec19-47b2-93bd-5a7099dcbb7f": {
+      "@type": "slate",
+      "plaintext": "The program for PyCon Finland will begin late enough (~ 11:15) to be accessible by morning trains to Jyv\u00e4skyl\u00e4, and will conclude before the evening trains back (~ 18:00).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The program for PyCon Finland will begin late enough (~ 11:15) to be accessible by morning trains to Jyv\u00e4skyl\u00e4, and will conclude before the evening trains back (~ 18:00)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "480160d4-1532-4d1c-826c-b53075a8e6b7": {
+      "@type": "image",
+      "align": "right",
+      "alt": "",
+      "image_field": "image",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "../resolveuid/2f0c14798d1c43739a953aba76aad21a"
+    },
+    "4cd6c0ea-518b-4c44-9c2c-e63a4b6bec41": {
+      "@type": "slate",
+      "plaintext": " Friday, 17 October 2025  \u2014 Jyv\u00e4skyl\u00e4 \u2014 PyCon is back in Finland \u2014 this year as part of the Plone Conference 2025! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Friday, 17 October 2025  \u2014 Jyv\u00e4skyl\u00e4 \u2014 PyCon is back in Finland \u2014 this year as part of the Plone Conference 2025!"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4d09ca7a-4464-47e7-b285-b081973a87db": {
+      "@type": "slate",
+      "plaintext": "PS. If you like, hang around for the weekend to join the sprint, programming and learning more. And if you really like, your are welcome to stay for the whole conference week :)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "PS. If you like, hang around for the weekend to join the sprint, programming and learning more. And if you "
+            },
+            {
+              "children": [
+                {
+                  "text": "really"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": " like, your are welcome to stay for the whole conference week :)"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5d740f26-3a7a-4db1-9e57-3cc9c0c9d9e6": {
+      "@type": "slate",
+      "plaintext": "When filling out the form, please look for and check the box labeled: \" Yes, this is for PyCon Finland October 17, 2025 \".",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "When filling out the form, please look for and check the box labeled: \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Yes, this is for PyCon Finland October 17, 2025"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "\"."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "69101237-0dae-42da-9841-e21921234a76": {
+      "@type": "slate",
+      "plaintext": "Want to help making the event memorable? Consider sponsoring PyCon Finland and receive visibility for you company and some complimentary tickets.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Want to help making the event memorable? Consider sponsoring PyCon Finland and receive visibility for you company and some complimentary tickets. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "69f2d11e-97bc-4b86-803d-64f0f7fd0fc3": {
+      "@type": "title"
+    },
+    "7867ecc9-3aed-4b13-83d8-58d850bbe834": {
+      "@type": "separator",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-left)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "shortLine": false
+      },
+      "theme": "default"
+    },
+    "7e7b6de3-cb98-44f0-8d4d-7b250dc4f0eb": {
+      "@type": "slate",
+      "plaintext": "Tickets",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Tickets"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "884e3ab9-7e9e-4b7e-ac07-4ca7a7023dfd": {
+      "@type": "slate",
+      "plaintext": "Venue",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Venue"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "98134300-1d6f-465b-9c38-43fcd7920c2e": {
+      "@type": "slate",
+      "plaintext": " Sponsor PyCon Finland ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Sponsor PyCon Finland"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/fd697efc885f4b39a787c6f5e5c39259"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a7d23aca-f118-4cfc-be97-26c7a8d32406": {
+      "@type": "slate",
+      "plaintext": "We welcome all great topics and have room for up to three parallel tracks, depending on the number of quality proposals we receive.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We welcome all great topics and have room for up to three parallel tracks, depending on the number of quality proposals we receive."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b22195f9-93fe-4f5f-8674-461f6b466a23": {
+      "@type": "slate",
+      "plaintext": "The program will be published along with the Plone Conference program , once ready.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The program will be published "
+            },
+            {
+              "children": [
+                {
+                  "text": "along with the Plone Conference program"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/7632cf838e1f410ea6a0bb201a3a6420"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", once ready."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c3e2f14d-7905-4135-95a5-92ea06b6ca79": {
+      "@type": "slate",
+      "plaintext": "Rikupekka, Asko, Jussi and Miro talk about Plone, their experience with it and the community, and why to join the next Conference in Jyv\u00e4skyl\u00e4, Finland. The talk is is Finnish.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Rikupekka, Asko, Jussi and Miro talk about Plone, their experience with it and the community, and why to join the next Conference in Jyv\u00e4skyl\u00e4, Finland. The talk is is Finnish. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c3ead7b7-91b2-43a6-9225-d78df0d11642": {
+      "@type": "slate",
+      "plaintext": " Call for talk proposals for PyCon Finland 2025 is Now Open! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Call for talk proposals for PyCon Finland 2025 is Now Open!"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d293aa88-5e24-4fe9-8fde-9f32d5a0116c": {
+      "@type": "slate",
+      "plaintext": "Sponsoring PyCon Finland",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Sponsoring PyCon Finland"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "f1741f5c-5f72-4ea0-abed-b73f52f9ca68": {
+      "@type": "separator",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-left)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "shortLine": false
+      },
+      "theme": "default"
+    },
+    "fa2a9188-8a11-4879-ac5b-25a2d99ffaf8": {
+      "@type": "slate",
+      "plaintext": "Considering our international Plone Conference attendees, we expect up to 300 participants at PyCon Finland 2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Considering our international Plone Conference attendees, we expect up to 300 participants at PyCon Finland 2025."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fb12e93a-f4b6-4af4-9a9d-9ce0438c6684": {
+      "@type": "video",
+      "align": "wide",
+      "styles": {},
+      "theme": "default",
+      "url": "https://www.youtube.com/watch?v=R2uSvmctHtE"
+    },
+    "fd63eab4-49b4-443f-91d6-7d6997dc9c13": {
+      "@type": "slate",
+      "plaintext": "In Finnish - Plone-konferenssi 2025",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "In Finnish - Plone-konferenssi 2025"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "fecc544b-21b5-4b1b-b176-72ff2027281c": {
+      "@type": "slate",
+      "plaintext": "With a special one day ticket , you will get access to talks, keynote and lightning talks during the day.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "With a special "
+            },
+            {
+              "children": [
+                {
+                  "text": "one day ticket"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", you will get access to talks, keynote and lightning talks during the day. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "69f2d11e-97bc-4b86-803d-64f0f7fd0fc3",
+      "4cd6c0ea-518b-4c44-9c2c-e63a4b6bec41",
+      "480160d4-1532-4d1c-826c-b53075a8e6b7",
+      "0b6e2c86-f53f-42bc-98b2-1f99e98f8d2a",
+      "2ee57b7f-2071-4c88-b25c-9f156091541b",
+      "114fe6c3-075d-46cb-bc18-a7183827c987",
+      "c3ead7b7-91b2-43a6-9225-d78df0d11642",
+      "1343594a-8503-4d23-a70a-d2fba604852c",
+      "5d740f26-3a7a-4db1-9e57-3cc9c0c9d9e6",
+      "a7d23aca-f118-4cfc-be97-26c7a8d32406",
+      "fa2a9188-8a11-4879-ac5b-25a2d99ffaf8",
+      "7e7b6de3-cb98-44f0-8d4d-7b250dc4f0eb",
+      "fecc544b-21b5-4b1b-b176-72ff2027281c",
+      "4d09ca7a-4464-47e7-b285-b081973a87db",
+      "147cff77-a2b6-4f78-824b-216af66e3aea",
+      "b22195f9-93fe-4f5f-8674-461f6b466a23",
+      "3bdb176b-ec19-47b2-93bd-5a7099dcbb7f",
+      "884e3ab9-7e9e-4b7e-ac07-4ca7a7023dfd",
+      "115429cc-c7fa-474e-9e4c-49e01e2dfee2",
+      "d293aa88-5e24-4fe9-8fde-9f32d5a0116c",
+      "69101237-0dae-42da-9841-e21921234a76",
+      "98134300-1d6f-465b-9c38-43fcd7920c2e",
+      "7867ecc9-3aed-4b13-83d8-58d850bbe834",
+      "0bb6ed3c-95aa-4607-b361-9832fe4046f5",
+      "f1741f5c-5f72-4ea0-abed-b73f52f9ca68",
+      "fd63eab4-49b4-443f-91d6-7d6997dc9c13",
+      "c3e2f14d-7905-4135-95a5-92ea06b6ca79",
+      "fb12e93a-f4b6-4af4-9a9d-9ce0438c6684"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-04-04T09:43:17+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Friday, 17 October 2025 \u2014 PyCon Finland is back!",
+  "effective": "2025-04-04T09:43:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pyconfi-2025",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-04T12:39:43+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "1894aa8e64d84c22ab08d9956fe9d665/preview_image/pycon25.png",
+    "content-type": "image/png",
+    "filename": "pycon25.png",
+    "height": 303,
+    "size": 11354,
+    "width": 300
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "PyCon Finland 2025",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-12T11:17:27+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-12T11:18:04+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

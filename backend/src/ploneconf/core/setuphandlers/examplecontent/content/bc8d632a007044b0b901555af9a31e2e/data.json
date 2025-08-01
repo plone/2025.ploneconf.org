@@ -1,0 +1,40 @@
+{
+  "@id": "/images/kirveslampi-in-leivonmaki-national-park-photo-jukka-paakkinen.jpg",
+  "@type": "Image",
+  "UID": "bc8d632a007044b0b901555af9a31e2e",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:04+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "kirveslampi-in-leivonmaki-national-park-photo-jukka-paakkinen.jpg",
+  "image": {
+    "blob_path": "bc8d632a007044b0b901555af9a31e2e/image/kirveslampi IN LEIVONMA\u0308KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+    "content-type": "image/jpeg",
+    "filename": "kirveslampi IN LEIVONMA\u0308KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+    "height": 1367,
+    "size": 511192,
+    "width": 2048
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:04+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "kirveslampi IN LEIVONM\u00c4KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

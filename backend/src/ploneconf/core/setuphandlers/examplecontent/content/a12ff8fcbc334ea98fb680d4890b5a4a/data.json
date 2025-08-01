@@ -1,0 +1,40 @@
+{
+  "@id": "/images/lights-of-the-pedestrian-street-photo-keijo-penttinen.jpg",
+  "@type": "Image",
+  "UID": "a12ff8fcbc334ea98fb680d4890b5a4a",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:06+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "lights-of-the-pedestrian-street-photo-keijo-penttinen.jpg",
+  "image": {
+    "blob_path": "a12ff8fcbc334ea98fb680d4890b5a4a/image/LIGHTS OF THE PEDESTRIAN STREET PHOTO KEIJO PENTTINEN.jpg",
+    "content-type": "image/jpeg",
+    "filename": "LIGHTS OF THE PEDESTRIAN STREET PHOTO KEIJO PENTTINEN.jpg",
+    "height": 1536,
+    "size": 743191,
+    "width": 1940
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:06+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "LIGHTS OF THE PEDESTRIAN STREET PHOTO KEIJO PENTTINEN.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

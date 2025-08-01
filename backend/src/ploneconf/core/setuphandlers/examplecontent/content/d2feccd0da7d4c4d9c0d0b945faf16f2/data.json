@@ -1,0 +1,40 @@
+{
+  "@id": "/images/kuokkalansilta-03-juhana-konttinen.jpg",
+  "@type": "Image",
+  "UID": "d2feccd0da7d4c4d9c0d0b945faf16f2",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:05+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "kuokkalansilta-03-juhana-konttinen.jpg",
+  "image": {
+    "blob_path": "d2feccd0da7d4c4d9c0d0b945faf16f2/image/kuokkalansilta 03 Juhana konttinen.jpg",
+    "content-type": "image/jpeg",
+    "filename": "kuokkalansilta 03 Juhana konttinen.jpg",
+    "height": 1367,
+    "size": 345661,
+    "width": 2048
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:05+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "kuokkalansilta 03 Juhana konttinen.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

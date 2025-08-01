@@ -5,7 +5,13 @@
       "email": "",
       "groupid": "Administrators",
       "groups": [],
-      "principals": [],
+      "principals": [
+        "asko-soukka",
+        "erico-andrei",
+        "fred-van-dijk",
+        "rikupekka-oksanen",
+        "t-kim-nguyen"
+      ],
       "roles": [
         "Manager"
       ],
@@ -34,5 +40,96 @@
       "title": "Site Administrators"
     }
   ],
-  "members": []
+  "members": [
+    {
+      "description": "",
+      "email": "asko.soukka@jyu.fi",
+      "fullname": "Asko Soukka",
+      "groups": [
+        "Administrators"
+      ],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}6A6YOUWq8/4RPPtluZaepy9jQF0jDwWuNRZF",
+      "roles": [
+        "Member"
+      ],
+      "username": "asko-soukka"
+    },
+    {
+      "description": "",
+      "email": "astrid@juizi.com",
+      "fullname": "Astrid Beyers",
+      "groups": [],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}0scnrvchYhf0YLg00L1uIt37EyM95k0qtVjV",
+      "roles": [
+        "Manager",
+        "Member",
+        "Site Administrator"
+      ],
+      "username": "astrid-beyers"
+    },
+    {
+      "description": "",
+      "email": "ericof@plone.org",
+      "fullname": "\u00c9rico Andrei",
+      "groups": [
+        "Administrators"
+      ],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}mqvPnsZRUWaaOZe73peTY1XbRVgwp41qQ7uO",
+      "roles": [
+        "Member"
+      ],
+      "username": "erico-andrei"
+    },
+    {
+      "description": "",
+      "email": "fred@plone.org",
+      "fullname": "Fred van Dijk",
+      "groups": [
+        "Administrators"
+      ],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}90rkxwoLlXjeNGVaEnP3Ys3KOsY2vRajl0Fr",
+      "roles": [
+        "Member"
+      ],
+      "username": "fred-van-dijk"
+    },
+    {
+      "description": "",
+      "email": "rioksane@gmail.com",
+      "fullname": "Rikupekka Oksanen",
+      "groups": [
+        "Administrators"
+      ],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}/hgvjDAFQq2opcbS1ZUrjv1323V/oc66JKhh",
+      "roles": [
+        "Member"
+      ],
+      "username": "rikupekka-oksanen"
+    },
+    {
+      "description": "",
+      "email": "nguyen@plone.org",
+      "fullname": "T. Kim Nguyen",
+      "groups": [
+        "Administrators"
+      ],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}7Vvo42BvflbvGhkbJ3AD5eOyanIuuj9uGqkb",
+      "roles": [
+        "Member"
+      ],
+      "username": "t-kim-nguyen"
+    }
+  ]
 }

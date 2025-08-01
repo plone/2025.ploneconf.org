@@ -1,0 +1,4 @@
+.navigation .item.active::before,
+.navigation .item:hover::before {
+  border-bottom: 9px solid var(--secondary-color, #000);
+}

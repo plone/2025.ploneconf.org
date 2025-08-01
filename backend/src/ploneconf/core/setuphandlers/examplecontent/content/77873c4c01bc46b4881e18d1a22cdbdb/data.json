@@ -1,0 +1,40 @@
+{
+  "@id": "/news/call-for-proposals-opens/riksa-selittaa.jpg",
+  "@type": "Image",
+  "UID": "77873c4c01bc46b4881e18d1a22cdbdb",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-26T09:58:31+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "riksa-selittaa.jpg",
+  "image": {
+    "blob_path": "77873c4c01bc46b4881e18d1a22cdbdb/image/riksa-selittaa.jpg",
+    "content-type": "image/jpeg",
+    "filename": "riksa-selittaa.jpg",
+    "height": 1280,
+    "size": 494252,
+    "width": 1600
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-26T09:58:31+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "riksa-selittaa.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,56 @@
+{
+  "@id": "/sponsors/silver/enfold-systems",
+  "@type": "Sponsor",
+  "UID": "371a7a7f8c2a4e1489547880583dd6bb",
+  "allow_discussion": null,
+  "created": "2025-06-03T05:36:38+00:00",
+  "description": "Your Vision. Our Solutions. Limitless Possibilities.",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "enfold-systems",
+  "image": {
+    "blob_path": "371a7a7f8c2a4e1489547880583dd6bb/image/enfold-logo.png",
+    "content-type": "image/png",
+    "filename": "enfold-logo.png",
+    "height": 800,
+    "size": 47131,
+    "width": 1200
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-06-03T05:39:42+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Your Vision. Our Solutions. Limitless Possibilities.</p>",
+    "encoding": "utf8"
+  },
+  "title": "Enfold Systems",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-06-03T05:36:38+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-06-03T05:39:42+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

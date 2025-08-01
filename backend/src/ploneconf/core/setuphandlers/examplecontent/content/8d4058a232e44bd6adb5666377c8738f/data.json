@@ -4,24 +4,904 @@
   "UID": "8d4058a232e44bd6adb5666377c8738f",
   "allow_discussion": null,
   "blocks": {
-    "21978d19-ba61-49c5-bed3-4a817f28749f": {
-      "@type": "title"
-    },
-    "75f12dac-5e08-452b-b837-336dbf53f629": {
-      "@type": "description"
-    },
-    "76d0f541-d7ee-4ff2-a1f7-afebb4741939": {
+    "07439a74-2ba7-4dd2-8e2d-2febb72e5dac": {
       "@type": "slate",
-      "plaintext": "",
+      "plaintext": " Check out ticket info and stay tuned for early bird sales! ",
       "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
               "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Check out ticket info and stay tuned for early bird sales!"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
             }
           ],
           "type": "p"
+        }
+      ]
+    },
+    "09e5e929-e37f-402a-bf70-3879505c38d4": {
+      "@type": "slate",
+      "plaintext": "The conference will be held in Jyv\u00e4skyl\u00e4, Finland , for the first time ever, and is hosted by University of Jyv\u00e4skyl\u00e4 .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The conference will be held in "
+            },
+            {
+              "children": [
+                {
+                  "text": "Jyv\u00e4skyl\u00e4, Finland"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/887c1f312e1f405fa387d498c4200530"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", for the first time ever, and is hosted by "
+            },
+            {
+              "children": [
+                {
+                  "text": "University of Jyv\u00e4skyl\u00e4"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8f38215616f847128a39e11a2c478479"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0aceb3e7-7a8f-466c-878c-cdd0a9831bea": {
+      "@type": "slate",
+      "plaintext": "Follow Us",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Follow Us"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "1ffc19bb-3f2a-4a1b-a40d-bd088a961253": {
+      "@type": "slate",
+      "plaintext": "Stay tuned for more info!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Stay tuned for more info!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "20630117-6ca6-408a-8053-ae40c6e14c12": {
+      "@type": "slate",
+      "plaintext": " Plone Conference 2025 is the 23rd occasion of the event and it will be held on October 13-19, 2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Conference 2025"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " is the 23rd occasion of the event and it will be held on October 13-19, 2025. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "21978d19-ba61-49c5-bed3-4a817f28749f": {
+      "@type": "title"
+    },
+    "2422d4c0-1ecb-4587-b9a6-8eb425ba9325": {
+      "@type": "slate",
+      "plaintext": "23rd Plone Conference",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "23rd Plone Conference"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "2c8bbc1a-19ec-4c7b-9f38-af87da1a1790": {
+      "@type": "slate"
+    },
+    "2cc81da2-31de-4ff1-af3b-397d74aad3f8": {
+      "@type": "slate",
+      "plaintext": "Two days of professional training Three days of conference talks, including the special event PyCon Finland Two days of sprinting Lots of opportunities for discussion throughout the days Goodie bag T-shirt Party!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Two days of professional training"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Three days of conference talks, including the special event PyCon Finland"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Two days of sprinting"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lots of opportunities for discussion throughout the days"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Goodie bag"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "T-shirt"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Party!"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "32a2742f-3984-42bb-a1b7-fa85b38f3775": {
+      "@type": "slate",
+      "plaintext": "With a special one day ticket , you can get access to talks, keynote and lightning talks during Friday 17th.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "With a special "
+            },
+            {
+              "children": [
+                {
+                  "text": "one day ticket"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", you can get access to talks, keynote and lightning talks during Friday 17th. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3f6c8c22-f305-4fd8-af3f-f643f36640d2": {
+      "@type": "gridBlock",
+      "blocks": {
+        "1990b638-7894-4b92-9bf0-757c9ea6659e": {
+          "@type": "teaser",
+          "description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/1b8b0b690026425990f5dcb17c49dbab",
+              "@type": "Document",
+              "Description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
+              "Subject": [],
+              "Title": "Code of Conduct",
+              "description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
+              "effective": "2025-03-05T11:05:00+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Code of Conduct",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Code of Conduct"
+        },
+        "31c50399-a640-4b4b-9a24-0ec9b48ef2b1": {
+          "@type": "teaser",
+          "description": "Plone Conference 2025 Venue information",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/8bcd56be266d41c8ac633dee8d172261",
+              "@type": "Document",
+              "Description": "Plone Conference 2025 Venue information",
+              "Subject": [],
+              "Title": "Venue",
+              "description": "Plone Conference 2025 Venue information",
+              "effective": "2025-03-18T06:44:47+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Venue",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Venue"
+        },
+        "a666691c-ebea-494f-8430-17f68fe6e857": {
+          "@type": "teaser",
+          "description": "2025 we are celebrating the 23rd annual Plone Conference!",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/07d4b4a2b9e047d3860e7dde13ae08e9",
+              "@type": "Document",
+              "Description": "",
+              "Subject": [],
+              "Title": "Plone Conference History",
+              "description": "2025 we are celebrating the 23rd annual Plone Conference!",
+              "effective": "2025-03-17T12:14:14+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Plone Conferences",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Plone Conferences"
+        },
+        "c5e2d107-b254-4a7f-a998-62c18ce36824": {
+          "@type": "teaser",
+          "description": "Basic info about Finland and Finnish people",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/887c1f312e1f405fa387d498c4200530",
+              "@type": "Document",
+              "Description": "Basic info about Finland and Jyv\u00e4skyl\u00e4",
+              "Subject": [],
+              "Title": "Jyv\u00e4skyl\u00e4 and Finland",
+              "description": "Basic info about Finland and Finnish people",
+              "effective": "2025-03-17T12:19:55+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "About Finland",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "About Finland"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "31c50399-a640-4b4b-9a24-0ec9b48ef2b1",
+          "c5e2d107-b254-4a7f-a998-62c18ce36824",
+          "a666691c-ebea-494f-8430-17f68fe6e857",
+          "1990b638-7894-4b92-9bf0-757c9ea6659e"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "44ae0f3e-e1dc-4f9c-98ec-55c972de3507": {
+      "@type": "image",
+      "align": "center",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../resolveuid/a0afd107803e4001870ff40227541a9a"
+    },
+    "48deff4b-fc84-4b85-9c0d-047fcd568277": {
+      "@type": "slate",
+      "plaintext": "When sharing Plone Conference related posts, please include #ploneconf and #ploneconf2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "When sharing Plone Conference related posts, please include #ploneconf and #ploneconf2025."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "49cd3526-f06a-4384-8e37-ef7cb488ae0e": {
+      "@type": "slate",
+      "plaintext": " Instagram   Mastodon   YouTube   LinkedIn   X ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Instagram"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://instagram.com/ploneconf/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Mastodon"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://plone.social/@ploneconf"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "YouTube"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://www.youtube.com/c/PloneCMS"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "LinkedIn"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://www.linkedin.com/company/plone-foundation/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "X"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://x.com/ploneconf/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "650381b8-d71d-4d29-bcbc-ee96beee2f4a": {
+      "@type": "slate",
+      "plaintext": "Contact Us",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Contact Us"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "689d0391-91c1-4fdf-8c0f-0d09935184d1": {
+      "@type": "slate",
+      "plaintext": "Buffet lunch is included in training and conference.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Buffet lunch is included in training and conference."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "75f12dac-5e08-452b-b837-336dbf53f629": {
+      "@type": "description"
+    },
+    "7c5a86a8-fa79-4a71-b302-7963e1759ae5": {
+      "@type": "slate",
+      "plaintext": "This year's speciality will be the inclusion of the Finnish Python community with the PyCon Finland on Friday 17 October, 2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This year's speciality will be the inclusion of the Finnish Python community with the "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " on Friday 17 October, 2025. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "870166cf-7641-45cb-aaf0-e762f402aafe": {
+      "@type": "slate",
+      "plaintext": "  Plone is a content management system, known especially for its security, usability and flexibility. Use it however you want, wherever you want. 100% open source and free. Built on Python and React. ",
+      "styles": {},
+      "theme": "grey",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://plone.org"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": " is a content management system, known especially for its security, usability and flexibility. Use it however you want, wherever you want. 100% open source and free. Built on Python and React. "
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "blockquote"
+        }
+      ]
+    },
+    "987c8dde-a5e7-4216-9907-fc7c3e689377": {
+      "@type": "slate",
+      "plaintext": "During training, conference and sprints, there will be coffee and refreshments available",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "During training, conference and sprints, there will be coffee and refreshments available"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9d56d271-ecb9-4cc8-a8f9-d5ef7cb72f64": {
+      "@type": "slate",
+      "plaintext": "Join the conference to",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Join the conference to "
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "a6436041-1231-43da-8377-4e5b728c96c1": {
+      "@type": "slate",
+      "plaintext": "Plone conference has a lot to offer. With one ticket, you will get all of these:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone conference has a lot to offer. With one ticket, you will get all of these: "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d20847ce-3d51-49f9-9561-f86c4be7f342": {
+      "@type": "slate",
+      "plaintext": "Follow Plone Conference on social media and stay up to date with everything related to the event.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Follow Plone Conference on social media and stay up to date with everything related to the event. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d3dae120-e38f-4a0a-a2c2-23da94382e47": {
+      "@type": "slate",
+      "plaintext": "Plone is built on Python, and this year we really want to show what can be done with it and also learn the latest news in the Python world!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone is built on Python, and this year we really want to show what can be done with it and also learn the latest news in the Python world! "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d5e5bd3b-1375-490f-8d57-4d90fd3d4313": {
+      "@type": "slate",
+      "plaintext": "Hear about interesting and impressive use cases of Plone Learn how the software is kept relevant and modern even after 20 years Learn how Plone does open source, backed up by the non-profit Plone Foundation Learn how Plone community welcomes everyone and why people keep coming back year after year See what the future holds with Plone 7 Participate hands-on training - learn to edit or run Plone yourself Attend interesting keynotes Attend lightning talks - the best way to learn about differents topics in short time Participate sprint - an opportunity to improve the software Discuss with interesting and smart people from over 20 countries from all over the world! Oh. And there is going to be a party :)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Hear about interesting and impressive use cases of Plone"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Learn how the software is kept relevant and modern even after 20 years"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Learn how Plone does open source, backed up by the non-profit Plone Foundation"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Learn how Plone community welcomes everyone and why people keep coming back year after year"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "See what the future holds with Plone 7"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Participate hands-on training - learn to edit or run Plone yourself"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Attend interesting keynotes"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Attend lightning talks - the best way to learn about differents topics in short time"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Participate sprint - an opportunity to improve the software"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Discuss with interesting and smart people from over 20 countries from all over the world!"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Oh. And there is going to be a party :) "
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "d86a3c9b-ca76-44c0-9567-b99c0562d2f2": {
+      "@type": "slate",
+      "plaintext": "And there is more.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "And there is more. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "dc91e2b6-7ceb-411e-9cba-64191f91ee57": {
+      "@type": "slate",
+      "plaintext": "If you have any questions, please do not hesitate to contact conf@plone.org ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "If you have any questions, please do not hesitate to contact "
+            },
+            {
+              "children": [
+                {
+                  "text": "conf@plone.org"
+                }
+              ],
+              "data": {
+                "url": "mailto:conf@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ee45f5b3-d673-46df-8352-046147189e39": {
+      "@type": "slate",
+      "plaintext": "A Whole Week of Content",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "A Whole Week of Content"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "f519ba0e-6578-4301-ab0c-eb9c57e085e1": {
+      "@type": "slate",
+      "plaintext": "PyCon Finland 2025",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "PyCon Finland 2025"
+            }
+          ],
+          "type": "h2"
         }
       ]
     }
@@ -30,7 +910,33 @@
     "items": [
       "21978d19-ba61-49c5-bed3-4a817f28749f",
       "75f12dac-5e08-452b-b837-336dbf53f629",
-      "76d0f541-d7ee-4ff2-a1f7-afebb4741939"
+      "870166cf-7641-45cb-aaf0-e762f402aafe",
+      "2422d4c0-1ecb-4587-b9a6-8eb425ba9325",
+      "20630117-6ca6-408a-8053-ae40c6e14c12",
+      "09e5e929-e37f-402a-bf70-3879505c38d4",
+      "9d56d271-ecb9-4cc8-a8f9-d5ef7cb72f64",
+      "d5e5bd3b-1375-490f-8d57-4d90fd3d4313",
+      "d86a3c9b-ca76-44c0-9567-b99c0562d2f2",
+      "f519ba0e-6578-4301-ab0c-eb9c57e085e1",
+      "7c5a86a8-fa79-4a71-b302-7963e1759ae5",
+      "d3dae120-e38f-4a0a-a2c2-23da94382e47",
+      "32a2742f-3984-42bb-a1b7-fa85b38f3775",
+      "1ffc19bb-3f2a-4a1b-a40d-bd088a961253",
+      "44ae0f3e-e1dc-4f9c-98ec-55c972de3507",
+      "ee45f5b3-d673-46df-8352-046147189e39",
+      "a6436041-1231-43da-8377-4e5b728c96c1",
+      "2cc81da2-31de-4ff1-af3b-397d74aad3f8",
+      "987c8dde-a5e7-4216-9907-fc7c3e689377",
+      "689d0391-91c1-4fdf-8c0f-0d09935184d1",
+      "07439a74-2ba7-4dd2-8e2d-2febb72e5dac",
+      "0aceb3e7-7a8f-466c-878c-cdd0a9831bea",
+      "d20847ce-3d51-49f9-9561-f86c4be7f342",
+      "49cd3526-f06a-4384-8e37-ef7cb488ae0e",
+      "48deff4b-fc84-4b85-9c0d-047fcd568277",
+      "650381b8-d71d-4d29-bcbc-ee96beee2f4a",
+      "dc91e2b6-7ceb-411e-9cba-64191f91ee57",
+      "3f6c8c22-f305-4fd8-af3f-f643f36640d2",
+      "2c8bbc1a-19ec-4c7b-9f38-af87da1a1790"
     ]
   },
   "changeNote": "",
@@ -39,8 +945,8 @@
   "creators": [
     "admin"
   ],
-  "description": "The Plone Conference, the annual gathering of the vibrant Plone community, has been a cornerstone of the open-source CMS world for nearly two decades. From the first edition, back in 2003 to its latest edition in 2024, the conference has evolved into a global celebration of collaboration, innovation, and knowledge sharing.",
-  "effective": "2025-03-05T11:04:00",
+  "description": "The Plone Conference, the annual gathering of the friendly and enthusiastic Plone community, has been a cornerstone of the open-source CMS world for over two decades. ",
+  "effective": "2025-03-05T11:04:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -53,9 +959,16 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-03-05T14:36:04+00:00",
+  "modified": "2025-05-31T11:01:28+00:00",
   "preview_caption": null,
-  "preview_image": null,
+  "preview_image": {
+    "blob_path": "8d4058a232e44bd6adb5666377c8738f/preview_image/agora-parkkis.jpg",
+    "content-type": "image/jpeg",
+    "filename": "agora-parkkis.jpg",
+    "height": 810,
+    "size": 434701,
+    "width": 1440
+  },
   "review_state": "published",
   "rights": "",
   "subjects": [],

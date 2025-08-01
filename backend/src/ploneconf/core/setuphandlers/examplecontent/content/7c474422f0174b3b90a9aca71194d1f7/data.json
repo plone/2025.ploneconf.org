@@ -1,0 +1,432 @@
+{
+  "@id": "/news/call-for-proposals-opens",
+  "@type": "News Item",
+  "UID": "7c474422f0174b3b90a9aca71194d1f7",
+  "allow_discussion": null,
+  "blocks": {
+    "094d772d-6f43-4cad-8503-e23abb4a2979": {
+      "@type": "slate",
+      "plaintext": "We are looking talks for:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We are looking talks for:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2da4c343-8f29-4a56-93ac-59417e045582": {
+      "@type": "slate",
+      "plaintext": "The conference team is committed to supporting all presenters, regardless of their level of experience in public speaking.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The conference team is committed to supporting all presenters, regardless of their level of experience in public speaking."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3771808c-e4d0-4bd3-8465-ee006eccca4e": {
+      "@type": "slate",
+      "plaintext": "Presentations are not required to be technical; they can also focus on broader, community-related issues.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Presentations are not required to be technical; they can also focus on broader, community-related issues."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4043e8d8-c381-4945-84a3-4aaa31a2302f": {
+      "@type": "slate",
+      "plaintext": "You may easily choose if you wish to specifially target your talk to PyDay Finland.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You may easily choose if you wish to specifially target your talk to PyDay Finland. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4db68ca7-8828-4996-8b3d-09aa4db6a46e": {
+      "@type": "slate",
+      "plaintext": " Talk Sessions (October 15-17) : There will be about 40 talk slots, each lasting 25 or 45 minutes. Topics can include Plone, Python, React, community building, and other tech-related subjects, such as security, AI or webdesign. Case studies are always interesting.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Talk Sessions (October 15-17)"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ": There will be about 40 talk slots, each lasting 25 or 45 minutes. Topics can include Plone, Python, React, community building, and other tech-related subjects, such as security, AI or webdesign. Case studies are always interesting. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5425e0ee-dc2e-40f8-960b-220fec21a2c5": {
+      "@type": "__button",
+      "href": [
+        {
+          "@id": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219",
+          "title": "registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219"
+        }
+      ],
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Submit your talk idea!"
+    },
+    "5c8633cc-1c0c-4e36-8913-a3c9c0d2bb4c": {
+      "@type": "slate",
+      "plaintext": "Looking for a Wide Variety of Talks",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Looking for a Wide Variety of Talks"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "610d643a-41e2-469d-baf3-41cc254e4448": {
+      "@type": "description"
+    },
+    "664c382d-820d-45ea-8bcf-0ea7ae324a22": {
+      "@type": "title"
+    },
+    "6f633daf-a7a9-43fd-b3cc-2a7b75e8d8a0": {
+      "@type": "image",
+      "align": "right",
+      "alt": "Speaker excited",
+      "image_field": "image",
+      "size": "m",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "medium"
+      },
+      "theme": "default",
+      "url": "../../resolveuid/77873c4c01bc46b4881e18d1a22cdbdb"
+    },
+    "953a211d-5aa4-4b79-8e4a-8821fcdd8102": {
+      "@type": "slate",
+      "plaintext": " Plone Conference in general Talks specifically aimed for PyCon  Finland on October 17.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone Conference"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " in general"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Talks specifically aimed for "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "PyCon"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": " Finland"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " on October 17."
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "957ef48f-8224-48c5-955b-2c3e33feed0b": {
+      "@type": "slate",
+      "plaintext": "The conference organizers encourage a broad range of submissions. Whether you have extensive experience with Plone and Python or are new to these communities, your insights and perspectives are valuable.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The conference organizers encourage a broad range of submissions. Whether you have extensive experience with Plone and Python or are new to these communities, your insights and perspectives are valuable. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a335635a-767d-474c-9d0e-4ea559898098": {
+      "@type": "slate",
+      "plaintext": "How to Submit",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "How to Submit"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "b7e5a148-393f-4e9d-913e-45896d252c60": {
+      "@type": "slate",
+      "plaintext": "Submission Guidelines",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Submission Guidelines"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "ba75eea7-1501-40ff-953d-c615a963bd49": {
+      "@type": "slate",
+      "plaintext": "Prospective speakers and trainers are invited to submit their proposals by July 31st, 2025 (Anywhere on Earth, AoE).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Prospective speakers and trainers are invited to submit their proposals by July 31st, 2025 (Anywhere on Earth, AoE)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c8cf971a-c723-4b8a-aa90-6fd80dfa0a1d": {
+      "@type": "slate",
+      "plaintext": " PS.  Do not worry about submitting a final version yet - we are interested in in wide variety of talks and the idea or abstract description does not have to be final! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "PS. "
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Do not worry about submitting a final version yet - we are interested in in wide variety of talks and the idea or abstract description does not have to be final!"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c908f549-49c7-4a3e-8a7a-9778ace77db8": {
+      "@type": "slate",
+      "plaintext": "To submit your proposal, fill the Call for Papers form . The deadline for submissions is July 31, 2025.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "To submit your proposal, fill the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Call for Papers form"
+                }
+              ],
+              "data": {
+                "url": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". The deadline for submissions is July 31, 2025."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e78c1b1b-39fc-4b80-9944-34b9a47384c1": {
+      "@type": "slate",
+      "plaintext": "The conference will include a variety of sessions, structured to accommodate different levels of expertise and topics.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The conference will include a variety of sessions, structured to accommodate different levels of expertise and topics."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "664c382d-820d-45ea-8bcf-0ea7ae324a22",
+      "610d643a-41e2-469d-baf3-41cc254e4448",
+      "ba75eea7-1501-40ff-953d-c615a963bd49",
+      "5c8633cc-1c0c-4e36-8913-a3c9c0d2bb4c",
+      "6f633daf-a7a9-43fd-b3cc-2a7b75e8d8a0",
+      "e78c1b1b-39fc-4b80-9944-34b9a47384c1",
+      "4db68ca7-8828-4996-8b3d-09aa4db6a46e",
+      "3771808c-e4d0-4bd3-8465-ee006eccca4e",
+      "b7e5a148-393f-4e9d-913e-45896d252c60",
+      "957ef48f-8224-48c5-955b-2c3e33feed0b",
+      "2da4c343-8f29-4a56-93ac-59417e045582",
+      "094d772d-6f43-4cad-8503-e23abb4a2979",
+      "953a211d-5aa4-4b79-8e4a-8821fcdd8102",
+      "4043e8d8-c381-4945-84a3-4aaa31a2302f",
+      "a335635a-767d-474c-9d0e-4ea559898098",
+      "c908f549-49c7-4a3e-8a7a-9778ace77db8",
+      "c8cf971a-c723-4b8a-aa90-6fd80dfa0a1d",
+      "5425e0ee-dc2e-40f8-960b-220fec21a2c5"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:21:09+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Please submit your talk to Plone Conference 2025!",
+  "effective": "2025-03-26T10:00:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "call-for-proposals-opens",
+  "image": {
+    "blob_path": "7c474422f0174b3b90a9aca71194d1f7/image/conference-announcement.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "conference-announcement.jpeg",
+    "height": 1027,
+    "size": 376958,
+    "width": 1600
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-04-04T11:34:09+00:00",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Call for Papers Opens!",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:21:09+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-26T10:00:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

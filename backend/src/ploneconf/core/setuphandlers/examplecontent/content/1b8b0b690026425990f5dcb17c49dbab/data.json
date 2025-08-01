@@ -21,11 +21,27 @@
     "247a5b4f-6d1b-46fa-91a4-01029695e610": {
       "@type": "slate",
       "plaintext": "All reports to codeofconduct@plone.org will be handled with confidentiality. The responder team can also assist in finding further help if desired, but will do so only with your consent.",
+      "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
-              "text": "All reports to codeofconduct@plone.org will be handled with confidentiality. The responder team can also assist in finding further help if desired, but will do so only with your consent."
+              "text": "All reports to "
+            },
+            {
+              "children": [
+                {
+                  "text": "codeofconduct@plone.org"
+                }
+              ],
+              "data": {
+                "url": "mailto:codeofconduct@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": " will be handled with confidentiality. The responder team can also assist in finding further help if desired, but will do so only with your consent."
             }
           ],
           "type": "p"
@@ -201,7 +217,7 @@
     "admin"
   ],
   "description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
-  "effective": "2025-03-05T11:05:00",
+  "effective": "2025-03-05T11:05:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -214,9 +230,16 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-03-05T14:05:40+00:00",
+  "modified": "2025-06-23T12:00:23+00:00",
   "preview_caption": null,
-  "preview_image": null,
+  "preview_image": {
+    "blob_path": "1b8b0b690026425990f5dcb17c49dbab/preview_image/54177258359_ed410ca86d_k.jpg",
+    "content-type": "image/jpeg",
+    "filename": "54177258359_ed410ca86d_k.jpg",
+    "height": 1365,
+    "size": 591185,
+    "width": 2048
+  },
   "review_state": "published",
   "rights": "",
   "subjects": [],

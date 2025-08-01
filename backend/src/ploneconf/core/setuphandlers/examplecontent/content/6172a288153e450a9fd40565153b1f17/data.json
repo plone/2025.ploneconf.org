@@ -1,0 +1,40 @@
+{
+  "@id": "/news/pycon-is-back-in-finland/asko-pycon.jpg",
+  "@type": "Image",
+  "UID": "6172a288153e450a9fd40565153b1f17",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-04-17T09:40:10+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "asko-pycon.jpg",
+  "image": {
+    "blob_path": "6172a288153e450a9fd40565153b1f17/image/asko-pycon.jpg",
+    "content-type": "image/jpeg",
+    "filename": "asko-pycon.jpg",
+    "height": 3000,
+    "size": 904913,
+    "width": 4000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-17T09:40:10+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "asko-pycon.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

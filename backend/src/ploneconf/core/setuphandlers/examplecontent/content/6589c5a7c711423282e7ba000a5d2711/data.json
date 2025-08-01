@@ -1,0 +1,252 @@
+{
+  "@id": "/news/announcing-early-bird-ticket-sales",
+  "@type": "News Item",
+  "UID": "6589c5a7c711423282e7ba000a5d2711",
+  "allow_discussion": null,
+  "blocks": {
+    "030d8f5a-db93-4199-8614-0e1f3b2f638e": {
+      "@type": "title"
+    },
+    "2df0706f-4e10-4785-99c2-0e70e1c69ff7": {
+      "@type": "image",
+      "align": "center",
+      "alt": "Agora Lobby",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "grey",
+      "title": "Join us at Jyv\u00e4skyl\u00e4, Finland!",
+      "url": "../../resolveuid/a0afd107803e4001870ff40227541a9a"
+    },
+    "389899dc-b8c6-4f86-b274-1faf2220c151": {
+      "@type": "slate",
+      "plaintext": "Price categories:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Price categories: "
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "3c4ff790-1cb4-453d-8181-fb08961ab624": {
+      "@type": "slate"
+    },
+    "3c8525f7-58fc-471b-8209-8af4029ce949": {
+      "@type": "slate",
+      "plaintext": " Plone Conference 2025 will be held on October 13-19, 2025, and will bring the Plone community to Jyv\u00e4skyl\u00e4, Finland, \nfor the first time ever!\n\nThis year's speciality will be the inclusion of the Finnish Python community with the PyCon  Finland on Friday October 17, 2025. Take advantage of the early bird registration discounts and get your tickets now! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Conference 2025"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " will be held on October 13-19, 2025, and will bring the Plone community to Jyv\u00e4skyl\u00e4, Finland, \nfor the first time ever!\n\nThis year's speciality will be the inclusion of the Finnish Python community with the "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": " Finland"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " on Friday October 17, 2025.\n\n"
+            },
+            {
+              "children": [
+                {
+                  "text": "Take advantage of the early bird registration discounts and get your tickets now!"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "90cdda72-9851-42d6-963e-70c15940bb0d": {
+      "@type": "description"
+    },
+    "95a09ccd-c4d7-4b40-a61c-19e20fdedceb": {
+      "@type": "__button",
+      "href": [
+        {
+          "@id": "../../resolveuid/8f82c1589f4447529763c1223ed798dc",
+          "Description": "Plone Conference 2025 tickets",
+          "Title": "Tickets",
+          "hasPreviewImage": true,
+          "title": "Tickets"
+        }
+      ],
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Read more and get your tickets now!"
+    },
+    "a134a1ae-f52b-42ac-9482-1becdf95c78b": {
+      "@type": "slate",
+      "plaintext": " Plone Conference Early Bird , 300\u20ac - the whole week with everything  PyCon Finland Early Bird , 80\u20ac - one day special event",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone Conference Early Bird"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ", 300\u20ac - the whole week with everything"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "PyCon Finland Early Bird"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ", 80\u20ac - one day special event"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "030d8f5a-db93-4199-8614-0e1f3b2f638e",
+      "90cdda72-9851-42d6-963e-70c15940bb0d",
+      "3c8525f7-58fc-471b-8209-8af4029ce949",
+      "389899dc-b8c6-4f86-b274-1faf2220c151",
+      "a134a1ae-f52b-42ac-9482-1becdf95c78b",
+      "95a09ccd-c4d7-4b40-a61c-19e20fdedceb",
+      "2df0706f-4e10-4785-99c2-0e70e1c69ff7",
+      "3c4ff790-1cb4-453d-8181-fb08961ab624"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:21:42+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Plone Conference 2025 Early Bird tickets are now available with discounted price!",
+  "effective": "2025-04-01T09:21:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "announcing-early-bird-ticket-sales",
+  "image": {
+    "blob_path": "6589c5a7c711423282e7ba000a5d2711/image/ploneconf-2025-logo-square-small.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-square-small.png",
+    "height": 680,
+    "size": 60971,
+    "width": 1080
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-04-04T11:33:53+00:00",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Announcing Early Bird Ticket Sales",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:21:42+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-01T09:21:35+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

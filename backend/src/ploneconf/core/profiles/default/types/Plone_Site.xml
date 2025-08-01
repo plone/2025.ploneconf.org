@@ -15,9 +15,17 @@
 
   <!-- Enabled behaviors -->
   <property name="behaviors"
-            purge="false"
+            purge="true"
   >
-    <element value="ploneconf.core.sitecustomization" />
+    <element value="plone.basic" />
+    <element value="voltolighttheme.header" />
+    <element value="volto.preview_image_link" />
+    <element value="voltolighttheme.footer" />
+    <element value="plonegovbr.socialmedia.settings" />
+    <element value="collective.techevent.event_settings" />
+    <element value="plone.locking" />
+    <element value="plone.excludefromnavigation" />
+    <element value="volto.blocks" />
   </property>
 
 

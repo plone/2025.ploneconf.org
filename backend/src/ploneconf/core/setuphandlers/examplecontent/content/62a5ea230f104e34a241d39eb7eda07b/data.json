@@ -1,0 +1,531 @@
+{
+  "@id": "/about/plone-konferenssi-ja-pycon-finland",
+  "@type": "Document",
+  "UID": "62a5ea230f104e34a241d39eb7eda07b",
+  "allow_discussion": null,
+  "blocks": {
+    "012dc711-0f09-46b9-9be9-5b6c9667bf3f": {
+      "@type": "slate",
+      "plaintext": "  Plone on moderni sis\u00e4ll\u00f6nhallintaj\u00e4rjestelm\u00e4, joka tunnetaan erityisesti tietoturvasta, k\u00e4ytett\u00e4vyydesta ja joustavuudesta. Se on rakennettu Pythonilla ja Reactilla. 100% avointa l\u00e4hdekoodia ja ilmaista. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " on moderni sis\u00e4ll\u00f6nhallintaj\u00e4rjestelm\u00e4, joka tunnetaan erityisesti tietoturvasta, k\u00e4ytett\u00e4vyydesta ja joustavuudesta. Se on rakennettu Pythonilla ja Reactilla. 100% avointa l\u00e4hdekoodia ja ilmaista."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "blockquote"
+        }
+      ]
+    },
+    "057e8ee4-c8b0-4d64-a923-2530d864dd7a": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../../resolveuid/92a4d80ddf49415fa9e94b4f387ca223"
+    },
+    "0c08bb71-da15-4712-a453-02878cf37eee": {
+      "@type": "slate",
+      "plaintext": "Odotamme paikalle yli 150 kansainv\u00e4list\u00e4 IT-alan ammattilaista ja lis\u00e4ksi mahdollisimman paljon suomalaisia osallistujia. Konferenssi tarjoaa erinomaisen mahdollisuuden oppia, verkostoitua ja tehd\u00e4 yhteisty\u00f6t\u00e4 uusien ja eritt\u00e4in kokeneidenkin kehitt\u00e4jien kanssa.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Odotamme paikalle yli 150 kansainv\u00e4list\u00e4 IT-alan ammattilaista ja lis\u00e4ksi mahdollisimman paljon suomalaisia osallistujia. Konferenssi tarjoaa erinomaisen mahdollisuuden oppia, verkostoitua ja tehd\u00e4 yhteisty\u00f6t\u00e4 uusien ja eritt\u00e4in kokeneidenkin kehitt\u00e4jien kanssa."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1423750b-d9f4-4815-8b77-1358444da2f8": {
+      "@type": "slate",
+      "plaintext": "Liput",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Liput\u00a0"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "1e4876f6-51cf-43e7-a92b-e9609a82f14d": {
+      "@type": "slate",
+      "plaintext": "Tarvittaessa ota yhteytt\u00e4 rikupekka.oksanen@jyu.fi tai conf@plone.org .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Tarvittaessa ota yhteytt\u00e4 "
+            },
+            {
+              "children": [
+                {
+                  "text": "rikupekka.oksanen@jyu.fi"
+                }
+              ],
+              "data": {
+                "url": "mailto:rikupekka.oksanen@jyu.fi"
+              },
+              "type": "link"
+            },
+            {
+              "text": " tai "
+            },
+            {
+              "children": [
+                {
+                  "text": "conf@plone.org"
+                }
+              ],
+              "data": {
+                "url": "mailto:conf@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3455cb87-be13-488b-a8c2-701f297adfc8": {
+      "@type": "slate",
+      "plaintext": "Early bird (tai k\u00e4\u00e4rme, jos haluat) -lippujen myynti tarjoushinnoin on auki ja jatkuu  31.5.2025 saakka.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Early bird (tai k\u00e4\u00e4rme, jos haluat) -lippujen myynti tarjoushinnoin on auki ja jatkuu  31.5.2025 saakka.\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "34c605d4-c693-4fef-822b-9b0115439abf": {
+      "@type": "slate",
+      "plaintext": "Otamme vastaan esityksi\u00e4 laajalta skaalalta, joten l\u00e4het\u00e4 rohkeasti abstraktisi ja tule kertomaan tarinasi!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Otamme vastaan esityksi\u00e4 laajalta skaalalta, joten l\u00e4het\u00e4 rohkeasti abstraktisi ja tule kertomaan tarinasi!\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3cc9fbb6-4bb6-435e-ab5d-952eac3eb99b": {
+      "@type": "slate",
+      "plaintext": " J\u00e4rjestyksess\u00e4\u00e4n jo 23. Plone-konferenssi 2025 j\u00e4rjestet\u00e4\u00e4n Jyv\u00e4skyl\u00e4ss\u00e4 13.\u201319. lokakuuta 2025. Konferenssin is\u00e4nt\u00e4n\u00e4 toimii Jyv\u00e4skyl\u00e4n yliopisto yhteisty\u00f6ss\u00e4 Plone Foundationin kanssa. https://2025.ploneconf.org/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "J\u00e4rjestyksess\u00e4\u00e4n jo 23. Plone-konferenssi 2025 j\u00e4rjestet\u00e4\u00e4n Jyv\u00e4skyl\u00e4ss\u00e4 13.\u201319. lokakuuta 2025."
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " Konferenssin is\u00e4nt\u00e4n\u00e4 toimii Jyv\u00e4skyl\u00e4n yliopisto yhteisty\u00f6ss\u00e4 Plone Foundationin kanssa. "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2025.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5591f639-7fb8-4d8e-9106-d6cd96dd2f8b": {
+      "@type": "slate",
+      "plaintext": "Kaikki tarvittavat tiedot l\u00f6ytyv\u00e4t helposti konferenssin verkkosivuilta https://2025.ploneconf.org/ .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Kaikki tarvittavat tiedot l\u00f6ytyv\u00e4t helposti konferenssin verkkosivuilta "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2025.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ".\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6aee3598-ce7b-4d1d-b16a-6237ae5ff4dc": {
+      "@type": "slate",
+      "plaintext": "Call for Papers",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Call for Papers"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "7893df70-6767-4827-a853-db8ec186a0c1": {
+      "@type": "slate",
+      "plaintext": " Tervetuloa Plone-konferenssiin 2025! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Tervetuloa Plone-konferenssiin 2025!"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7ad37886-2245-41e7-ad4a-d63d8e8af3f7": {
+      "@type": "slate",
+      "plaintext": "Katso alta lyhyt videoesittely Plonesta, kokemuksistamme sen kanssa ja konferenssista Jyv\u00e4skyl\u00e4ss\u00e4!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Katso alta lyhyt videoesittely Plonesta, kokemuksistamme sen kanssa ja konferenssista Jyv\u00e4skyl\u00e4ss\u00e4!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7b5a57ad-208c-45e6-ae45-417151ba6389": {
+      "@type": "title"
+    },
+    "82c1a938-cb5a-4809-9613-08f6f02370e8": {
+      "@type": "slate",
+      "plaintext": "Voit ostaa lippuja joko koko konferenssiviikolle tai vain PyCon Finlandiin: https://2025.ploneconf.org/tickets ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Voit ostaa lippuja joko koko konferenssiviikolle tai vain PyCon Finlandiin: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/tickets"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9e4985dc-f3fe-4c9b-b54e-23b659617a8c": {
+      "@type": "slate",
+      "plaintext": "T\u00e4n\u00e4 vuonna konferenssiin sis\u00e4ltyy erityinen yhden p\u00e4iv\u00e4n tapahtuma, PyCon Finland , perjantaina 17. lokakuuta 2025. P\u00e4iv\u00e4n esitykset ja keynote r\u00e4\u00e4t\u00e4l\u00f6id\u00e4\u00e4n erityisesti Python-aiheita painottaen.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "T\u00e4n\u00e4 vuonna konferenssiin sis\u00e4ltyy erityinen yhden p\u00e4iv\u00e4n tapahtuma, "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ", perjantaina 17. lokakuuta 2025. P\u00e4iv\u00e4n esitykset ja keynote r\u00e4\u00e4t\u00e4l\u00f6id\u00e4\u00e4n erityisesti Python-aiheita painottaen.\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ade25203-59db-4d51-a34d-819e904a4150": {
+      "@type": "slate",
+      "plaintext": "Lis\u00e4tietoja",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Lis\u00e4tietoja\u00a0"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "cb68b51c-e502-43fc-839f-43d20c383ed2": {
+      "@type": "video",
+      "align": "wide",
+      "styles": {},
+      "theme": "default",
+      "url": "https://www.youtube.com/watch?v=R2uSvmctHtE"
+    },
+    "d7e57f8b-4dbc-4f37-8265-c630e8f2ea89": {
+      "@type": "slate",
+      "plaintext": "Call for papers on nyt avoinna, tarkista ohjeet ja l\u00e4het\u00e4 ehdotuksesi: https://2025.ploneconf.org/call-for-papers ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Call for papers on nyt avoinna, tarkista ohjeet ja l\u00e4het\u00e4 ehdotuksesi: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/call-for-papers"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/63d3bc88d6f84ff0b1355508020a16f9"
+              },
+              "type": "link"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ed60040d-b20f-4d1c-b46f-29636045068b": {
+      "@type": "slate",
+      "plaintext": " Jyv\u00e4skyl\u00e4n yliopisto on hy\u00f6dynt\u00e4nyt Plonea yli 20 vuotta erilaisissa palveluissa julkisista webbisivuista ja introista aina video- ja ilmoittautumisportaaleihin, verkkomaksupalveluihin ja lukuisiin erityissovelluksiin. Muita Plone-k\u00e4ytt\u00e4ji\u00e4 ovat esim. Brasilian hallitus, German Aerospace Center, Euroopan ymp\u00e4rist\u00f6keskus ja useat muut yliopistot ymp\u00e4ri maailmaa.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Jyv\u00e4skyl\u00e4n yliopisto"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi"
+              },
+              "type": "link"
+            },
+            {
+              "text": " on hy\u00f6dynt\u00e4nyt "
+            },
+            {
+              "children": [
+                {
+                  "text": "Plonea"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": " yli 20 vuotta erilaisissa palveluissa julkisista webbisivuista ja introista aina video- ja ilmoittautumisportaaleihin, verkkomaksupalveluihin ja lukuisiin erityissovelluksiin. Muita Plone-k\u00e4ytt\u00e4ji\u00e4 ovat esim. Brasilian hallitus, German Aerospace Center, Euroopan ymp\u00e4rist\u00f6keskus ja useat muut yliopistot ymp\u00e4ri maailmaa. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "057e8ee4-c8b0-4d64-a923-2530d864dd7a",
+      "7b5a57ad-208c-45e6-ae45-417151ba6389",
+      "3cc9fbb6-4bb6-435e-ab5d-952eac3eb99b",
+      "012dc711-0f09-46b9-9be9-5b6c9667bf3f",
+      "ed60040d-b20f-4d1c-b46f-29636045068b",
+      "0c08bb71-da15-4712-a453-02878cf37eee",
+      "9e4985dc-f3fe-4c9b-b54e-23b659617a8c",
+      "6aee3598-ce7b-4d1d-b16a-6237ae5ff4dc",
+      "d7e57f8b-4dbc-4f37-8265-c630e8f2ea89",
+      "34c605d4-c693-4fef-822b-9b0115439abf",
+      "1423750b-d9f4-4815-8b77-1358444da2f8",
+      "82c1a938-cb5a-4809-9613-08f6f02370e8",
+      "3455cb87-be13-488b-a8c2-701f297adfc8",
+      "ade25203-59db-4d51-a34d-819e904a4150",
+      "5591f639-7fb8-4d8e-9106-d6cd96dd2f8b",
+      "1e4876f6-51cf-43e7-a92b-e9609a82f14d",
+      "7893df70-6767-4827-a853-db8ec186a0c1",
+      "7ad37886-2245-41e7-ad4a-d63d8e8af3f7",
+      "cb68b51c-e502-43fc-839f-43d20c383ed2"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-04-11T09:28:18+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "13.-19.10.2025, Jyv\u00e4skyl\u00e4, Suomi. ",
+  "effective": "2025-04-11T09:32:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "plone-konferenssi-ja-pycon-finland",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-04-11T09:57:49+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "62a5ea230f104e34a241d39eb7eda07b/preview_image/ploneconf-2025-logo-square.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-square.png",
+    "height": 980,
+    "size": 180641,
+    "width": 1200
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Plone-konferenssi ja PyCon Finland",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-11T09:28:18+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-11T09:32:35+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,789 @@
+{
+  "@id": "/about/jyvaskyla-and-finland",
+  "@type": "Document",
+  "UID": "887c1f312e1f405fa387d498c4200530",
+  "allow_discussion": null,
+  "blocks": {
+    "051ef2a1-8b62-426e-af39-d052cc342a04": {
+      "@type": "slate",
+      "plaintext": " More tips and facts about Finland .",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "More tips and facts about Finland"
+                }
+              ],
+              "data": {
+                "url": "https://www.visitfinland.com/en/practical-tips/facts-about-finland/"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "06b87027-b1f4-4085-98a7-267d70524081": {
+      "@type": "slate",
+      "plaintext": "How to make friends in Finland?",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "How to make friends in Finland?"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "0c29c1de-aaed-4473-94a3-0860df3cb6d8": {
+      "@type": "slate",
+      "plaintext": "Winter - from late November to March, you will get lots of snow, temperatures varying from +5 to -35 Celsius, and lots of sunshine on the wintery spring days. Spring - From March to May, expect long days of sunlight, blossoming trees and flowers and people coming out of their wintery hiding places. During this period temperature varies from freezing temperatures in Lapland to +25 in Southern parts of Finland. Summer - June to August, even more sunlight, almost 24 hours a day in late June, over 30 degress of warmth and sometimes mosquitos. Autumn - September to mid-October there is a period when the air is clear, trees have amazing colors and days can be warm, over 20 degrees still.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Winter - from late November to March, you will get lots of snow, temperatures varying from +5 to -35 Celsius, and lots of sunshine on the wintery spring days. "
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Spring - From March to May, expect long days of sunlight, blossoming trees and flowers and people coming out of their wintery hiding places. During this period temperature varies from freezing temperatures in Lapland to +25 in Southern parts of Finland. "
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Summer - June to August, even more sunlight, almost 24 hours a day in late June, over 30 degress of warmth and sometimes mosquitos. "
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Autumn - September to mid-October there is a period when the air is clear, trees have amazing colors and days can be warm, over 20 degrees still."
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "19f6b278-fdaf-4210-8d48-38b191bb6f6e": {
+      "@type": "slate",
+      "plaintext": "  Let me repeat that once more. Be the first one to approach.  ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Let me repeat that once more. Be the first one to approach.\u00a0\u00a0"
+                    }
+                  ],
+                  "type": "em"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2c07797a-1708-436f-bf88-009879ad7c1b": {
+      "@type": "image",
+      "align": "center",
+      "credit": {},
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Photo by Atacan Ergin",
+      "url": "../../resolveuid/23d12c52239648c1a62de75fb815e5d0"
+    },
+    "464127e7-4233-4446-9ff5-5cf0c88a20b4": {
+      "@type": "slate",
+      "plaintext": "Source: visitfinland.fi",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Source: visitfinland.fi"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "48a74d6e-4eed-410c-82fc-8b4ee37c0d9f": {
+      "@type": "slate",
+      "plaintext": " Be the first to approach a Finn ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Be the first to approach a Finn\u00a0"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "522f8c89-555d-4e30-abe4-8faa155e9aa1": {
+      "@type": "slate",
+      "plaintext": " Stereotypes about Finns might have made you forget one very crucial but constant law about humanity. ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Stereotypes about Finns might have made you forget one very crucial but constant law about humanity."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5b3621c5-f9df-4398-9f02-c2456c53180f": {
+      "@type": "slate",
+      "plaintext": " Welcome to the the happiest country in the world! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Welcome to the the happiest country in the world! "
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5d317144-41b9-4e07-b2cd-099f5eba5dcd": {
+      "@type": "image",
+      "align": "right",
+      "alt": "Finland map",
+      "description": "Image from visitjyvaskyla.fi",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "https://visitjyvaskyla.fi/wp-content/uploads/2025/01/kartta-en-sininen.png"
+    },
+    "613f4f85-aa3d-4fa6-89a3-be04c73f8db6": {
+      "@type": "title"
+    },
+    "6a056639-df51-4b5c-90c9-a5eda9627c8b": {
+      "@type": "slate",
+      "plaintext": " Finland is a Nordic welfare state that aims to be carbon neutral by 2035. It\u2019s also the\u00a0happiest country in the world. Around\u00a075% of its surface is covered with forests,\u00a0and\u00a0it has the world\u2019s biggest archipelago,\u00a0as well as\u00a0Europe\u2019s largest lake district and last untamed wilderness, Lapland. Finland\u2019s capital,\u00a0Helsinki,\u00a0is known for\u00a0design and architecture.\u00a0Finland is also\u00a0a\u00a0safe travel destination \u2013 11 out of 12 lost wallets are returned\u00a0to their owners. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Finland is a Nordic welfare state that aims to be carbon neutral by 2035. It\u2019s also the\u00a0happiest country in the world. Around\u00a075% of its surface is covered with forests,\u00a0and\u00a0it has the world\u2019s biggest archipelago,\u00a0as well as\u00a0Europe\u2019s largest lake district and last untamed wilderness, Lapland. Finland\u2019s capital,\u00a0Helsinki,\u00a0is known for\u00a0design and architecture.\u00a0Finland is also\u00a0a\u00a0safe travel destination \u2013 11 out of 12 lost wallets are returned\u00a0to their owners."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6e79bdb6-80fb-4896-b0f4-01ae3938e920": {
+      "@type": "slate",
+      "plaintext": "So, even if we Finns might seem silent and distant at first, we will open up after someone dares to make the first contact :)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "So, even if we Finns might seem silent and distant at first, we will open up after someone dares to make the first contact :)"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "73b4630e-55ce-495a-97bb-707b3a450971": {
+      "@type": "slate",
+      "plaintext": "Source: visitfinland.fi ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Source: "
+            },
+            {
+              "children": [
+                {
+                  "text": "visitfinland.fi"
+                }
+              ],
+              "data": {
+                "url": "https://visitfinland.fi"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "83131bb8-feb0-4c0e-b3f1-738f348eafcc": {
+      "@type": "slate",
+      "plaintext": "Welcome to Plone Conference 2025: October 13-19!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Welcome to Plone Conference 2025: October 13-19!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "875ceab3-fd95-4e51-bf98-095cb173666f": {
+      "@type": "slate",
+      "plaintext": " After the initial inertia of awkwardness, you\u2019ll find the Finn opening up in a very heartfelt way. Even if they are not drunk. Almost every Finnish person speaks very good English. So even if their language is very hard, you\u2019ll have zero trouble communicating in English. And it\u2019s only the hardest to make that first Finnish friend. After you get a genuine connection going with one Finn, though, the doors to making more friends open up. ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "After the initial inertia of awkwardness, you\u2019ll find the Finn opening up in a very heartfelt way. Even if they are not drunk. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Almost every Finnish person speaks very good English."
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " So even if their language is very hard, you\u2019ll have zero trouble communicating in English. And it\u2019s only the hardest to make that first Finnish friend. After you get a genuine connection going with one Finn, though, the doors to making more friends open up.\u00a0\u00a0"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8b978fca-dc07-4025-a1d2-d499643768d7": {
+      "@type": "gridBlock",
+      "blocks": {
+        "11db15f2-9235-4d7e-9614-8200ff01c98b": {
+          "@type": "teaser",
+          "description": "Info for Plone Conference 2025 visitors",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../../resolveuid/11f56585319a4efb9f71e9b2942bb726",
+              "@type": "Document",
+              "Description": "Info for Plone Conference 2025 visitors",
+              "Subject": [],
+              "Title": "Other information",
+              "description": "Info for Plone Conference 2025 visitors",
+              "effective": "2025-03-18T07:01:09+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Other information",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Other information"
+        },
+        "e17185aa-7089-4fd7-8920-dc48716dcd67": {
+          "@type": "teaser",
+          "description": "Tips and info about Finnish language and common phrases",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../../resolveuid/c2978c1cade04c28b5358a8de3bed37e",
+              "@type": "Document",
+              "Description": "Tips and info about Finnish language and common phrases",
+              "Subject": [],
+              "Title": "Language",
+              "description": "Tips and info about Finnish language and common phrases",
+              "effective": "2025-03-18T07:16:04+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Language",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Language"
+        },
+        "e49c7aaa-3eeb-4cea-9e58-e0a40ba95d36": {
+          "@type": "teaser",
+          "description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../../resolveuid/c04b5145a1fb4d2484ae0fb021af6f5f",
+              "@type": "Document",
+              "Description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+              "Subject": [],
+              "Title": "Arriving in Jyv\u00e4skyl\u00e4",
+              "description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+              "effective": "2025-03-17T12:20:12+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Arriving in Jyv\u00e4skyl\u00e4",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Arriving in Jyv\u00e4skyl\u00e4"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "e17185aa-7089-4fd7-8920-dc48716dcd67",
+          "e49c7aaa-3eeb-4cea-9e58-e0a40ba95d36",
+          "11db15f2-9235-4d7e-9614-8200ff01c98b"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "917ddc4a-0d03-4b4b-bf0c-30f7d7ee45f4": {
+      "@type": "slate",
+      "plaintext": " Finland is selected as the happiest country in the world for the 8th time in a row! - Fortune Magazine, March 20, 2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Finland is selected as the happiest country in the world for the 8th time in a row!"
+                }
+              ],
+              "data": {
+                "url": "https://fortune.com/well/2025/03/19/finland-worlds-happiest-country/"
+              },
+              "type": "link"
+            },
+            {
+              "text": " - Fortune Magazine, March 20, 2025. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9811d7e6-ad57-4ed1-b7e8-c978ba56023f": {
+      "@type": "slate",
+      "plaintext": " Finns generally\u00a0aren\u2019t big on small talk, and quiet moments in conversations\u00a0aren\u2019t\u00a0considered awkward. Finns tend to mean what they say \u2013 if someone\u00a0asks you to get together for\u00a0lunch\u00a0sometime soon,\u00a0expect to get a text, e-mail or phone call. Finally, Finns are known for\u00a0their\u00a0modesty and self-deprecating\u00a0sense of\u00a0humour. ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Finns generally\u00a0aren\u2019t big on small talk, and quiet moments in conversations\u00a0aren\u2019t\u00a0considered awkward. Finns tend to mean what they say \u2013 if someone\u00a0asks you to get together for\u00a0lunch\u00a0sometime soon,\u00a0expect to get a text, e-mail or phone call. Finally, Finns are known for\u00a0their\u00a0modesty and self-deprecating\u00a0sense of\u00a0humour."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a01a8dc0-ea46-4dae-bc97-a70f4b91fce0": {
+      "@type": "slate",
+      "plaintext": "And then... then there is the period in late October to late November, when its dark, it might be raining, it can snow, it can rain freezing sleetstorms and the leaves of the trees have fallen. Its cold -5 to +5, windy, dreary and miserable.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "And then... then there is the period in late October to late November, when its dark, it might be raining, it can snow, it can rain freezing sleetstorms and the leaves of the trees have fallen. Its cold -5 to +5, windy, dreary and miserable. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "bb6e85cf-c737-4fe1-8d45-d1bbef4a2579": {
+      "@type": "slate",
+      "plaintext": "Every day is different here, so weather is a good topic of discussion.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Every day is different here, so weather is a good topic of discussion. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c9314969-3334-4ba4-a3b3-0ecd80c3225e": {
+      "@type": "slate",
+      "plaintext": " Yes, culture influences who you are, and the long dark climate, the cold winters, and quiet social scene makes the Finns a tiny bit more introverted than other nationalities, say Indians or Brazilians. ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Yes, culture influences who you are, and the long dark climate, the cold winters, and quiet social scene makes the Finns a tiny bit more introverted than other nationalities, say Indians or Brazilians."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "cda1f1a8-f50a-479c-a7d0-45d645e0c22f": {
+      "@type": "slate",
+      "plaintext": " More truths (and\u00a0some\u00a0half-truths) about Finns .",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "More truths (and\u00a0some\u00a0half-truths) about Finns"
+                }
+              ],
+              "data": {
+                "url": "https://www.visitfinland.com/en/articles/what-are-finns-like"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d1cee9de-992f-4d1e-aefd-1a985d1fbc28": {
+      "@type": "slate",
+      "plaintext": "This is a nice blog post by Shaswato Sarker, a student at the university.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This is a nice "
+            },
+            {
+              "children": [
+                {
+                  "text": "blog post"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi/en/blog/how-to-make-friends-in-finland"
+              },
+              "type": "link"
+            },
+            {
+              "text": " by Shaswato Sarker, a student at the university."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e26f21ae-5bf8-4fbd-814d-66cda59ac149": {
+      "@type": "slate",
+      "plaintext": "Here are some quotes from the post.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Here are some quotes from the post. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e4c64031-c64f-4821-9ee1-780e1b6cbd9c": {
+      "@type": "slate",
+      "plaintext": "Finland has four amazing seasons (and then some)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finland has four amazing seasons (and then some)"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "e596c2cd-a892-4cd5-aa30-cd95f9bca595": {
+      "@type": "slate",
+      "plaintext": "Finnish people",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finnish people"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "613f4f85-aa3d-4fa6-89a3-be04c73f8db6",
+      "5b3621c5-f9df-4398-9f02-c2456c53180f",
+      "917ddc4a-0d03-4b4b-bf0c-30f7d7ee45f4",
+      "5d317144-41b9-4e07-b2cd-099f5eba5dcd",
+      "6a056639-df51-4b5c-90c9-a5eda9627c8b",
+      "051ef2a1-8b62-426e-af39-d052cc342a04",
+      "464127e7-4233-4446-9ff5-5cf0c88a20b4",
+      "e4c64031-c64f-4821-9ee1-780e1b6cbd9c",
+      "bb6e85cf-c737-4fe1-8d45-d1bbef4a2579",
+      "0c29c1de-aaed-4473-94a3-0860df3cb6d8",
+      "a01a8dc0-ea46-4dae-bc97-a70f4b91fce0",
+      "83131bb8-feb0-4c0e-b3f1-738f348eafcc",
+      "2c07797a-1708-436f-bf88-009879ad7c1b",
+      "e596c2cd-a892-4cd5-aa30-cd95f9bca595",
+      "9811d7e6-ad57-4ed1-b7e8-c978ba56023f",
+      "cda1f1a8-f50a-479c-a7d0-45d645e0c22f",
+      "73b4630e-55ce-495a-97bb-707b3a450971",
+      "06b87027-b1f4-4085-98a7-267d70524081",
+      "d1cee9de-992f-4d1e-aefd-1a985d1fbc28",
+      "e26f21ae-5bf8-4fbd-814d-66cda59ac149",
+      "522f8c89-555d-4e30-abe4-8faa155e9aa1",
+      "c9314969-3334-4ba4-a3b3-0ecd80c3225e",
+      "48a74d6e-4eed-410c-82fc-8b4ee37c0d9f",
+      "19f6b278-fdaf-4210-8d48-38b191bb6f6e",
+      "875ceab3-fd95-4e51-bf98-095cb173666f",
+      "6e79bdb6-80fb-4896-b0f4-01ae3938e920",
+      "8b978fca-dc07-4025-a1d2-d499643768d7"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:09:40+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Basic info about Finland and Finnish people",
+  "effective": "2025-03-17T12:19:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "jyvaskyla-and-finland",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-27T13:12:06+00:00",
+  "preview_caption": "Photo: Juhana Konttinen",
+  "preview_image": {
+    "blob_path": "887c1f312e1f405fa387d498c4200530/preview_image/CITY Of light juhana konttinen.jpg",
+    "content-type": "image/jpeg",
+    "filename": "CITY Of light juhana konttinen.jpg",
+    "height": 1371,
+    "size": 474322,
+    "width": 2048
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "About Finland",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:09:40+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T12:19:55+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -5,16 +5,5 @@
     >
 
   <configure zcml:condition="installed AccessControl.security">
-    <permission
-        id="ploneconf.core.AddSponsorsDB"
-        title="ploneconf.core: Add SponsorsDB"
-        />
-    <permission
-        id="ploneconf.core.AddSponsorLevel"
-        title="ploneconf.core: Add SponsorLevel"
-        />
-    <permission
-        id="ploneconf.core.AddSponsor"
-        title="ploneconf.core: Add Sponsor"
-        />
+
   </configure></configure>

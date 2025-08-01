@@ -1,0 +1,452 @@
+{
+  "@id": "/schedule",
+  "@type": "Schedule",
+  "UID": "7632cf838e1f410ea6a0bb201a3a6420",
+  "allow_discussion": null,
+  "blocks": {
+    "0a22646d-db8d-4e3c-9ea3-2e3d994362a0": {
+      "@type": "slate",
+      "plaintext": "Conference 15-17 October",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Conference 15-17 October"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "0c590386-da02-4861-9e68-c4ec9fdf234e": {
+      "@type": "slate",
+      "plaintext": "Conference talks and keynotes will be held from Wednesday-Friday October 15-17, 2025 and will be held at Agora building .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Conference talks and keynotes will be held from Wednesday-Friday October 15-17, 2025 and will be held at "
+            },
+            {
+              "children": [
+                {
+                  "text": "Agora building"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8bcd56be266d41c8ac633dee8d172261"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1dbe1336-1c6c-4319-9678-3aedc4812695": {
+      "@type": "slate",
+      "plaintext": "Training days start at 9.00 and continue until 17.00. Lunch at 12-13.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Training days start at 9.00 and continue until 17.00. Lunch at 12-13."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "249bab55-2e8e-4745-927e-bd68849f6937": {
+      "@type": "slate",
+      "plaintext": " PyCon Finland 17 October",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " Finland 17 October"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "2caae47d-d9cc-4328-8d9d-4af1945bc586": {
+      "@type": "slate",
+      "plaintext": "Finland has active Python community especially in the Southern area, and we warmly welcome any Python enthusiast to join especially on Friday 17th. That day, the conference talks and keynote are especially selected to focus more on the pythonic side of things.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finland has active Python community especially in the Southern area, and we warmly welcome any Python enthusiast to join especially on Friday 17th. That day, the conference talks and keynote are especially selected to focus more on the pythonic side of things. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4d34652d-08fd-40dc-b72b-354d830c472e": {
+      "@type": "slate",
+      "plaintext": "The detailed schedule will be published in September 2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The detailed schedule will be published in September 2025. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5f6913a8-880d-4b1c-9a9c-e378e75bfe5f": {
+      "@type": "slate",
+      "plaintext": "The day starts at 12.00 and continues until 18.00.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The day starts at 12.00 and continues until 18.00."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6c024c6c-8604-4440-86a8-bf2d2d88494a": {
+      "@type": "slate",
+      "plaintext": "Plone Conference will include a full week of activities.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference will include a full week of activities."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6fe20260-92bd-41ab-a445-7150cfd50e42": {
+      "@type": "slate",
+      "plaintext": "Friday 17 October also includes the special event, PyCon Finland.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Friday 17 October also includes the special event, PyCon Finland."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "70acdfa7-4559-4638-be96-5154f79e6fa3": {
+      "@type": "slate",
+      "plaintext": "Sprint 18-19 October",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Sprint 18-19 October"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "71a136fc-c3bf-4ef3-acd4-d5f6eb5de36c": {
+      "@type": "slate",
+      "plaintext": "Conference days start at 9.00 or 10.00 and continue until 18.00 and include keynotes, talks, open spaces, lightning talks and opportunities to discuss and socialize.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Conference days start at 9.00 or 10.00 and continue until 18.00 and include keynotes, talks, open spaces, lightning talks and opportunities to discuss and socialize."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7f43b31e-6afb-44b2-8aa1-b66ca1132536": {
+      "@type": "slate",
+      "plaintext": "Plone the software would not be built without sprinting. On Saturday and Sunday we will have time for programming, planning the future, discussions and community building.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone the software would not be built without sprinting. On Saturday and Sunday we will have time for programming, planning the future, discussions and community building."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "85ba5c4e-d4dc-409f-94a6-11d203cc4651": {
+      "@type": "slate",
+      "plaintext": "Party!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Party!"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "8a59c78d-efde-43b2-89e4-df7e0b0bd373": {
+      "@type": "title"
+    },
+    "8e22d0bf-53f2-4715-b8ca-87baf0cbfb78": {
+      "@type": "slate",
+      "plaintext": "  Stay tuned for more details about the talks and the schedule!  ",
+      "styles": {},
+      "theme": "grey",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Stay tuned for more details about the talks and the schedule!"
+                    }
+                  ],
+                  "type": "em"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9bb6298c-a290-466c-9a01-a75f5171790b": {
+      "@type": "slate",
+      "plaintext": "Oh, and do not miss the party on Thursday evening, October 16, starting at 19.00! The party is included in the ticket price.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Oh, and do not miss the party on Thursday evening, October 16, starting at 19.00! The party is included in the ticket price."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9de14038-d149-4113-bf9e-04510d2f1ce2": {
+      "@type": "slate",
+      "plaintext": "Stay tuned for more info!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Stay tuned for more info!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a5795373-ad2d-401f-9fd6-c43b4a54686c": {
+      "@type": "slate",
+      "plaintext": "Training takes place from Monday-Tuesday October 13-14, 2025 and will be held at L\u00e4hde building .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Training takes place from Monday-Tuesday October 13-14, 2025 and will be held at "
+            },
+            {
+              "children": [
+                {
+                  "text": "L\u00e4hde building"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8bcd56be266d41c8ac633dee8d172261"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b70747bd-be69-4b46-97bc-fa3228f849db": {
+      "@type": "slate",
+      "plaintext": "The days start at 09.00 and continues until 17.00.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The days start at 09.00 and continues until 17.00. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c4646cc8-ff25-4931-9353-6b902cb1992b": {
+      "@type": "slate",
+      "plaintext": "Learn how to install, run and build software on Plone. And edit content of course.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Learn how to install, run and build software on Plone. And edit content of course. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e61e197a-b6f9-4d6d-b97e-579bf9f717b0": {
+      "@type": "slate",
+      "plaintext": "Training 13-14 October",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Training 13-14 October"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "8a59c78d-efde-43b2-89e4-df7e0b0bd373",
+      "6c024c6c-8604-4440-86a8-bf2d2d88494a",
+      "e61e197a-b6f9-4d6d-b97e-579bf9f717b0",
+      "a5795373-ad2d-401f-9fd6-c43b4a54686c",
+      "c4646cc8-ff25-4931-9353-6b902cb1992b",
+      "1dbe1336-1c6c-4319-9678-3aedc4812695",
+      "0a22646d-db8d-4e3c-9ea3-2e3d994362a0",
+      "0c590386-da02-4861-9e68-c4ec9fdf234e",
+      "6fe20260-92bd-41ab-a445-7150cfd50e42",
+      "71a136fc-c3bf-4ef3-acd4-d5f6eb5de36c",
+      "249bab55-2e8e-4745-927e-bd68849f6937",
+      "2caae47d-d9cc-4328-8d9d-4af1945bc586",
+      "5f6913a8-880d-4b1c-9a9c-e378e75bfe5f",
+      "9de14038-d149-4113-bf9e-04510d2f1ce2",
+      "70acdfa7-4559-4638-be96-5154f79e6fa3",
+      "7f43b31e-6afb-44b2-8aa1-b66ca1132536",
+      "b70747bd-be69-4b46-97bc-fa3228f849db",
+      "85ba5c4e-d4dc-409f-94a6-11d203cc4651",
+      "9bb6298c-a290-466c-9a01-a75f5171790b",
+      "4d34652d-08fd-40dc-b72b-354d830c472e",
+      "8e22d0bf-53f2-4715-b8ca-87baf0cbfb78"
+    ]
+  },
+  "created": "2025-03-17T09:51:42+00:00",
+  "description": "Plone Conference 2025 schedule information. ",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "schedule",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {},
+  "modified": "2025-08-01T18:44:41+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "title": "Schedule",
+  "type_title": "Schedule",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T09:51:42+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T12:24:54+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,52 @@
+{
+  "@id": "/sponsors/bronze/starzel",
+  "@type": "Sponsor",
+  "UID": "c73a4d3e0d0a4c8892bce1b1e03e7695",
+  "allow_discussion": null,
+  "created": "2025-04-14T09:35:40+00:00",
+  "description": "Web development specialised in Plone and Volto.",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "starzel",
+  "image": {
+    "blob_path": "c73a4d3e0d0a4c8892bce1b1e03e7695/image/starzel.png",
+    "content-type": "image/png",
+    "filename": "starzel.png",
+    "height": 768,
+    "size": 71152,
+    "width": 1024
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-04-14T09:35:44+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": null,
+  "title": "Starzel",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-14T09:35:40+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-14T09:35:44+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -2,24 +2,87 @@
   "@id": "/Plone",
   "@type": "Plone Site",
   "UID": "plone_site_root",
-  "accent_color": null,
-  "accent_foreground_color": null,
   "allow_discussion": null,
+  "audience": [
+    {
+      "@id": "f59d4635-5f42-4775-8641-9fbff8df46de",
+      "color": "#e93434",
+      "id": "f59d4635-5f42-4775-8641-9fbff8df46de",
+      "title": "Dev"
+    },
+    {
+      "@id": "1b882a1a-2f75-44bf-af32-c4095d47829c",
+      "color": "#c21c1c",
+      "id": "1b882a1a-2f75-44bf-af32-c4095d47829c",
+      "title": "SysAdmin"
+    },
+    {
+      "@id": "3e0faf55-6d23-447f-bbc3-3e7636b2384a",
+      "color": "#b31d1d",
+      "id": "3e0faf55-6d23-447f-bbc3-3e7636b2384a",
+      "title": "Designed"
+    }
+  ],
   "blocks": {
     "31355424-cc34-4902-8b11-946fab0e8dc4": {
-      "@type": "sponsorsList"
+      "@type": "sponsorsShowcaseBlock",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        }
+      },
+      "title": ""
     },
-    "5f31e9e4-173f-4ec1-ab48-64e9e2789b76": {
-      "@type": "title"
+    "440f144b-e1c0-42d5-a2af-0516c5f4fc6d": {
+      "@type": "slate"
     },
-    "6fd4df1a-d82d-4d31-b3a2-36116615350b": {
+    "62fe8d9a-8e87-49ce-a589-c86b99fcfeea": {
       "@type": "slate",
-      "plaintext": "",
+      "plaintext": " Welcome to the Plone Conference 2025 on October 13-19, 2025, hosted by University of Jyv\u00e4skyl\u00e4, Finland! \nTraining, keynotes, talks, sprint and a special event PyCon Finland on Friday, October 17, 2025. ",
       "styles": {},
-      "theme": "default",
+      "theme": "grey",
       "value": [
         {
           "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Welcome to the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone Conference 2025"
+                    }
+                  ],
+                  "data": {
+                    "url": "resolveuid/8d4058a232e44bd6adb5666377c8738f"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": " on October 13-19, 2025, hosted by University of Jyv\u00e4skyl\u00e4, Finland! \nTraining, keynotes, talks, sprint and a special event "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "PyCon Finland"
+                    }
+                  ],
+                  "data": {
+                    "url": "resolveuid/1894aa8e64d84c22ab08d9956fe9d665"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": " on Friday, October 17, 2025."
+                }
+              ],
+              "type": "strong"
+            },
             {
               "text": ""
             }
@@ -27,86 +90,776 @@
           "type": "p"
         }
       ]
+    },
+    "66d2583e-98c1-4643-9b9a-922262a84c57": {
+      "@type": "gridBlock",
+      "blocks": {
+        "4c65f71f-ba74-4735-8de7-ff03a6aeb69f": {
+          "@type": "teaser",
+          "description": "The Plone Conference, the annual gathering of the friendly and enthusiastic Plone community, has been a cornerstone of the open-source CMS world for over two decades. ",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/8d4058a232e44bd6adb5666377c8738f",
+              "@type": "Document",
+              "Description": "The Plone Conference, the annual gathering of the vibrant Plone community, has been a cornerstone of the open-source CMS world for nearly two decades. From the first edition, back in 2003 to its latest edition in 2024, the conference has evolved into a global celebration of collaboration, innovation, and knowledge sharing.",
+              "Subject": [],
+              "Title": "About",
+              "description": "The Plone Conference, the annual gathering of the friendly and enthusiastic Plone community, has been a cornerstone of the open-source CMS world for over two decades. ",
+              "effective": "2025-03-05T11:04:00+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "About",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "About"
+        },
+        "53f9557e-0638-4e36-aa18-2650af67636b": {
+          "@type": "teaser",
+          "description": "Traveling to Jyv\u00e4skyl\u00e4, Finland is pretty easy with good connections by plane, train or bus.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/75d4c72abf5045a292eb20c8f4d98435",
+              "@type": "Document",
+              "Description": "",
+              "Subject": [],
+              "Title": "Travel",
+              "description": "Traveling to Jyv\u00e4skyl\u00e4, Finland is pretty easy with good connections by plane, train or bus.",
+              "effective": "2025-03-17T14:39:45+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Travel",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Travel"
+        },
+        "61ec5b97-187d-4789-95b9-84b38e77d4af": {
+          "@type": "teaser",
+          "description": "The Call for Papers for the Plone Conference 2025 is now open! ",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/63d3bc88d6f84ff0b1355508020a16f9",
+              "@type": "Document",
+              "Description": "The Call for Proposals for the Plone Conference 2025 is officially open as of April 1st, 2025. Prospective speakers and trainers are invited to submit their proposals by September 1, 2024 (Anywhere on Earth, AoE).",
+              "Subject": [],
+              "Title": "Call for Papers",
+              "description": "The Call for Papers for the Plone Conference 2025 is now open! ",
+              "effective": "2025-03-18T08:34:45+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Call for Papers",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Call for Papers"
+        },
+        "c8b73e49-ac3c-48cc-a0bd-faa5b7246ece": {
+          "@type": "teaser",
+          "description": "Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/25a96a9801a4427fbf354a7945fc22b3",
+              "@type": "SponsorsDB",
+              "Description": "Sponsoring Plone Conference 2025",
+              "Subject": [],
+              "Title": "Sponsorship",
+              "description": "Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving.",
+              "effective": "2025-03-05T11:07:00+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Sponsors",
+              "type_title": "Sponsors Database"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Sponsors"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "4c65f71f-ba74-4735-8de7-ff03a6aeb69f",
+          "61ec5b97-187d-4789-95b9-84b38e77d4af",
+          "53f9557e-0638-4e36-aa18-2650af67636b",
+          "c8b73e49-ac3c-48cc-a0bd-faa5b7246ece"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "6fd4df1a-d82d-4d31-b3a2-36116615350b": {
+      "@type": "slider",
+      "autoplayDelay": 4000,
+      "autoplayEnabled": false,
+      "autoplayJump": false,
+      "slides": [
+        {
+          "@id": "5f1a98ad-d5c5-475d-9eaf-6454e33a1e2f",
+          "description": "Plone release managers Timo Stollenwerk, Maurits van Rees and V\u00edctor Fern\u00e1ndez de Alba discuss the current state of Plone 6.2 and give a sneak peek to upcoming Plone 7. ",
+          "flagAlign": "left",
+          "head_title": "Keynote",
+          "href": [
+            {
+              "@id": "resolveuid/8ebe4782a63849218e6189fb86782844",
+              "@type": "News Item",
+              "Description": "Plone release managers Timo Stollenwerk, Maurits van Rees and Victor fez de Alba discuss the current state of Plone 6.2 and give a sneak peek to upcoming Plone 7. ",
+              "Title": "Keynote: State of Plone - Plone 6.2 and Plone 7",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "image",
+              "title": "Keynote: State of Plone - Plone 6.2 and Plone 7"
+            }
+          ],
+          "title": "Keynote: State of Plone - Plone 6.2 and Plone 7"
+        },
+        {
+          "@id": "27ae5d70-debc-4969-9680-355c09604151",
+          "description": "Plone Conference 2025 and PyCon Finland 2025 Keynote by Patrik Lauha",
+          "flagAlign": "left",
+          "head_title": "Announcement",
+          "hideButton": false,
+          "href": [
+            {
+              "@id": "resolveuid/c716068c8bc44909964dbeaa8ea92226",
+              "@type": "News Item",
+              "Description": "Plone Conference 2025 and PyCon Finland 2025 Keynote by Patrik Lauha",
+              "Title": "Keynote: Muuttolintujen Kev\u00e4t - Automatic Bird Sound Classifier",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "image",
+              "title": "Keynote: Muuttolintujen Kev\u00e4t - Automatic Bird Sound Classifier"
+            }
+          ],
+          "title": "KEYNOTE: Muuttolintujen Kev\u00e4t - Automatic Bird Sound Classifier"
+        },
+        {
+          "@id": "e94ed562-77a0-4a82-88c8-7392c027a4c2",
+          "buttonText": "Tickets now awailable!",
+          "description": "\nWelcome to the brightest open source event at the darkest time of the year in the happiest country in the world! Tickets now available!",
+          "flagAlign": "left",
+          "head_title": "October 13-19 2025, Jyv\u00e4skyl\u00e4, Finland",
+          "hideButton": true,
+          "href": [
+            {
+              "@id": "resolveuid/8f82c1589f4447529763c1223ed798dc",
+              "@type": "Document",
+              "Description": "Get your Plone Conference and PyCon Finland tickets here! ",
+              "Title": "Tickets",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "Tickets"
+            }
+          ],
+          "preview_image": [
+            {
+              "@id": "resolveuid/c38b7aae5cc34b0ca1ec759e01852757",
+              "@type": "Image",
+              "CreationDate": "2025-03-17T09:50:00+00:00",
+              "Creator": "rikupekka-oksanen",
+              "Date": "2025-03-17T09:50:00+00:00",
+              "Description": "",
+              "EffectiveDate": "None",
+              "ExpirationDate": "None",
+              "ModificationDate": "2025-03-17T09:50:00+00:00",
+              "Subject": [],
+              "Title": "CITY Of light juhana konttinen.jpg",
+              "Type": "Image",
+              "UID": "c38b7aae5cc34b0ca1ec759e01852757",
+              "cmf_uid": null,
+              "created": "2025-03-17T09:50:00+00:00",
+              "description": "",
+              "effective": "1969-12-31T00:00:00+00:00",
+              "end": null,
+              "exclude_from_nav": false,
+              "expires": "2499-12-31T00:00:00+00:00",
+              "getIcon": true,
+              "getId": "city-of-light-juhana-konttinen.jpg",
+              "getObjSize": "463.2 KB",
+              "getPath": "/Plone/images/city-of-light-juhana-konttinen.jpg",
+              "getRemoteUrl": null,
+              "getURL": "https://2025.ploneconf.org/images/city-of-light-juhana-konttinen.jpg",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "id": "city-of-light-juhana-konttinen.jpg",
+              "image_field": "image",
+              "is_folderish": false,
+              "level": null,
+              "listCreators": [
+                "rikupekka-oksanen"
+              ],
+              "location": null,
+              "mime_type": "image/jpeg",
+              "modified": "2025-03-17T09:50:00+00:00",
+              "nav_title": null,
+              "portal_type": "Image",
+              "review_state": null,
+              "start": null,
+              "sync_uid": null,
+              "title": "CITY Of light juhana konttinen.jpg",
+              "type_title": "Image"
+            }
+          ],
+          "title": "Plone Conference 2025"
+        },
+        {
+          "@id": "f2e285b9-6867-46f3-b942-91a3f7c2d3d5",
+          "description": "The Call for Papers is now open",
+          "flagAlign": "left",
+          "head_title": "Tell your story!",
+          "href": [
+            {
+              "@id": "resolveuid/63d3bc88d6f84ff0b1355508020a16f9",
+              "@type": "Document",
+              "Description": "The Call for Proposals for the Plone Conference 2025. ",
+              "Title": "Call for Papers",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "Call for Papers"
+            }
+          ],
+          "preview_image": [
+            {
+              "@id": "resolveuid/5e228acfc2d24657ae09b0f402d4081d",
+              "@type": "Image",
+              "CreationDate": "2025-03-17T09:50:02+00:00",
+              "Creator": "rikupekka-oksanen",
+              "Date": "2025-03-17T09:50:02+00:00",
+              "Description": "",
+              "EffectiveDate": "None",
+              "ExpirationDate": "None",
+              "ModificationDate": "2025-03-17T09:50:02+00:00",
+              "Subject": [],
+              "Title": "kanavuori photo Jukka Paakkinen.JPG",
+              "Type": "Image",
+              "UID": "5e228acfc2d24657ae09b0f402d4081d",
+              "cmf_uid": null,
+              "created": "2025-03-17T09:50:02+00:00",
+              "description": "",
+              "effective": "1969-12-31T00:00:00+00:00",
+              "end": null,
+              "exclude_from_nav": false,
+              "expires": "2499-12-31T00:00:00+00:00",
+              "getIcon": true,
+              "getId": "kanavuori-photo-jukka-paakkinen.jpg",
+              "getObjSize": "362.4 KB",
+              "getPath": "/Plone/images/kanavuori-photo-jukka-paakkinen.jpg",
+              "getRemoteUrl": null,
+              "getURL": "https://2025.ploneconf.org/images/kanavuori-photo-jukka-paakkinen.jpg",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "id": "kanavuori-photo-jukka-paakkinen.jpg",
+              "image_field": "image",
+              "is_folderish": false,
+              "level": null,
+              "listCreators": [
+                "rikupekka-oksanen"
+              ],
+              "location": null,
+              "mime_type": "image/jpeg",
+              "modified": "2025-03-17T09:50:02+00:00",
+              "nav_title": null,
+              "portal_type": "Image",
+              "review_state": null,
+              "start": null,
+              "sync_uid": null,
+              "title": "kanavuori photo Jukka Paakkinen.JPG",
+              "type_title": "Image"
+            }
+          ],
+          "title": "Call for Papers"
+        },
+        {
+          "@id": "75a25f6a-3af6-47c0-8b07-730c88a6c7dc",
+          "description": "PyCon is back in Finland! Special 1 day event within Plone Conference on Friday 17th, 2025!",
+          "flagAlign": "left",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/1894aa8e64d84c22ab08d9956fe9d665",
+              "@type": "Document",
+              "Description": "PyCon is back in Finland!",
+              "Title": "PyCon Finland",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "PyCon Finland"
+            }
+          ],
+          "title": "PyCon Finland"
+        }
+      ],
+      "styles": {},
+      "theme": "default"
+    },
+    "8a8ef397-b718-4e1e-ae2c-d20dc8d40e85": {
+      "@type": "slate",
+      "plaintext": "On any questions about the conference, please do not hesitate to contact us !",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "On any questions about the conference, please do not hesitate to "
+            },
+            {
+              "children": [
+                {
+                  "text": "contact us"
+                }
+              ],
+              "data": {
+                "url": "resolveuid/7e95cf2fe5da43cbb0bd21caf23d5b94"
+              },
+              "type": "link"
+            },
+            {
+              "text": "!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "943effac-114b-405d-bf52-5ff790f0a543": {
+      "@type": "slate"
+    },
+    "a3f0cc9d-b9cf-4628-80e7-ae8a58e2c742": {
+      "@type": "slate",
+      "plaintext": "Looking for sponsoring the conference? Check out the sponsorship levels .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Looking for sponsoring the conference? Check out the "
+            },
+            {
+              "children": [
+                {
+                  "text": "sponsorship levels"
+                }
+              ],
+              "data": {
+                "url": "resolveuid/25a96a9801a4427fbf354a7945fc22b3"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b5ea6c62-cedc-468f-919e-f04a0851db2c": {
+      "@type": "__button",
+      "href": [
+        {
+          "@id": "resolveuid/8f82c1589f4447529763c1223ed798dc",
+          "Description": "Plone Conference 2025 tickets",
+          "Title": "Tickets",
+          "hasPreviewImage": true,
+          "title": "Tickets"
+        }
+      ],
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "grey",
+      "title": "Get Your Tickets Now!"
+    },
+    "ca4e11a4-d5b7-4e09-b3c9-e6a2dc5de50b": {
+      "@type": "__button",
+      "href": [
+        {
+          "@id": "resolveuid/91cd9339e78b442595685a4f73869afb",
+          "Description": "Plone Conference 2025 News and Events",
+          "Title": "News",
+          "hasPreviewImage": null,
+          "title": "News"
+        }
+      ],
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Read all the news"
+    },
+    "e1342a49-a1e6-49a4-89a7-d08c8fe88564": {
+      "@type": "slate",
+      "plaintext": "  Plone is a content management system, known especially for its security, usability and flexibility. Use it however you want, wherever you want. 100% open source and free, now and forever. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://plone.org"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": " is a content management system, known especially for its security, usability and flexibility. Use it however you want, wherever you want. 100% open source and free, now and forever."
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "blockquote"
+        }
+      ]
+    },
+    "e14c79ba-08f5-46e7-86b3-42b6b5f9c915": {
+      "@type": "listing",
+      "headlineTag": "h2",
+      "querystring": {
+        "limit": "2",
+        "query": [
+          {
+            "i": "portal_type",
+            "o": "plone.app.querystring.operation.selection.any",
+            "v": [
+              "News Item"
+            ]
+          }
+        ],
+        "sort_on": "effective",
+        "sort_order": "descending",
+        "sort_order_boolean": true
+      },
+      "styles": {},
+      "theme": "grey",
+      "variation": "grid"
     }
   },
   "blocks_layout": {
     "items": [
-      "5f31e9e4-173f-4ec1-ab48-64e9e2789b76",
       "6fd4df1a-d82d-4d31-b3a2-36116615350b",
-      "31355424-cc34-4902-8b11-946fab0e8dc4"
+      "62fe8d9a-8e87-49ce-a589-c86b99fcfeea",
+      "b5ea6c62-cedc-468f-919e-f04a0851db2c",
+      "e1342a49-a1e6-49a4-89a7-d08c8fe88564",
+      "943effac-114b-405d-bf52-5ff790f0a543",
+      "66d2583e-98c1-4643-9b9a-922262a84c57",
+      "440f144b-e1c0-42d5-a2af-0516c5f4fc6d",
+      "a3f0cc9d-b9cf-4628-80e7-ae8a58e2c742",
+      "e14c79ba-08f5-46e7-86b3-42b6b5f9c915",
+      "ca4e11a4-d5b7-4e09-b3c9-e6a2dc5de50b",
+      "31355424-cc34-4902-8b11-946fab0e8dc4",
+      "8a8ef397-b718-4e1e-ae2c-d20dc8d40e85"
     ]
   },
-  "complementary_logo": null,
-  "contributors": [],
-  "creators": [
-    "admin"
+  "complementary_logo": {
+    "blob_path": "plone_site_root/complementary_logo/pycon25.png",
+    "content-type": "image/png",
+    "filename": "pycon25.png",
+    "height": 303,
+    "size": 11354,
+    "width": 300
+  },
+  "description": "Plone Conference 2025 in Jyv\u00e4skyl\u00e4, Finland",
+  "durations_keynote": [
+    {
+      "@id": "a2fcbb06-55fa-49b6-93ff-1ad82012dd79",
+      "color": "#252f92",
+      "duration": 60,
+      "id": "a2fcbb06-55fa-49b6-93ff-1ad82012dd79",
+      "title": "Keynote"
+    }
   ],
-  "description": "",
-  "effective": null,
+  "durations_talk": [
+    {
+      "@id": "28c13e1a-b15a-4310-8777-cf06e1f6fcb1",
+      "color": "#a84747",
+      "duration": 30,
+      "id": "28c13e1a-b15a-4310-8777-cf06e1f6fcb1",
+      "title": "Short Talk"
+    },
+    {
+      "@id": "28c13e1a-b15a-4310-8777-cf06e1f6fcb1",
+      "color": "#a84747",
+      "duration": 45,
+      "id": "28c13e1a-b15a-4310-8777-cf06e1f6fcb1",
+      "title": "Long Talk"
+    }
+  ],
+  "durations_training": [
+    {
+      "@id": "75804b23-e448-41e4-939f-0f0882595ee2",
+      "color": "#151e8d",
+      "duration": 240,
+      "id": "75804b23-e448-41e4-939f-0f0882595ee2",
+      "title": "4 hours"
+    },
+    {
+      "@id": "704ba19f-2e39-40c1-919f-645a2eeb2366",
+      "color": "#892020",
+      "duration": 480,
+      "id": "704ba19f-2e39-40c1-919f-645a2eeb2366",
+      "title": "1 Day"
+    },
+    {
+      "@id": "704ba19f-2e39-40c1-919f-645a2eeb2366",
+      "color": "#892020",
+      "duration": 960,
+      "id": "704ba19f-2e39-40c1-919f-645a2eeb2366",
+      "title": "2 Days"
+    }
+  ],
+  "end": "2025-10-19T15:00:00",
   "exclude_from_nav": false,
-  "expires": null,
   "exportimport.constrains": {},
   "exportimport.conversation": [],
-  "footer_links": {
-    "blocks": {
-      "2abf9f90-c772-48c7-a3b9-e8eb631fa716": {
-        "href": [
-          {
-            "@id": "/about/contact",
-            "@type": "Document",
-            "Description": "",
-            "Title": "Contact",
-            "title": "Contact"
-          }
-        ],
-        "title": "Contact"
-      },
-      "8358f04e-3591-46d9-931d-31a24300119d": {
-        "href": [
-          {
-            "@id": "/about/code-of-conduct",
-            "@type": "Document",
-            "Description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
-            "Title": "Code of Conduct",
-            "title": "Code of Conduct"
-          }
-        ],
-        "title": "Code of Conduct"
-      }
+  "facebook_app_id": "",
+  "facebook_username": "",
+  "footer_colophon_text": null,
+  "footer_links": [
+    {
+      "@id": "777fdb3b-ec73-4ec7-b812-1eae1b702ce5",
+      "href": [
+        {
+          "@id": "resolveuid/8d4058a232e44bd6adb5666377c8738f",
+          "@type": "Document",
+          "Description": "The Plone Conference, the annual gathering of the friendly and enthusiastic Plone community, has been a cornerstone of the open-source CMS world for over two decades. ",
+          "Title": "About",
+          "title": "About"
+        }
+      ],
+      "title": "About"
     },
-    "blocks_layout": {
-      "items": [
-        "2abf9f90-c772-48c7-a3b9-e8eb631fa716",
-        "8358f04e-3591-46d9-931d-31a24300119d"
-      ]
+    {
+      "@id": "35016f9c-b60b-4fea-acc8-fb580164a8aa",
+      "href": [
+        {
+          "@id": "resolveuid/1b8b0b690026425990f5dcb17c49dbab",
+          "@type": "Document",
+          "Description": "All conference attendees, trainers, and organizers agree to abide by the Plone Code of Conduct",
+          "Title": "Code of Conduct",
+          "title": "Code of Conduct"
+        }
+      ],
+      "title": "Code of Conduct"
+    },
+    {
+      "@id": "5aaee719-5d34-4ffe-b7a4-dea10ecf67c4",
+      "href": [
+        {
+          "@id": "resolveuid/7e95cf2fe5da43cbb0bd21caf23d5b94",
+          "@type": "Document",
+          "Description": "Plone Conference 2025 Contact Info",
+          "Title": "Contact",
+          "title": "Contact"
+        }
+      ],
+      "title": "Contact"
     }
-  },
-  "footer_logos": {
-    "blocks": {},
-    "blocks_layout": {}
-  },
+  ],
+  "footer_logos": [],
   "footer_logos_container_width": "default",
   "footer_logos_size": "s",
+  "has_fat_menu": true,
+  "has_intranet_header": false,
+  "header_actions": [],
   "id": "Plone",
   "intranet_flag": null,
   "is_folderish": true,
-  "items_total": 3,
+  "items_total": 9,
   "language": "##DEFAULT##",
+  "levels": [
+    {
+      "@id": "bf82dd87-e832-46c4-93d9-ab732b0c2796",
+      "color": "#d04545",
+      "id": "bf82dd87-e832-46c4-93d9-ab732b0c2796",
+      "title": "Beginner"
+    },
+    {
+      "@id": "00dfc721-461f-413a-bf93-8d32b7652938",
+      "color": "#ae4141",
+      "id": "00dfc721-461f-413a-bf93-8d32b7652938",
+      "title": "Intermediate"
+    },
+    {
+      "@id": "db001064-afc5-4a62-a185-9621794835ee",
+      "color": "#e52828",
+      "id": "db001064-afc5-4a62-a185-9621794835ee",
+      "title": "Advanced"
+    }
+  ],
   "lock": {
     "locked": false,
     "stealable": true
   },
-  "logo": null,
-  "primary_foreground_color": null,
+  "logo": {
+    "blob_path": "plone_site_root/logo/ploneconf-2025-logo-small-2.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-small-2.png",
+    "height": 388,
+    "size": 96903,
+    "width": 800
+  },
+  "preview_caption_link": null,
   "review_state": null,
-  "rights": "",
-  "secondary_color": null,
-  "secondary_foreground_color": null,
-  "subjects": [],
-  "table_of_contents": null,
+  "share_social_data": true,
+  "social_links": [
+    {
+      "@id": "92e5d613-3c94-420c-a21b-8b47f7002090",
+      "href": [
+        {
+          "@id": "https://plone.social/@ploneconf",
+          "title": "plone.social/@ploneconf"
+        }
+      ],
+      "id": "mastodon",
+      "title": "Mastodon"
+    },
+    {
+      "@id": "23205a01-b4a9-4af6-a812-7365d25ba0c4",
+      "href": [
+        {
+          "@id": "https://bsky.app/profile/plone.org",
+          "title": "bsky.app/profile/plone.org"
+        }
+      ],
+      "id": "bluesky",
+      "title": "BlueSky"
+    },
+    {
+      "@id": "ead90466-384e-4c93-baeb-0a6d1df6fe69",
+      "href": [
+        {
+          "@id": "https://x.com/ploneconf/",
+          "title": "x.com/ploneconf/"
+        }
+      ],
+      "id": "x",
+      "title": "X"
+    },
+    {
+      "@id": "1f656ed7-42bf-4372-9b32-271b3bb60361",
+      "href": [
+        {
+          "@id": "https://instagram.com/ploneconf/",
+          "title": "instagram.com/ploneconf/"
+        }
+      ],
+      "id": "instagram",
+      "title": "Instagram"
+    },
+    {
+      "@id": "b7ca1026-8610-45b3-be81-b55233419d87",
+      "href": [
+        {
+          "@id": "https://www.youtube.com/@PloneCMS",
+          "title": "www.youtube.com/@PloneCMS"
+        }
+      ],
+      "id": "youtube",
+      "title": "YouTube"
+    }
+  ],
+  "start": "2025-10-13T06:00:00",
   "title": "Plone Conference 2025",
+  "tracks": [
+    {
+      "@id": "50",
+      "color": "#016AAD",
+      "id": "50",
+      "title": "Plone: Backend"
+    },
+    {
+      "@id": "51",
+      "color": "#016AAD",
+      "id": "51",
+      "title": "Plone: Frontend"
+    },
+    {
+      "@id": "52",
+      "color": "#016AAD",
+      "id": "52",
+      "title": "Plone: DevOps"
+    },
+    {
+      "@id": "53",
+      "color": "#016AAD",
+      "id": "53",
+      "title": "Plone: Case Study"
+    },
+    {
+      "@id": "6a2f2697-3e4b-4360-a880-e7c53d73a64c",
+      "color": "#410b57",
+      "id": "6a2f2697-3e4b-4360-a880-e7c53d73a64c",
+      "title": "Keynote"
+    }
+  ],
   "type_title": "Plone Site",
   "workflow_history": {},
   "working_copy": null,
-  "working_copy_of": null
+  "working_copy_of": null,
+  "x_username": ""
 }

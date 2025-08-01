@@ -1,0 +1,40 @@
+{
+  "@id": "/about/venue-info/lahde-building.jpg",
+  "@type": "Image",
+  "UID": "5abd6ecbd192409296889ef9d1d9eeb5",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-18T06:41:07+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "lahde-building.jpg",
+  "image": {
+    "blob_path": "5abd6ecbd192409296889ef9d1d9eeb5/image/lahde-building.jpg",
+    "content-type": "image/jpeg",
+    "filename": "lahde-building.jpg",
+    "height": 810,
+    "size": 541542,
+    "width": 1440
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-12T11:16:44+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "lahde-building.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,1050 @@
+{
+  "@id": "/travel/accommodation",
+  "@type": "Document",
+  "UID": "3547cda61205410aa7a8a26fabf0f401",
+  "allow_discussion": null,
+  "blocks": {
+    "02be8212-d037-4755-9541-189206e1599d": {
+      "@type": "slate",
+      "plaintext": "For the conference, we have a few options with room quotas at special prices.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "For the conference, we have a few options with room quotas at special prices."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0517648f-9a76-49d4-9695-1fcb786e83e8": {
+      "@type": "slate",
+      "plaintext": "Located just accross the street from the train station and neatly in the city center, Original Sokos Hotel Alexandra offers quality accommodance on a good location. 20 mins walk to conference location (1,4 km).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Located just accross the street from the train station and neatly in the city center, Original Sokos Hotel Alexandra offers quality accommodance on a good location. 20 mins walk to conference location (1,4 km)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0a08fc80-bf1b-4c97-aafc-688e3c756b54": {
+      "@type": "slate",
+      "plaintext": "Located in Mattilanniemi, just 1 min walk away from the conference venue and by the lake Jyv\u00e4sj\u00e4rvi, hotel Alba offers the most convenient access to conference activities.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Located in Mattilanniemi, just 1 min walk away from the conference venue and by the lake Jyv\u00e4sj\u00e4rvi, hotel Alba offers the most convenient access to conference activities."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0cb9b9f0-cfe5-4901-a1af-f128e4fffe6d": {
+      "@type": "slate",
+      "plaintext": "GreenStar Hotel Jyv\u00e4skyl\u00e4 is located in the city centre. Heikinkatu 3, 40100 Jyv\u00e4skyl\u00e4.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "GreenStar Hotel Jyv\u00e4skyl\u00e4 is located in the city centre. Heikinkatu 3, 40100 Jyv\u00e4skyl\u00e4. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0de18580-3495-4031-a330-685f8db75ae8": {
+      "@type": "slate",
+      "plaintext": "1 person room, incl. wifi, breakfast 93\u20ac/night 2 person room, incl. wifi, breakfast 105\u20ac/night 2 person room + extra bed, incl. wifi, breakfast 117\u20ac/night",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "1 person room, incl. wifi, breakfast 93\u20ac/night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "2 person room, incl. wifi, breakfast 105\u20ac/night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "2 person room + extra bed, incl. wifi, breakfast 117\u20ac/night"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "12bc573a-eb68-4bab-ae4b-afacf2c57ed4": {
+      "@type": "slate",
+      "plaintext": "More options",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "More options"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "1633d92c-5907-4e6b-9555-bd45acf59667": {
+      "@type": "slate",
+      "plaintext": " https://www.hotellialba.fi/en/frontpage ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://www.hotellialba.fi/en/frontpage"
+                }
+              ],
+              "data": {
+                "url": "https://www.hotellialba.fi/en/frontpage"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1e8e874e-9404-49d1-b38d-cd52c4bfddfa": {
+      "@type": "slate",
+      "plaintext": "Free cancellation until one day before the reserved time. Free parking for hotel quests.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Free cancellation until one day before the reserved time. Free parking for hotel quests. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "221f8ac3-2c13-4984-a245-134259d2ee65": {
+      "@type": "slate",
+      "plaintext": "All prices include VAT, as well as a generous breakfast buffet, access to the customer sauna during designated times.\u00a0 Additionally, guests enjoy free parking and Wi-Fi.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "All prices include VAT, as well as a generous breakfast buffet, access to the customer sauna during designated times.\u00a0 Additionally, guests enjoy free parking and Wi-Fi."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "22cd9fc2-1ff6-46f9-a209-d023441b378c": {
+      "@type": "slate",
+      "plaintext": "One of the newest hotels in Jyv\u00e4skyl\u00e4, Solo Sokos Hotel Paviljonki is 3 min walk away from the train station and 20 mins walk to conference location (1,5 km).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "One of the newest hotels in Jyv\u00e4skyl\u00e4, Solo Sokos Hotel Paviljonki is 3 min walk away from the train station and 20 mins walk to conference location (1,5 km)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "24278cbb-5217-462c-903a-49f6238e1f5d": {
+      "@type": "slate",
+      "plaintext": " jyvaskyla@greenstar.fi ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "jyvaskyla@greenstar.fi"
+                }
+              ],
+              "data": {
+                "url": "mailto:jyvaskyla@greenstar.fi"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "29e2cbdf-a60d-4e41-8f33-78a9502c5862": {
+      "@type": "slate",
+      "plaintext": "Plone Conference hotels",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference hotels"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "2acc1aaf-1daa-4a20-8c1c-8cab1a8798d9": {
+      "@type": "slate",
+      "plaintext": "Please make your reservations directly with the hotel using the code PLONE2025 by contacting:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Please make your reservations directly with the hotel using the code "
+            },
+            {
+              "children": [
+                {
+                  "text": "PLONE2025 "
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "by contacting:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2cd97ad9-1bb0-4e55-a322-e7777388cd00": {
+      "@type": "slate",
+      "plaintext": " https://visitjyvaskyla.fi/en/attractions/sokos-hotel-alexandra/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://visitjyvaskyla.fi/en/attractions/sokos-hotel-alexandra/"
+                }
+              ],
+              "data": {
+                "url": "https://visitjyvaskyla.fi/en/attractions/sokos-hotel-alexandra/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2ee39c29-3986-4f5d-b992-f30e2e949875": {
+      "@type": "slate",
+      "plaintext": "Hotel Milton",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hotel Milton"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "354b2eda-87fb-4d79-ab23-d4ed6f2a59eb": {
+      "@type": "slate",
+      "plaintext": "Please visit https://visitjyvaskyla.fi/en/stay/ to see different options.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Please visit "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://visitjyvaskyla.fi/en/stay/"
+                }
+              ],
+              "data": {
+                "url": "https://visitjyvaskyla.fi/en/stay/"
+              },
+              "type": "link"
+            },
+            {
+              "text": " to see different options."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "37d54463-e344-4324-8a2d-d41325470988": {
+      "@type": "slate",
+      "plaintext": "Green Star Hotel",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Green Star Hotel"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "43ae741b-d24b-40c4-a9b1-217bfecca67f": {
+      "@type": "slate",
+      "plaintext": " https://visitjyvaskyla.fi/en/attractions/hotel-alba/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://visitjyvaskyla.fi/en/attractions/hotel-alba/"
+                }
+              ],
+              "data": {
+                "url": "https://visitjyvaskyla.fi/en/attractions/hotel-alba/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4bf3cc5b-20fa-4c03-ba2c-36646f86f6aa": {
+      "@type": "slate",
+      "plaintext": "1 person room, incl. wifi, breakfast, evening sauna, 90\u20ac/night 2 person room, incl. wifi, breakfast, evening sauna, 120\u20ac/night",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "1 person room, incl. wifi, breakfast, evening sauna, 90\u20ac/night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "2 person room, incl. wifi, breakfast, evening sauna, 120\u20ac/night"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "4bf8a1f0-3c91-4cde-8a4c-aa9678553bea": {
+      "@type": "slate",
+      "plaintext": " https://visitjyvaskyla.fi/en/attractions/solo-sokos-hotel-paviljonki-3/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://visitjyvaskyla.fi/en/attractions/solo-sokos-hotel-paviljonki-3/"
+                }
+              ],
+              "data": {
+                "url": "https://visitjyvaskyla.fi/en/attractions/solo-sokos-hotel-paviljonki-3/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4d47424b-9224-4f01-aab6-84ef6b58f81c": {
+      "@type": "slate",
+      "plaintext": "For more info, please visit https://visitjyvaskyla.fi/en/stay/ ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "For more info, please visit "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://visitjyvaskyla.fi/en/stay/"
+                }
+              ],
+              "data": {
+                "url": "https://visitjyvaskyla.fi/en/stay/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "51a8d115-7158-4d48-bff5-cece8b27217e": {
+      "@type": "slate",
+      "plaintext": "+358 10 423 9391",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "+358 10 423 9391"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "58833533-e801-46b2-9247-f3bb312fdef2": {
+      "@type": "slate",
+      "plaintext": "Plone Conference Prices",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": " Plone Conference Prices"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "58d5acf6-e9c3-4f97-9498-24443a9419a6": {
+      "@type": "slate",
+      "plaintext": "+358 14 3377 900",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "+358 14 3377 900"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "727d3daa-f67d-4d48-87fb-ae92549cd035": {
+      "@type": "slate",
+      "plaintext": "Located in the city centre, Hotel Milton offers more affordable prices and the best location when thinking about exploring the city. Hotel has 24 hour reception and lounge bar. 20 mins walk to conference location (1,4 km).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Located in the city centre, Hotel Milton offers more affordable prices and the best location when thinking about exploring the city. Hotel has 24 hour reception and lounge bar. 20 mins walk to conference location (1,4 km)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7d1345cd-9979-4651-8d1d-dab0755aa4ba": {
+      "@type": "slate",
+      "plaintext": "Solo Sokos Hotel Paviljonki",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Solo Sokos Hotel Paviljonki"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "8316b081-fff2-474a-885c-1ff0db16e818": {
+      "@type": "title"
+    },
+    "8426f6c2-b2c3-4fe5-8320-335b3c544f2a": {
+      "@type": "slate",
+      "plaintext": "In addition to these, there are over 30 other hotels in the area, and other options too.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "In addition to these, there are over 30 other hotels in the area, and other options too."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8a317291-fdd8-4cbc-a8e1-b3b4b2231bf6": {
+      "@type": "slate",
+      "plaintext": "Contact the hotel directly with code PLONE25 for a discount prices by September 29th.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Contact the hotel directly with code PLONE25 for a discount prices by September 29th. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8e7c2e6b-f91e-4325-b3e1-018fdca6ee21": {
+      "@type": "slate",
+      "plaintext": "Use code BPLONE for a discount.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Use code BPLONE for a discount."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8e94767a-7928-4f06-a85c-f7cd7abdbec6": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "         "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "952166af-bd9f-4eb8-a360-59e01b9e44af": {
+      "@type": "slate",
+      "plaintext": "Enter promo code  to booking site PLONE2025 ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Enter promo code"
+            },
+            {
+              "children": [
+                {
+                  "text": "\u00a0"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "to booking site"
+            },
+            {
+              "children": [
+                {
+                  "text": "\u00a0PLONE2025"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a207cee9-711f-4c03-a021-3be27f9311cc": {
+      "@type": "slate",
+      "plaintext": " https://www.greenstar.fi/en/hotels/jyvaskyla/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://www.greenstar.fi/en/hotels/jyvaskyla/"
+                }
+              ],
+              "data": {
+                "url": "https://www.greenstar.fi/en/hotels/jyvaskyla/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a2cc8be8-3717-4e2d-a6cb-d459ba33e676": {
+      "@type": "slate",
+      "plaintext": "Original Sokos Hotel Alexandra",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Original Sokos Hotel Alexandra"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "b02b1256-ea7b-486e-800d-2673a03406f3": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": " "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "bd72cd1f-761d-436c-b4c2-91583ae89fd4": {
+      "@type": "slate",
+      "plaintext": "Use code BPLONE for a discount.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Use code BPLONE for a discount."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c058d48e-8ed2-4d2d-9c52-a2709bf4f83f": {
+      "@type": "slate",
+      "plaintext": " https://visitjyvaskyla.fi/en/attractions/hotel-milton/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://visitjyvaskyla.fi/en/attractions/hotel-milton/"
+                }
+              ],
+              "data": {
+                "url": "https://visitjyvaskyla.fi/en/attractions/hotel-milton/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d0931581-0cdb-47e9-9d2d-fd5299928342": {
+      "@type": "slate",
+      "plaintext": "Standard Room single: \u20ac109.00 / night Economy Room single : \u20ac100.00 / night Superior Room single : \u20ac120.00 / night Standard Room Twin : \u20ac130.00 / night ( 2 persons rate) Sauna Junior Suite single : 168,00 / night Sauna Junior Suite twin : \u20ac190.00 / night ( 2 persons rate)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Standard Room single: \u20ac109.00 / night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Economy Room single : \u20ac100.00 / night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Superior Room single : \u20ac120.00 / night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Standard Room Twin : \u20ac130.00 / night ( 2 persons rate)\u00a0"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Sauna Junior Suite single : 168,00 / night"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Sauna Junior Suite twin : \u20ac190.00 / night ( 2 persons rate)\u00a0"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "d1b10ac4-2c33-4239-b350-46bbff2638ec": {
+      "@type": "slate",
+      "plaintext": "Hotel Alba",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hotel Alba"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "e38ffb28-f3a3-439d-8552-c18668142a85": {
+      "@type": "slate",
+      "plaintext": "Email: info@hotellialba.fi ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Email: \u00a0"
+            },
+            {
+              "children": [
+                {
+                  "text": "info@hotellialba.fi"
+                }
+              ],
+              "data": {
+                "url": "mailto:info@hotellialba.fi"
+              },
+              "type": "link"
+            },
+            {
+              "text": "\u00a0\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ef53ae67-70b2-414d-a264-7d716cd2a10f": {
+      "@type": "slate",
+      "plaintext": "Jyv\u00e4skyl\u00e4 has many hotels, hostels, Airbnb and othes accommodation options to choose from.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Jyv\u00e4skyl\u00e4 has many hotels, hostels, Airbnb and othes accommodation options to choose from."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f316e812-7301-401d-a9b2-c6969afd0663": {
+      "@type": "slate",
+      "plaintext": "Phone: +358 14 636311",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Phone: +358 14 636311"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f5d890a1-a378-4eee-a6c1-6931e3a0fa44": {
+      "@type": "slate",
+      "plaintext": "Contact the hotel directly with code PLONE25 for a discount prices.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Contact the hotel directly with code PLONE25 for a discount prices. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fa56295e-f70e-4ded-a98d-413a9b5a48a0": {
+      "@type": "slate",
+      "plaintext": " info@hotellimilton.com ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "\ufeffinfo@hotellimilton.com"
+                }
+              ],
+              "data": {
+                "url": "mailto:info@hotellimilton.com"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "8316b081-fff2-474a-885c-1ff0db16e818",
+      "ef53ae67-70b2-414d-a264-7d716cd2a10f",
+      "4d47424b-9224-4f01-aab6-84ef6b58f81c",
+      "29e2cbdf-a60d-4e41-8f33-78a9502c5862",
+      "02be8212-d037-4755-9541-189206e1599d",
+      "d1b10ac4-2c33-4239-b350-46bbff2638ec",
+      "0a08fc80-bf1b-4c97-aafc-688e3c756b54",
+      "58833533-e801-46b2-9247-f3bb312fdef2",
+      "d0931581-0cdb-47e9-9d2d-fd5299928342",
+      "221f8ac3-2c13-4984-a245-134259d2ee65",
+      "2acc1aaf-1daa-4a20-8c1c-8cab1a8798d9",
+      "e38ffb28-f3a3-439d-8552-c18668142a85",
+      "f316e812-7301-401d-a9b2-c6969afd0663",
+      "952166af-bd9f-4eb8-a360-59e01b9e44af",
+      "1633d92c-5907-4e6b-9555-bd45acf59667",
+      "43ae741b-d24b-40c4-a9b1-217bfecca67f",
+      "8e94767a-7928-4f06-a85c-f7cd7abdbec6",
+      "7d1345cd-9979-4651-8d1d-dab0755aa4ba",
+      "22cd9fc2-1ff6-46f9-a209-d023441b378c",
+      "4bf8a1f0-3c91-4cde-8a4c-aa9678553bea",
+      "bd72cd1f-761d-436c-b4c2-91583ae89fd4",
+      "a2cc8be8-3717-4e2d-a6cb-d459ba33e676",
+      "0517648f-9a76-49d4-9695-1fcb786e83e8",
+      "2cd97ad9-1bb0-4e55-a322-e7777388cd00",
+      "8e7c2e6b-f91e-4325-b3e1-018fdca6ee21",
+      "2ee39c29-3986-4f5d-b992-f30e2e949875",
+      "727d3daa-f67d-4d48-87fb-ae92549cd035",
+      "f5d890a1-a378-4eee-a6c1-6931e3a0fa44",
+      "fa56295e-f70e-4ded-a98d-413a9b5a48a0",
+      "58d5acf6-e9c3-4f97-9498-24443a9419a6",
+      "4bf3cc5b-20fa-4c03-ba2c-36646f86f6aa",
+      "1e8e874e-9404-49d1-b38d-cd52c4bfddfa",
+      "c058d48e-8ed2-4d2d-9c52-a2709bf4f83f",
+      "37d54463-e344-4324-8a2d-d41325470988",
+      "0cb9b9f0-cfe5-4901-a1af-f128e4fffe6d",
+      "8a317291-fdd8-4cbc-a8e1-b3b4b2231bf6",
+      "0de18580-3495-4031-a330-685f8db75ae8",
+      "51a8d115-7158-4d48-bff5-cece8b27217e",
+      "24278cbb-5217-462c-903a-49f6238e1f5d",
+      "a207cee9-711f-4c03-a021-3be27f9311cc",
+      "b02b1256-ea7b-486e-800d-2673a03406f3",
+      "12bc573a-eb68-4bab-ae4b-afacf2c57ed4",
+      "8426f6c2-b2c3-4fe5-8320-335b3c544f2a",
+      "354b2eda-87fb-4d79-ab23-d4ed6f2a59eb"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:16:18+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Jyv\u00e4skyl\u00e4 has many hotels, hostels, Air BnB and othes accommodation options to choose from.",
+  "effective": "2025-03-17T12:20:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "accommodation",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-24T05:54:45+00:00",
+  "preview_caption": "Photo Atacan Ergin",
+  "preview_image": {
+    "blob_path": "3547cda61205410aa7a8a26fabf0f401/preview_image/lutakko harbour visitjyvaskyla atacan ergin.jpg",
+    "content-type": "image/jpeg",
+    "filename": "lutakko harbour visitjyvaskyla atacan ergin.jpg",
+    "height": 1261,
+    "size": 446747,
+    "width": 2048
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Accommodation",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:16:18+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T12:20:06+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

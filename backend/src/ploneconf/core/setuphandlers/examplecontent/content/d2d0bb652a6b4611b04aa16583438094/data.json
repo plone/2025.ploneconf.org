@@ -1,0 +1,40 @@
+{
+  "@id": "/images/python-logo-notext-svg.png",
+  "@type": "Image",
+  "UID": "d2d0bb652a6b4611b04aa16583438094",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:08+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "python-logo-notext-svg.png",
+  "image": {
+    "blob_path": "d2d0bb652a6b4611b04aa16583438094/image/Python-logo-notext.svg.png",
+    "content-type": "image/png",
+    "filename": "Python-logo-notext.svg.png",
+    "height": 2051,
+    "size": 190080,
+    "width": 1869
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:08+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Python-logo-notext.svg.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

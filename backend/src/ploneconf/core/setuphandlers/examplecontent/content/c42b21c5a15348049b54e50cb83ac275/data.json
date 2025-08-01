@@ -1,0 +1,52 @@
+{
+  "@id": "/about/pycon-finland",
+  "@type": "Link",
+  "UID": "c42b21c5a15348049b54e50cb83ac275",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-04-12T11:19:13+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "More info about PyCon Finland",
+  "effective": "2025-04-12T11:19:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pycon-finland",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "link_redirect_view",
+  "lock": {},
+  "modified": "2025-04-12T11:19:47+00:00",
+  "remoteUrl": "http://nohost/Plone/pyconfi-2025",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "PyCon Finland",
+  "type_title": "Link",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-12T11:19:13+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-12T11:19:18+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

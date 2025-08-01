@@ -1,0 +1,40 @@
+{
+  "@id": "/images/ploneconf-2025-logo-banner-small.png",
+  "@type": "Image",
+  "UID": "4fe9f5ca8ecd4e50ab080f98c750c902",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:08+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "ploneconf-2025-logo-banner-small.png",
+  "image": {
+    "blob_path": "4fe9f5ca8ecd4e50ab080f98c750c902/image/ploneconf-2025-logo-banner-small.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-banner-small.png",
+    "height": 340,
+    "size": 44785,
+    "width": 1540
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:08+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "ploneconf-2025-logo-banner-small.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

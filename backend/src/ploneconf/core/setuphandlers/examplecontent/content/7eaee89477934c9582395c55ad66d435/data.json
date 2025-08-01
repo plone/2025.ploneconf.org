@@ -3,14 +3,11 @@
   "@type": "Sponsor",
   "UID": "7eaee89477934c9582395c55ad66d435",
   "allow_discussion": null,
-  "bluesky": "https://bsky.app/profile/plone.org",
   "created": "2025-03-05T15:15:57+00:00",
   "description": "The Plone Foundation is a non-profit organization dedicated to supporting and advancing the open-source content management system, Plone.",
   "exclude_from_nav": false,
   "exportimport.constrains": {},
   "exportimport.conversation": [],
-  "facebook": null,
-  "github": "https://github.com/plone",
   "id": "plone-foundation",
   "image": {
     "blob_path": "7eaee89477934c9582395c55ad66d435/image/pf_logo.png",
@@ -21,33 +18,19 @@
     "width": 1024
   },
   "image_caption": null,
-  "instagram": "https://www.instagram.com/plonecms/",
-  "is_folderish": false,
+  "is_folderish": true,
   "language": "##DEFAULT##",
   "layout": "view",
-  "linkedin": null,
-  "links": {
-    "bluesky": "https://bsky.app/profile/plone.org",
-    "github": "https://github.com/plone",
-    "instagram": "https://www.instagram.com/plonecms/",
-    "mastodon": "https://plone.social/@plone",
-    "remoteUrl": "https://plone.org/foundation",
-    "twitter": "https://x.com/plone",
-    "youtube": "https://youtube.com/@plonecms"
-  },
   "lock": {},
-  "mastodon": "https://plone.social/@plone",
   "modified": "2025-03-05T18:13:31+00:00",
-  "remoteUrl": "https://plone.org/foundation",
   "review_state": "published",
-  "subjects": [],
+  "social_links": [],
   "text": {
     "content-type": "text/html",
     "data": "<p>Established in 2004, the foundation plays a crucial role in the Plone community by providing governance, legal, and financial support for the development and promotion of the Plone platform. With a global reach, the Plone Foundation fosters collaboration among a diverse group of developers, users, and organizations who contribute to the growth and sustainability of Plone. Its mission is to protect and promote Plone as a powerful and secure open-source CMS solution for organizations and communities worldwide.</p>",
     "encoding": "utf8"
   },
   "title": "Plone Foundation",
-  "twitter": "https://x.com/plone",
   "type_title": "Sponsor",
   "version": "current",
   "workflow_history": {
@@ -69,6 +52,5 @@
     ]
   },
   "working_copy": null,
-  "working_copy_of": null,
-  "youtube": "https://youtube.com/@plonecms"
+  "working_copy_of": null
 }

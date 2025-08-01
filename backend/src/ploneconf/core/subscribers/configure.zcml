@@ -1,10 +1,4 @@
 <configure xmlns="http://namespaces.zope.org/zope">
 
-  <!-- Type SponsorsDB -->
-  <!-- Add -->
-  <subscriber
-      for="ploneconf.core.content.sponsors.sponsors_db.ISponsorsDB
-           zope.lifecycleevent.interfaces.IObjectAddedEvent"
-      handler=".sponsors_db.sponsors_db_add"
-      />
+
 </configure>

@@ -8,8 +8,10 @@
     >
       <element>Link</element>
       <element>Document</element>
+      <element>Schedule</element>
       <element>SponsorsDB</element>
       <element>SponsorLevel</element>
+      <element>Venue</element>
     </value>
   </records>
 </registry>

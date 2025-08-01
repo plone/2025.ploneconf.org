@@ -1,0 +1,30 @@
+[repository]
+name = "2025.ploneconf.org"
+changelog = "CHANGELOG.md"
+version = "version.txt"
+compose = "docker-compose.yml"
+
+[repository.towncrier]q
+section = "Project"
+settings = "towncrier.toml"
+
+[backend.package]
+name = "ploneconf.core"
+path = "backend"
+changelog = "backend/CHANGELOG.md"
+towncrier_settings = "backend/pyproject.toml"
+base_package = "Products.CMFPlone"
+publish = false
+
+[frontend.package]
+name = "volto-ploneconf-core"
+path = "frontend/packages/volto-ploneconf-core"
+changelog = "frontend/packages/volto-ploneconf-core/CHANGELOG.md"
+towncrier_settings = "frontend/packages/volto-ploneconf-core/towncrier.toml"
+base_package = "@plone/volto"
+publish = false
+
+[cookieplone]
+template = "project"
+template_version = "684d5c7f43a6ebc3184e2a0106b0160820a96e66"
+generated_date = "2025-05-23 19:34:00"

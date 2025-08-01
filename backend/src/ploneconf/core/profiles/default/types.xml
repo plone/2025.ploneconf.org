@@ -2,13 +2,5 @@
 <object meta_type="Plone Types Tool"
         name="portal_types"
 >
-  <object meta_type="Dexterity FTI"
-          name="SponsorsDB"
-  />
-  <object meta_type="Dexterity FTI"
-          name="SponsorLevel"
-  />
-  <object meta_type="Dexterity FTI"
-          name="Sponsor"
-  />
+
 </object>

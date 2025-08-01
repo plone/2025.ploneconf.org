@@ -1,0 +1,40 @@
+{
+  "@id": "/images/agora-lobby.jpg",
+  "@type": "Image",
+  "UID": "a0afd107803e4001870ff40227541a9a",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:49:59+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "agora-lobby.jpg",
+  "image": {
+    "blob_path": "a0afd107803e4001870ff40227541a9a/image/agora-lobby.jpg",
+    "content-type": "image/jpeg",
+    "filename": "agora-lobby.jpg",
+    "height": 810,
+    "size": 490392,
+    "width": 1440
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:00+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "agora-lobby.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

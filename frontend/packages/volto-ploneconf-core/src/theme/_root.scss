@@ -1,0 +1,33 @@
+:root {
+  // Layout
+  --narrow-container-width: 1024px;
+  --default-container-width: 1024px;
+  --layout-container-width: 1440px;
+
+  // Colors
+  --primary-color: #ffffff;
+  --primary-foreground-color: #002957;
+  --secondary-color: #ede1ce;
+  --secondary-foreground-color: #002957;
+  --accent-color: #0083be;
+  --accent-foreground-color: #ffffff;
+
+  // Layout
+  --breadcrumbs-background: var(--secondary-color);
+  --breadcrumbs-foreground: var(--secondary-foreground-color);
+  --search-background: var(--secondary-color);
+  --search-foreground: var(--secondary-foreground-color);
+  --fatmenu-background: var(--secondary-color);
+  --fatmenu-foreground: var(--secondary-foreground-color);
+
+  // Components
+  --social-network-icon-color-main: var(--secondary-foreground-color);
+  --social-network-icon-color-hover: var(--accent-color);
+  --social-network-background-main: transparent;
+  --social-network-background-hover: transparent;
+
+  // Techevent
+  --techevent-presenter-category-background-color: var(--secondary-color);
+  --techevent-presenter-category-color: var(--secondary-foreground-color);
+  --techevent-schedule-color: var(--secondary-color);
+}

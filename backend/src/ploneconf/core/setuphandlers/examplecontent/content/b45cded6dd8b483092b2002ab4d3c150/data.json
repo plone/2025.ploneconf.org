@@ -1,0 +1,40 @@
+{
+  "@id": "/about/venue-info/agora-parkkis-1.jpg",
+  "@type": "Image",
+  "UID": "b45cded6dd8b483092b2002ab4d3c150",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-06-04T07:21:06+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "agora-parkkis-1.jpg",
+  "image": {
+    "blob_path": "b45cded6dd8b483092b2002ab4d3c150/image/agora-parkkis.jpg",
+    "content-type": "image/jpeg",
+    "filename": "agora-parkkis.jpg",
+    "height": 810,
+    "size": 434701,
+    "width": 1440
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-06-04T07:21:07+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "agora-parkkis.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

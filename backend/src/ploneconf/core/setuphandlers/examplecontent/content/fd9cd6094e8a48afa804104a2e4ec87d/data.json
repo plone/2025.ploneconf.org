@@ -1,0 +1,40 @@
+{
+  "@id": "/tickets/registration.png",
+  "@type": "Image",
+  "UID": "fd9cd6094e8a48afa804104a2e4ec87d",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-04-01T10:01:31+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "registration.png",
+  "image": {
+    "blob_path": "fd9cd6094e8a48afa804104a2e4ec87d/image/registration.png",
+    "content-type": "image/png",
+    "filename": "registration.png",
+    "height": 929,
+    "size": 148735,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-01T10:01:31+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "registration.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,479 @@
+{
+  "@id": "/about/venue-info",
+  "@type": "Document",
+  "UID": "8bcd56be266d41c8ac633dee8d172261",
+  "allow_discussion": null,
+  "blocks": {
+    "00948f2c-81ca-444a-b024-3f5bc6fb9aff": {
+      "@type": "title"
+    },
+    "081eb23a-d375-4ef1-b39d-a4ae5f06ce49": {
+      "@type": "slate",
+      "plaintext": "L\u00e4hde is located at the main campus and works as a university library. Training and sprint will take place there, with convenient rooms and easy access from any direction.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "L\u00e4hde is located at the main campus and works as a university library. Training and sprint will take place there, with convenient rooms and easy access from any direction. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "43a1de90-035b-45e9-b9c3-ee6785c038cb": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4c42aa3f-69ad-425a-8303-7a9cd2ebc066": {
+      "@type": "slate",
+      "plaintext": "Agora - Conference location",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Agora - Conference location"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5f6d9a01-be0f-4af3-b220-1468f35b7d19": {
+      "@type": "slate",
+      "plaintext": "Conference days will be held at Agora, with three spacious seminar halls, including the main hall Martti Ahtisaari sali, named after the Finnish president.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Conference days will be held at Agora, with three spacious seminar halls, including the main hall Martti Ahtisaari sali, named after the Finnish president. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7d1bad83-ed69-45fc-a925-9d75a007ee99": {
+      "@type": "gridBlock",
+      "blocks": {
+        "66ef946f-6d20-429c-842c-021542cdf637": {
+          "@type": "image",
+          "align": "center",
+          "alt": "",
+          "description": "Main lecture hall",
+          "image_field": "image",
+          "size": "l",
+          "styles": {
+            "blockWidth:noprefix": {
+              "--block-width": "var(--narrow-container-width)"
+            }
+          },
+          "url": "../../resolveuid/452339231d3f48448d34bf18d10f6b5d"
+        },
+        "b384ca55-5d70-46b0-bcf3-b1e5091924e0": {
+          "@type": "image",
+          "align": "center",
+          "alt": "Image by Atacan Ergin",
+          "credit": {},
+          "description": "Agora lakeside",
+          "image_field": "image",
+          "size": "l",
+          "url": "../../resolveuid/78398ae6bd3d4396ae071bd4a56dafc3"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "b384ca55-5d70-46b0-bcf3-b1e5091924e0",
+          "66ef946f-6d20-429c-842c-021542cdf637"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "83bdac77-4853-49ff-a12e-c8abca0c4355": {
+      "@type": "slate",
+      "plaintext": "The University of Jyv\u00e4skyl\u00e4 is located in a beautiful natural landscape, just outside the centre of Jyv\u00e4skyl\u00e4. The university campus areas Seminaarinm\u00e4ki, Mattilanniemi and Ylist\u00f6 form a unique park-like complex that combines old and new.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The University of Jyv\u00e4skyl\u00e4 is located in a beautiful natural landscape, just outside the centre of Jyv\u00e4skyl\u00e4. The university campus areas Seminaarinm\u00e4ki, Mattilanniemi and Ylist\u00f6 form a unique park-like complex that combines old and new."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8ffba362-207f-4df3-8d5d-06bbaa7b0cff": {
+      "@type": "slate",
+      "plaintext": "Plone Conference 2025 will be hosted by University of Jyv\u00e4skyl\u00e4 , at the beautiful campus including famous architecture by Alvar Aalto.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference 2025 will be hosted by "
+            },
+            {
+              "children": [
+                {
+                  "text": "University of Jyv\u00e4skyl\u00e4"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", at the beautiful campus including famous architecture by Alvar Aalto."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9eac7859-6ae9-4842-aadf-db6bc21398a1": {
+      "@type": "slate",
+      "plaintext": "More information about Agora .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "More information about "
+            },
+            {
+              "children": [
+                {
+                  "text": "Agora"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi/en/collaboration/facilities-and-services/agora"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a3a29def-1e28-4b54-9d21-db56e18be719": {
+      "@type": "slate",
+      "plaintext": "More information about L\u00e4hde ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "More information about "
+            },
+            {
+              "children": [
+                {
+                  "text": "L\u00e4hde"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi/en/collaboration/facilities-and-services/library-lahde"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c11b0149-fa9b-49ed-9871-5f7a5dfb0000": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "href": [
+        {
+          "@id": "https://www.jyu.fi",
+          "title": "www.jyu.fi"
+        }
+      ],
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "large"
+      },
+      "theme": "default",
+      "url": "../../resolveuid/400625f7b71e4eb98837ed1c75cd92e3"
+    },
+    "c4b2e63f-3c73-443c-b87f-0025390c167d": {
+      "@type": "slate",
+      "plaintext": "Training and Sprint will be held at L\u00e4hde building (Library) at the main campus, while the conference takes place at Agora building by the lakeside at Mattilanniemi.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Training and Sprint will be held at "
+            },
+            {
+              "children": [
+                {
+                  "text": "L\u00e4hde building (Library)"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " at the main campus, while the conference takes place at "
+            },
+            {
+              "children": [
+                {
+                  "text": "Agora building"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " by the lakeside at Mattilanniemi."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e1529266-a1df-4497-a065-72379a9dade9": {
+      "@type": "slate",
+      "plaintext": "Check out https://navi.jyu.fi/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Check out "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://navi.jyu.fi/"
+                }
+              ],
+              "data": {
+                "url": "https://navi.jyu.fi/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e2eb3f46-cfb7-43f4-a4e8-1d44b4b62868": {
+      "@type": "slate",
+      "plaintext": "All locations are easily accessible and walking distance from the city centre.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "All locations are easily accessible and walking distance from the city centre."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e886539b-5a68-42e6-b629-1ad4a39ef717": {
+      "@type": "slate",
+      "plaintext": "L\u00e4hde - training and sprint location",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "L\u00e4hde - training and sprint location"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "f2845209-7356-4950-8348-777bdd9af710": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../../resolveuid/b45cded6dd8b483092b2002ab4d3c150"
+    },
+    "f47ee0bc-3a79-4460-a73f-638be030885f": {
+      "@type": "slate",
+      "plaintext": "You can easily navigate around the campus and the buildings using Navi campus map.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You can easily navigate around the campus and the buildings using Navi campus map. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fb5171b9-69f3-4ba7-9d4f-1cb00d0b8e4b": {
+      "@type": "slate",
+      "plaintext": "Campus map",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Campus map"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "fc8a0186-67e7-43a5-ad12-5ead71dd726d": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../../resolveuid/5abd6ecbd192409296889ef9d1d9eeb5"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "00948f2c-81ca-444a-b024-3f5bc6fb9aff",
+      "8ffba362-207f-4df3-8d5d-06bbaa7b0cff",
+      "c11b0149-fa9b-49ed-9871-5f7a5dfb0000",
+      "83bdac77-4853-49ff-a12e-c8abca0c4355",
+      "c4b2e63f-3c73-443c-b87f-0025390c167d",
+      "e2eb3f46-cfb7-43f4-a4e8-1d44b4b62868",
+      "4c42aa3f-69ad-425a-8303-7a9cd2ebc066",
+      "5f6d9a01-be0f-4af3-b220-1468f35b7d19",
+      "9eac7859-6ae9-4842-aadf-db6bc21398a1",
+      "f2845209-7356-4950-8348-777bdd9af710",
+      "7d1bad83-ed69-45fc-a925-9d75a007ee99",
+      "43a1de90-035b-45e9-b9c3-ee6785c038cb",
+      "e886539b-5a68-42e6-b629-1ad4a39ef717",
+      "081eb23a-d375-4ef1-b39d-a4ae5f06ce49",
+      "a3a29def-1e28-4b54-9d21-db56e18be719",
+      "fc8a0186-67e7-43a5-ad12-5ead71dd726d",
+      "fb5171b9-69f3-4ba7-9d4f-1cb00d0b8e4b",
+      "f47ee0bc-3a79-4460-a73f-638be030885f",
+      "e1529266-a1df-4497-a065-72379a9dade9"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:08:56+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Plone Conference 2025 Venue information",
+  "effective": "2025-03-18T06:44:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "venue-info",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-04T07:26:52+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "8bcd56be266d41c8ac633dee8d172261/preview_image/agora-lobby.jpg",
+    "content-type": "image/jpeg",
+    "filename": "agora-lobby.jpg",
+    "height": 810,
+    "size": 490392,
+    "width": 1440
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Venue",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:08:56+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T06:44:47+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}
