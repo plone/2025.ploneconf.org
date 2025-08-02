@@ -98,7 +98,7 @@ jobs:
   deploy:
     concurrency: deploy_testing
     needs: [config, backend, frontend]
-    if: always()
+    if: always() && github.event_name != 'pull_request'
     timeout-minutes: 8
     runs-on: ubuntu-latest
     environment:
