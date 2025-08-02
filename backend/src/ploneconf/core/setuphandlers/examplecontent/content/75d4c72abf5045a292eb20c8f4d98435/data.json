@@ -1,0 +1,243 @@
+{
+  "@id": "/travel",
+  "@type": "Document",
+  "UID": "75d4c72abf5045a292eb20c8f4d98435",
+  "allow_discussion": null,
+  "blocks": {
+    "023917d0-67a0-4e33-802a-29939eeb7bd8": {
+      "@type": "slate"
+    },
+    "10d68e49-716c-4644-8224-5c775e05b822": {
+      "@type": "slate",
+      "plaintext": "Traveling to Jyv\u00e4skyl\u00e4, Finland is pretty easy with good connections by plane, train or bus.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Traveling to Jyv\u00e4skyl\u00e4, Finland is pretty easy with good connections by plane, train or bus. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c7c9897a-06c8-444e-a7af-5d0d433884ea": {
+      "@type": "slate",
+      "plaintext": "Jyv\u00e4skyl\u00e4 offers many possibilities for accommodation, and here you can find other useful info too.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Jyv\u00e4skyl\u00e4 offers many possibilities for accommodation, and here you can find other useful info too. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "cf90afc3-24d6-4c6a-87fa-4aa0ef95453b": {
+      "@type": "title"
+    },
+    "e3868126-9c05-4805-8164-b61126aa794b": {
+      "@type": "gridBlock",
+      "blocks": {
+        "7ddc9b4c-83fd-4e05-a8dd-ea9ba124f5fb": {
+          "@type": "teaser",
+          "description": "Jyv\u00e4skyl\u00e4 has many hotels, hostels, Air BnB and othes accommodation options to choose from.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/3547cda61205410aa7a8a26fabf0f401",
+              "@type": "Document",
+              "Description": "Jyv\u00e4skyl\u00e4 has many hotels, hostels, Air BnB and othes accommodation options to choose from.",
+              "Subject": [],
+              "Title": "Accommodation",
+              "description": "Jyv\u00e4skyl\u00e4 has many hotels, hostels, Air BnB and othes accommodation options to choose from.",
+              "effective": "2025-03-17T12:20:06+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Accommodation",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Accommodation"
+        },
+        "b18558b8-dd67-4e6d-b4b5-6de39be346a0": {
+          "@type": "teaser",
+          "description": "Info for Plone Conference 2025 visitors",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/11f56585319a4efb9f71e9b2942bb726",
+              "@type": "Document",
+              "Description": "Info for Plone Conference 2025 visitors",
+              "Subject": [],
+              "Title": "Other information",
+              "description": "Info for Plone Conference 2025 visitors",
+              "effective": "2025-03-18T07:01:09+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Other information",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Other information"
+        },
+        "c7b31ea9-6c8a-420f-96aa-b070f511f9e8": {
+          "@type": "teaser",
+          "description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/c04b5145a1fb4d2484ae0fb021af6f5f",
+              "@type": "Document",
+              "Description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+              "Subject": [],
+              "Title": "Arriving in Jyv\u00e4skyl\u00e4",
+              "description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+              "effective": "2025-03-17T12:20:12+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Arriving in Jyv\u00e4skyl\u00e4",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Arriving in Jyv\u00e4skyl\u00e4"
+        },
+        "e2a4a4f5-9ff6-4f8a-8306-dced50390a0d": {
+          "@type": "teaser",
+          "description": "Tips and info about Finnish language and common phrases",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/c2978c1cade04c28b5358a8de3bed37e",
+              "@type": "Document",
+              "Description": "",
+              "Subject": [],
+              "Title": "Language",
+              "description": "Tips and info about Finnish language and common phrases",
+              "effective": "2025-03-18T07:16:04+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image",
+              "nav_title": null,
+              "review_state": "published",
+              "title": "Language",
+              "type_title": "Page"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Language"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "c7b31ea9-6c8a-420f-96aa-b070f511f9e8",
+          "7ddc9b4c-83fd-4e05-a8dd-ea9ba124f5fb",
+          "e2a4a4f5-9ff6-4f8a-8306-dced50390a0d",
+          "b18558b8-dd67-4e6d-b4b5-6de39be346a0"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "cf90afc3-24d6-4c6a-87fa-4aa0ef95453b",
+      "10d68e49-716c-4644-8224-5c775e05b822",
+      "c7c9897a-06c8-444e-a7af-5d0d433884ea",
+      "e3868126-9c05-4805-8164-b61126aa794b",
+      "023917d0-67a0-4e33-802a-29939eeb7bd8"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T09:51:16+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Traveling to Jyv\u00e4skyl\u00e4, Finland is pretty easy with good connections by plane, train or bus.",
+  "effective": "2025-03-17T14:39:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "travel",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-16T12:28:28+00:00",
+  "preview_caption": "Photo by Jukka Paakkinen",
+  "preview_image": {
+    "blob_path": "75d4c72abf5045a292eb20c8f4d98435/preview_image/kirveslampi IN LEIVONMA\u0308KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+    "content-type": "image/jpeg",
+    "filename": "kirveslampi IN LEIVONMA\u0308KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+    "height": 1367,
+    "size": 511192,
+    "width": 2048
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Travel",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T09:51:16+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T14:39:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

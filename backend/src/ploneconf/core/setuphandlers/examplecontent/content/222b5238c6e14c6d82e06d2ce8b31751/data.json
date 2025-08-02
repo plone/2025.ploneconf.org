@@ -1,0 +1,56 @@
+{
+  "@id": "/sponsors/platinum/quaive",
+  "@type": "Sponsor",
+  "UID": "222b5238c6e14c6d82e06d2ce8b31751",
+  "allow_discussion": null,
+  "created": "2025-05-20T06:42:16+00:00",
+  "description": "Quaive is a digital workplace built for teams who value trust and transparency. It integrates document sharing and communication in a single, easy-to-use platform. ",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "quaive",
+  "image": {
+    "blob_path": "222b5238c6e14c6d82e06d2ce8b31751/image/Quaive logo Square(1).png",
+    "content-type": "image/png",
+    "filename": "Quaive logo Square(1).png",
+    "height": 800,
+    "size": 55440,
+    "width": 800
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-23T13:23:35+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Quaive logo</p>",
+    "encoding": "utf8"
+  },
+  "title": "Quaive",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-20T06:42:16+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-22T13:04:01+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

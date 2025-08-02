@@ -1,0 +1,616 @@
+{
+  "@id": "/tickets",
+  "@type": "Document",
+  "UID": "8f82c1589f4447529763c1223ed798dc",
+  "allow_discussion": null,
+  "blocks": {
+    "0e1708e0-52c8-4290-b1de-697f9bcdb376": {
+      "@type": "slate",
+      "plaintext": "For developing countries: 100\u20ac (Check country list for reference)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "For developing countries: 100\u20ac (Check "
+            },
+            {
+              "children": [
+                {
+                  "text": "country list"
+                }
+              ],
+              "data": {
+                "url": "https://www.gov.uk/government/publications/countries-defined-as-developing-by-the-oecd/countries-defined-as-developing-by-the-oecd"
+              },
+              "type": "link"
+            },
+            {
+              "text": " for reference)"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "293f1d1a-d6f6-44cc-88a7-97038575a538": {
+      "@type": "image",
+      "align": "right",
+      "alt": "PyCon Finland logo",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "../resolveuid/4da0d231da28477daef57f4b163ddc39"
+    },
+    "2adb486d-678c-4c5b-b50b-c6376f4fa31b": {
+      "@type": "slate",
+      "plaintext": "Conference: Speaker 300\u20ac Conference: Regular 350\u20ac Conference: Developing countries 100\u20ac PyCon Finland: Regular 100\u20ac  (One day delegate)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Conference: Speaker 300\u20ac"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Conference: Regular 350\u20ac"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Conference: Developing countries 100\u20ac\n"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland: Regular 100\u20ac  (One day delegate)"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "308a782d-50a6-4d78-8015-da57ea165762": {
+      "@type": "slate",
+      "plaintext": "Ticket price categories",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ticket price categories"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "32d9b256-332e-4a0b-b758-716a8f7d26f4": {
+      "@type": "slate",
+      "plaintext": "Get your Plone Conference and PyCon Finland tickets here!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Get your Plone Conference and PyCon Finland tickets here! "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "61db9cde-2d82-41de-9a1a-0b2d6a94bf4c": {
+      "@type": "slate",
+      "plaintext": "  Get your tickets now!  Select Participant type: Regular",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Get your tickets now!"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "data": {
+                "url": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4218"
+              },
+              "type": "link"
+            },
+            {
+              "text": " Select Participant type: Regular"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6af61d03-e6ee-4adf-9a67-b1cc678413cd": {
+      "@type": "slate",
+      "plaintext": " PyCon Finland tickets",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " Finland tickets"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "792787af-ffcb-4e5d-9c7c-d1dee337839b": {
+      "@type": "__button",
+      "href": [
+        {
+          "@id": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4218",
+          "title": "registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4218"
+        }
+      ],
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Get your tickets now!"
+    },
+    "80179760-6931-4b53-b0f3-cbb6adfc4e6d": {
+      "@type": "slate",
+      "plaintext": "Friday 17th conference talks Complimentary coffee and buffet lunch Optional participation in the Plone sprint on Saturday 18th October",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Friday 17th conference talks"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Complimentary coffee and buffet lunch"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Optional participation in the Plone sprint on Saturday 18th October"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "88905de9-7a88-4611-8c14-9232ac8ce771": {
+      "@type": "slate",
+      "plaintext": " PyCon Finland is a special one-day event inside Plone Conference.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/1894aa8e64d84c22ab08d9956fe9d665"
+              },
+              "type": "link"
+            },
+            {
+              "text": " is a special one-day event inside Plone Conference. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8bf6cede-5a13-4a80-b7b5-75fca78f0d3a": {
+      "@type": "image",
+      "align": "right",
+      "alt": "Plone Conference logo",
+      "image_field": "image",
+      "size": "m",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "medium"
+      },
+      "theme": "default",
+      "url": "../resolveuid/7f9e255f668c40c3b01301006658b9e9"
+    },
+    "9030d506-8492-422f-a747-5474010b672c": {
+      "@type": "title"
+    },
+    "90f371a5-38d5-405c-8615-b4ecaa2e992e": {
+      "@type": "slate",
+      "plaintext": "  Early bird ticket sales open until May 31, 2025!  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Early bird ticket sales open until May 31, 2025! "
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b967f51b-f04d-4e17-ad00-6078cd57f5d9": {
+      "@type": "image",
+      "align": "right",
+      "alt": "registration form example",
+      "image_field": "image",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "../resolveuid/fd9cd6094e8a48afa804104a2e4ec87d"
+    },
+    "c4293db8-76c0-40de-8d20-5ab1b854aad4": {
+      "@type": "slate",
+      "plaintext": "Ticket includes",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ticket includes"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "c434f731-134b-46f8-8bb1-f8e11896b399": {
+      "@type": "slate",
+      "plaintext": "Two days of professional training Three days of conference talks Including the special event PyCon Finland on Friday October 17th Two days of sprinting T-shirt Goodie bag Party on Thursday October 16th! Buffet lunch is included on conference days. During training, conference and sprints, there will be coffee and refreshments available throughout the day.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Two days of professional training"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Three days of conference talks "
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Including the special event PyCon Finland on Friday October 17th"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            },
+            {
+              "children": [
+                {
+                  "text": "Two days of sprinting"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "T-shirt"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Goodie bag"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Party on Thursday October 16th!"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Buffet lunch is included on conference days."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "During training, conference and sprints, there will be coffee and refreshments available throughout the day. "
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e13d7c70-f5b8-4902-b494-897395bc87fa": {
+      "@type": "slate",
+      "plaintext": "Plone Conference 2025 tickets",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference 2025 tickets"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "ebf546d3-3695-4030-9559-55c6154abaeb": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fba68c96-296e-4e70-be49-ffa3e9d674ac": {
+      "@type": "slate",
+      "plaintext": "  Get your tickets now!  Select Participant type: One day delegate",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Get your tickets now!"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "data": {
+                "url": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4218"
+              },
+              "type": "link"
+            },
+            {
+              "text": " Select Participant type: One day delegate\n"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "9030d506-8492-422f-a747-5474010b672c",
+      "32d9b256-332e-4a0b-b758-716a8f7d26f4",
+      "8bf6cede-5a13-4a80-b7b5-75fca78f0d3a",
+      "c4293db8-76c0-40de-8d20-5ab1b854aad4",
+      "e13d7c70-f5b8-4902-b494-897395bc87fa",
+      "c434f731-134b-46f8-8bb1-f8e11896b399",
+      "0e1708e0-52c8-4290-b1de-697f9bcdb376",
+      "61db9cde-2d82-41de-9a1a-0b2d6a94bf4c",
+      "293f1d1a-d6f6-44cc-88a7-97038575a538",
+      "6af61d03-e6ee-4adf-9a67-b1cc678413cd",
+      "88905de9-7a88-4611-8c14-9232ac8ce771",
+      "80179760-6931-4b53-b0f3-cbb6adfc4e6d",
+      "fba68c96-296e-4e70-be49-ffa3e9d674ac",
+      "b967f51b-f04d-4e17-ad00-6078cd57f5d9",
+      "308a782d-50a6-4d78-8015-da57ea165762",
+      "90f371a5-38d5-405c-8615-b4ecaa2e992e",
+      "2adb486d-678c-4c5b-b50b-c6376f4fa31b",
+      "ebf546d3-3695-4030-9559-55c6154abaeb",
+      "792787af-ffcb-4e5d-9c7c-d1dee337839b"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T13:03:25+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Get your Plone Conference and PyCon Finland tickets here! ",
+  "effective": "2025-03-18T07:50:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tickets",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-04T12:27:05+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "8f82c1589f4447529763c1223ed798dc/preview_image/ploneconf-2025-logo-square-small.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-square-small.png",
+    "height": 680,
+    "size": 60971,
+    "width": 1080
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Tickets",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T13:03:25+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T07:50:13+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,621 @@
+{
+  "@id": "/travel/language-fi",
+  "@type": "Document",
+  "UID": "c2978c1cade04c28b5358a8de3bed37e",
+  "allow_discussion": null,
+  "blocks": {
+    "01a39380-c09d-42dd-b206-be33dad58d66": {
+      "@type": "title"
+    },
+    "049f7b62-1d93-4603-8e2a-9dba77f24f0c": {
+      "@type": "slate",
+      "plaintext": "Anteeksi/Sori = Excuse me / Sorry",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Anteeksi/Sori = Excuse me / Sorry"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0f287f2c-3145-46fb-ad23-023c28a299a6": {
+      "@type": "slate",
+      "plaintext": "Hyv\u00e4\u00e4 p\u00e4iv\u00e4\u00e4 = Good afternoon",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hyv\u00e4\u00e4 p\u00e4iv\u00e4\u00e4 = Good afternoon"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1070173e-e725-46df-b9c7-2ee930ea39e6": {
+      "@type": "slate",
+      "plaintext": "Vesi = Water",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Vesi = Water"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2f040d57-27f4-4e7f-9377-b99a742e6650": {
+      "@type": "slate",
+      "plaintext": "Commonly used Finnish words and phrases",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Commonly used Finnish words and phrases"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "325f9380-eb7c-4eeb-821c-f918a83eabed": {
+      "@type": "slate",
+      "plaintext": "Kalja = Beer",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Kalja = Beer"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "38cd8684-bbe9-4b50-a402-742914ad5969": {
+      "@type": "slate",
+      "plaintext": "Finnish people learn foreign languages at school, so expect most people to speak English, either fluently or pretty well.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finnish people learn foreign languages at school, so expect most people to speak English, either fluently or pretty well. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3ae7e7ea-6667-4f64-8c9b-4e801cda3e0c": {
+      "@type": "slate",
+      "plaintext": "Hei hei = Bye",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hei hei = Bye"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "417e9995-4a9f-40fa-944f-9a53f67d5864": {
+      "@type": "slate",
+      "plaintext": "Mit\u00e4 t\u00e4m\u00e4 on? = What is this?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Mit\u00e4 t\u00e4m\u00e4 on? = What is this?"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "46dc6c79-d152-40de-8cc8-6c6bfc363e97": {
+      "@type": "slate",
+      "plaintext": "The main language in Finland is suomi (Finnish). Other official langugages are ruotsi (Swedish), mainly spoken in coastal areas and saame (Sami), spoken in Northern Lapland.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The main language in Finland is "
+            },
+            {
+              "children": [
+                {
+                  "text": "suomi"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": " (Finnish). Other official langugages are "
+            },
+            {
+              "children": [
+                {
+                  "text": "ruotsi"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": " (Swedish), mainly spoken in coastal areas and "
+            },
+            {
+              "children": [
+                {
+                  "text": "saame"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": " (Sami), spoken in Northern Lapland. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "50daaf16-6e45-4b59-b2e1-b2042b54c698": {
+      "@type": "slate",
+      "plaintext": "Paljonko maksaa..? = How much does it cost?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Paljonko maksaa..? = How much does it cost?"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "53a0b3e2-38d0-47a5-b37b-13aed185d092": {
+      "@type": "slate",
+      "plaintext": "Hyv\u00e4\u00e4 y\u00f6t\u00e4 = Good night",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hyv\u00e4\u00e4 y\u00f6t\u00e4 = Good night"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "58a7b17d-d899-4c0a-aca3-2297c3da7419": {
+      "@type": "slate",
+      "plaintext": "Kahvi = Coffee",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Kahvi = Coffee"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5f749278-dc4b-4499-8011-c6362af9448e": {
+      "@type": "slate",
+      "plaintext": "Finns are generally not proficient with small talk. If you ask them \"how are you\", they might take it literally and tell their whole life story :D",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finns are generally not proficient with small talk. If you ask them \"how are you\", they might take it literally and tell their whole life story :D "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "605d6543-4c6d-49ab-8361-b5377a42f04b": {
+      "@type": "slate",
+      "plaintext": "Small talk",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Small talk"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "64373fd8-6a01-48b8-8884-d761fdb83325": {
+      "@type": "slate",
+      "plaintext": "Kiitos = Thank you",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Kiitos = Thank you"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "70ee6904-2603-4f56-a871-85c2a4fb8bc2": {
+      "@type": "slate",
+      "plaintext": "Ole hyv\u00e4 = You're welcome / Please",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ole hyv\u00e4 = You're welcome / Please"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "728a70f1-6f86-44a8-bf09-55fdf86ca68b": {
+      "@type": "slate",
+      "plaintext": "Kyll\u00e4 = Yes",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Kyll\u00e4 = Yes"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7590b4d4-ec41-4bbd-8a49-7daf3a0fb3d6": {
+      "@type": "slate",
+      "plaintext": "With these words and phrases you will get pretty far. Finns appreciate any attempt of using the language, so don't worry about pronunciation.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "With these words and phrases you will get pretty far. Finns appreciate any attempt of using the language, so don't worry about pronunciation. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7b8cad49-aa9d-4380-8435-9d55a63e4039": {
+      "@type": "slate",
+      "plaintext": "Lonkero = Long drink",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Lonkero = Long drink"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "85b83ae3-22d3-4dd6-88a9-bd2b242d4d84": {
+      "@type": "slate",
+      "plaintext": "Ei = No",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ei = No"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "89e12ef0-10c0-4a4b-96f0-f2097ff97601": {
+      "@type": "slate",
+      "plaintext": "Sauna = Sauna",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Sauna = Sauna"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "974c87c0-fe99-4d94-bad0-97ff9f518654": {
+      "@type": "slate",
+      "plaintext": "Yksi, kaksi, kolme = One, two, three",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Yksi, kaksi, kolme = One, two, three"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b9e0b6d6-14a8-47f1-91d6-7d6d380fa4fe": {
+      "@type": "slate",
+      "plaintext": "Miss\u00e4 on...? = Where is...?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Miss\u00e4 on...? = Where is...?"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "cf2dfa3a-aacc-4fca-8433-8f9f0df21344": {
+      "@type": "image",
+      "align": "right",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "large"
+      },
+      "theme": "default",
+      "url": "../../resolveuid/a0afd107803e4001870ff40227541a9a"
+    },
+    "d01174e0-708e-49c0-879b-70879aa2dd2e": {
+      "@type": "slate",
+      "plaintext": "Huomenta = Good morning",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Huomenta = Good morning"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d2cca0a8-5aae-4095-b4bf-aadb395746bc": {
+      "@type": "slate",
+      "plaintext": "Olut = Beer",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Olut = Beer"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e5e685b4-f0ba-4b31-80f0-bf205947e39b": {
+      "@type": "slate",
+      "plaintext": "Ruoka = Food",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ruoka = Food"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ea19ab84-9963-4826-a9bb-2cd7283161e1": {
+      "@type": "slate",
+      "plaintext": "Hyv\u00e4\u00e4 iltaa = Good evening",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hyv\u00e4\u00e4 iltaa = Good evening"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f53bec79-68d4-4861-b08c-06134812acaf": {
+      "@type": "slate",
+      "plaintext": "Terveisi\u00e4! = Greetings! / Best regards!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Terveisi\u00e4! = Greetings! / Best regards!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f69cd0a1-cc50-43c8-aa88-75cf61a9e5b2": {
+      "@type": "slate",
+      "plaintext": "Moi = Hi/Hello/Bye",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Moi = Hi/Hello/Bye"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fad65055-7107-4063-a55a-9fc383445489": {
+      "@type": "slate",
+      "plaintext": "Hei = Hello/Hi",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Hei = Hello/Hi"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "01a39380-c09d-42dd-b206-be33dad58d66",
+      "46dc6c79-d152-40de-8cc8-6c6bfc363e97",
+      "38cd8684-bbe9-4b50-a402-742914ad5969",
+      "2f040d57-27f4-4e7f-9377-b99a742e6650",
+      "7590b4d4-ec41-4bbd-8a49-7daf3a0fb3d6",
+      "cf2dfa3a-aacc-4fca-8433-8f9f0df21344",
+      "fad65055-7107-4063-a55a-9fc383445489",
+      "3ae7e7ea-6667-4f64-8c9b-4e801cda3e0c",
+      "f69cd0a1-cc50-43c8-aa88-75cf61a9e5b2",
+      "d01174e0-708e-49c0-879b-70879aa2dd2e",
+      "0f287f2c-3145-46fb-ad23-023c28a299a6",
+      "53a0b3e2-38d0-47a5-b37b-13aed185d092",
+      "ea19ab84-9963-4826-a9bb-2cd7283161e1",
+      "64373fd8-6a01-48b8-8884-d761fdb83325",
+      "70ee6904-2603-4f56-a871-85c2a4fb8bc2",
+      "049f7b62-1d93-4603-8e2a-9dba77f24f0c",
+      "728a70f1-6f86-44a8-bf09-55fdf86ca68b",
+      "85b83ae3-22d3-4dd6-88a9-bd2b242d4d84",
+      "974c87c0-fe99-4d94-bad0-97ff9f518654",
+      "89e12ef0-10c0-4a4b-96f0-f2097ff97601",
+      "1070173e-e725-46df-b9c7-2ee930ea39e6",
+      "58a7b17d-d899-4c0a-aca3-2297c3da7419",
+      "d2cca0a8-5aae-4095-b4bf-aadb395746bc",
+      "325f9380-eb7c-4eeb-821c-f918a83eabed",
+      "7b8cad49-aa9d-4380-8435-9d55a63e4039",
+      "e5e685b4-f0ba-4b31-80f0-bf205947e39b",
+      "417e9995-4a9f-40fa-944f-9a53f67d5864",
+      "b9e0b6d6-14a8-47f1-91d6-7d6d380fa4fe",
+      "50daaf16-6e45-4b59-b2e1-b2042b54c698",
+      "f53bec79-68d4-4861-b08c-06134812acaf",
+      "605d6543-4c6d-49ab-8361-b5377a42f04b",
+      "5f749278-dc4b-4499-8011-c6362af9448e"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-18T07:08:44+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Tips and info about Finnish language and common phrases",
+  "effective": "2025-03-18T07:16:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "language-fi",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-26T09:28:18+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "c2978c1cade04c28b5358a8de3bed37e/preview_image/agora-lobby.jpg",
+    "content-type": "image/jpeg",
+    "filename": "agora-lobby.jpg",
+    "height": 810,
+    "size": 490392,
+    "width": 1440
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Language",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T07:08:44+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T07:16:04+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,40 @@
+{
+  "@id": "/about/venue-info/martti-ahtisaarisali.jpg",
+  "@type": "Image",
+  "UID": "452339231d3f48448d34bf18d10f6b5d",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-06-04T07:24:34+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "martti-ahtisaarisali.jpg",
+  "image": {
+    "blob_path": "452339231d3f48448d34bf18d10f6b5d/image/martti-ahtisaarisali.jpg",
+    "content-type": "image/jpeg",
+    "filename": "martti-ahtisaarisali.jpg",
+    "height": 810,
+    "size": 344801,
+    "width": 1440
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-06-04T07:24:34+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "martti-ahtisaarisali.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

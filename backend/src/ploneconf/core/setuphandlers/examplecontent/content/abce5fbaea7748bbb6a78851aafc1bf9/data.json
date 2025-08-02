@@ -1,0 +1,63 @@
+{
+  "@id": "/schedule/training",
+  "@type": "Document",
+  "UID": "abce5fbaea7748bbb6a78851aafc1bf9",
+  "allow_discussion": null,
+  "blocks": {
+    "678a17bc-b284-4988-8aad-580410e1e04c": {
+      "@type": "slate"
+    },
+    "7fd40150-102d-4774-9108-fbc19dc3b87d": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "7fd40150-102d-4774-9108-fbc19dc3b87d",
+      "678a17bc-b284-4988-8aad-580410e1e04c"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:27:24+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "training",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-03-17T12:27:36+00:00",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Training",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:27:24+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

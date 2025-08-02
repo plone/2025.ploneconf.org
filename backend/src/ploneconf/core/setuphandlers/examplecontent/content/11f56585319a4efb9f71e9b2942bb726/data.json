@@ -1,0 +1,584 @@
+{
+  "@id": "/travel/other-information",
+  "@type": "Document",
+  "UID": "11f56585319a4efb9f71e9b2942bb726",
+  "allow_discussion": null,
+  "blocks": {
+    "06dd47b8-a427-41ac-abd5-5dbbda025bc6": {
+      "@type": "slate",
+      "plaintext": "Health",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Health"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "11c99d37-7b21-4dff-a24f-c292e957b4b2": {
+      "@type": "slate",
+      "plaintext": "Cards or electric payment works everywhere. No need to carry cash around.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Cards or electric payment works everywhere. No need to carry cash around. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "276480a9-9a6e-4b8f-924b-baf0137b5fc5": {
+      "@type": "slate",
+      "plaintext": "Drinking water in Finland is clear and clean everywhere. You can safely drink from any tap.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Drinking water in Finland is clear and clean everywhere. You can safely drink from any tap. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "30e1874f-6f4f-4432-b0c9-58e9e94718d1": {
+      "@type": "slate",
+      "plaintext": "Public health services in Finland are free (paid generally by tax payers). Call 112 to receive medical help in case of emergency",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Public health services in Finland are free (paid generally by tax payers). Call 112 to receive medical help in case of emergency"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3af72e98-7620-4c9d-9232-c1013e2273f2": {
+      "@type": "slate",
+      "plaintext": "The standard voltage in Finland is 230V and the frequency is 50Hz. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The standard voltage in Finland is "
+            },
+            {
+              "children": [
+                {
+                  "text": "230V"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " and the frequency is "
+            },
+            {
+              "children": [
+                {
+                  "text": "50Hz."
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3f2765b1-e7fd-4c3c-8199-eb17cd1e95cf": {
+      "@type": "slate",
+      "plaintext": "Taxi",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Taxi"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "4c63e399-53fe-43db-a169-fdf27fd6600b": {
+      "@type": "toc",
+      "levels": [
+        "h2",
+        "h3"
+      ],
+      "styles": {},
+      "theme": "default"
+    },
+    "51b652b5-e547-49ab-858f-9873e6b36f43": {
+      "@type": "slate",
+      "plaintext": "Buffet lunch usually costs 10-15 euros.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Buffet lunch usually costs 10-15 euros."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "54a6c2fc-1e9e-4589-bf2f-475dd7a719f7": {
+      "@type": "slate",
+      "plaintext": "Emergency number",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Emergency number"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5b0bee3f-51f4-4d51-89b6-9284849dfd53": {
+      "@type": "slate",
+      "plaintext": "Currency is EURO",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Currency is EURO"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5fff1504-f66c-452c-90d2-8ae63787011a": {
+      "@type": "slate",
+      "plaintext": "Drinking water",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Drinking water"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "690012f8-caa5-4f1b-83fe-eba400ca31bf": {
+      "@type": "slate",
+      "plaintext": "Finland is not known for being a cheap country to live in, but compared to Norway, its good.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finland is not known for being a cheap country to live in, but compared to Norway, its good. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6a32420a-f4fe-4c2d-b88b-5e43c5eb2350": {
+      "@type": "slate",
+      "plaintext": "Telephone and internet",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Telephone and internet"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "8bbf0157-0aa5-467c-946a-aa86a54e112d": {
+      "@type": "slate",
+      "plaintext": " 112 - ambulance, police, fire department. The call is free.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "112"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " - ambulance, police, fire department. The call is free."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8ea0f76d-2350-4352-9cd4-af2936241b33": {
+      "@type": "slate",
+      "plaintext": " Elisa   Telia   DNA ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Elisa"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://lataa.elisa.fi/en/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Telia"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://www.telia.fi/kauppa/liittymat/prepaid?anchor=in-english"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "DNA"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://www.dna.fi/liittymat-ja-palvelut/puhe/prepaid/other-languages"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "b69d1d62-86ab-41b1-8207-81d35ad2c148": {
+      "@type": "slate",
+      "plaintext": "Finland uses Type F plugs and outlets, which are also compatible with types C and E plug  s.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Finland uses "
+            },
+            {
+              "children": [
+                {
+                  "text": "Type F"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " plugs and outlets, which are also compatible with types C and E plug"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "s."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c93f42a2-569e-40b2-9d6c-448ad64a73c4": {
+      "@type": "slate",
+      "plaintext": "Prices are pretty okay in grocery stores.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Prices are pretty okay in grocery stores. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ceaeb3b9-97f4-4fd6-aa0e-b0fd5181509f": {
+      "@type": "slate",
+      "plaintext": "You can get a prepaid sim card with unlimited data and calls with a low price from some of the major teleoperators in Finland.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You can get a prepaid sim card with unlimited data and calls with a low price from some of the major teleoperators in Finland."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d0b1ec4a-b15c-4cf8-94bc-4c5abe9ec382": {
+      "@type": "slate",
+      "plaintext": "You can use Uber in Jyv\u00e4skyl\u00e4, or call local taxi services, all of good quality and safety.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You can use Uber in Jyv\u00e4skyl\u00e4, or call local taxi services, all of good quality and safety."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d11d9dfb-9d1c-4793-8abb-3a79ed7675ab": {
+      "@type": "slate",
+      "plaintext": "Prices",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Prices"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "e2d5e36c-2804-418a-8e37-d561fe4eb297": {
+      "@type": "slate",
+      "plaintext": " Power Voltage ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Power Voltage"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "e45a47ca-95f3-4c41-8205-673092d19f22": {
+      "@type": "title"
+    },
+    "e9674159-19c8-4937-8ab7-c7856b3b8e26": {
+      "@type": "slate",
+      "plaintext": "A three course dinner costs about 30-60+ euros. Drinks are pretty expensive in bars, expect to pay 5-10+ euros for a drink.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "A three course dinner costs about 30-60+ euros. Drinks are pretty expensive in bars, expect to pay 5-10+ euros for a drink. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fa38ba04-89d3-4544-a6ea-40dfa97354b4": {
+      "@type": "slate",
+      "plaintext": "Info for Plone Conference 2025 visitors to get by every day.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Info for Plone Conference 2025 visitors to get by every day.  "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e45a47ca-95f3-4c41-8205-673092d19f22",
+      "fa38ba04-89d3-4544-a6ea-40dfa97354b4",
+      "4c63e399-53fe-43db-a169-fdf27fd6600b",
+      "5b0bee3f-51f4-4d51-89b6-9284849dfd53",
+      "11c99d37-7b21-4dff-a24f-c292e957b4b2",
+      "5fff1504-f66c-452c-90d2-8ae63787011a",
+      "276480a9-9a6e-4b8f-924b-baf0137b5fc5",
+      "54a6c2fc-1e9e-4589-bf2f-475dd7a719f7",
+      "8bbf0157-0aa5-467c-946a-aa86a54e112d",
+      "06dd47b8-a427-41ac-abd5-5dbbda025bc6",
+      "30e1874f-6f4f-4432-b0c9-58e9e94718d1",
+      "e2d5e36c-2804-418a-8e37-d561fe4eb297",
+      "3af72e98-7620-4c9d-9232-c1013e2273f2",
+      "b69d1d62-86ab-41b1-8207-81d35ad2c148",
+      "d11d9dfb-9d1c-4793-8abb-3a79ed7675ab",
+      "690012f8-caa5-4f1b-83fe-eba400ca31bf",
+      "c93f42a2-569e-40b2-9d6c-448ad64a73c4",
+      "51b652b5-e547-49ab-858f-9873e6b36f43",
+      "e9674159-19c8-4937-8ab7-c7856b3b8e26",
+      "6a32420a-f4fe-4c2d-b88b-5e43c5eb2350",
+      "ceaeb3b9-97f4-4fd6-aa0e-b0fd5181509f",
+      "8ea0f76d-2350-4352-9cd4-af2936241b33",
+      "3f2765b1-e7fd-4c3c-8199-eb17cd1e95cf",
+      "d0b1ec4a-b15c-4cf8-94bc-4c5abe9ec382"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:19:03+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Info for Plone Conference 2025 visitors",
+  "effective": "2025-03-18T07:01:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "other-information",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-03-19T12:07:24+00:00",
+  "preview_caption": "Photo Juhana Konttinen",
+  "preview_image": {
+    "blob_path": "11f56585319a4efb9f71e9b2942bb726/preview_image/kuokkala bridge juhana konttinen.jpg",
+    "content-type": "image/jpeg",
+    "filename": "kuokkala bridge juhana konttinen.jpg",
+    "height": 1360,
+    "size": 463705,
+    "width": 2048
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Other information",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:19:03+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T07:01:09+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

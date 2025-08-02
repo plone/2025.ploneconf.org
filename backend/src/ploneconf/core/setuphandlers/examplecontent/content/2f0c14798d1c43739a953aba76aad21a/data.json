@@ -1,0 +1,40 @@
+{
+  "@id": "/pyconfi-2025/pycon25.png",
+  "@type": "Image",
+  "UID": "2f0c14798d1c43739a953aba76aad21a",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-04-16T05:57:45+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pycon25.png",
+  "image": {
+    "blob_path": "2f0c14798d1c43739a953aba76aad21a/image/pycon25.png",
+    "content-type": "image/png",
+    "filename": "pycon25.png",
+    "height": 303,
+    "size": 11354,
+    "width": 300
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-16T05:57:45+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "pycon25.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

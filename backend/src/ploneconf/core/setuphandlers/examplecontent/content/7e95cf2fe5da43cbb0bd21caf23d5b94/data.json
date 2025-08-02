@@ -7,75 +7,61 @@
     "3d405c35-d08e-48c9-b070-afc2503f3b82": {
       "@type": "slate"
     },
-    "e952d1b2-d234-494d-a249-92aabc3a155a": {
-      "@type": "title"
-    },
-    "f5640342-aa72-4711-894f-b6948dfd7596": {
-      "@type": "form",
-      "captcha": "honeypot",
-      "configValidation": {
-        "required_fields": [
-          "default_to",
-          "default_from",
-          "default_subject",
-          "captcha"
-        ],
-        "schema_validation": [],
-        "valid": true
-      },
-      "default_from": "noreply@plone.org",
-      "default_subject": "Plone Conference Site",
-      "default_to": "conf@plone.org",
-      "lastChange": 1741185368326,
-      "remove_data_after_days": -1,
-      "send_email": true,
-      "store": true,
-      "subblocks": [
+    "7a1a3466-8f4e-49cd-9d0c-eda7a69a9828": {
+      "@type": "slate",
+      "plaintext": "Contact us via email conf@plone.org .",
+      "styles": {},
+      "theme": "default",
+      "value": [
         {
-          "field_id": "1741185193192",
-          "field_type": "text",
-          "id": "1741185193192",
-          "label": "Your name",
-          "required": true
-        },
-        {
-          "field_id": "1741185210504",
-          "field_type": "from",
-          "id": "1741185210504",
-          "label": "E-mail",
-          "required": true,
-          "use_as_bcc": false,
-          "use_as_reply_to": true
-        },
-        {
-          "field_id": "1741185224239",
-          "field_type": "single_choice",
-          "id": "1741185224239",
-          "input_values": [
-            "Tickets",
-            "Sponsorship",
-            "Code of Conduct",
-            "Travel / Accommodation",
-            "Invitation Letter",
-            "Call for Papers"
+          "children": [
+            {
+              "text": "Contact us via email "
+            },
+            {
+              "children": [
+                {
+                  "text": "conf@plone.org"
+                }
+              ],
+              "data": {
+                "url": "mailto:conf@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
           ],
-          "label": "Topic",
-          "required": true
-        },
-        {
-          "field_id": "1741185303428",
-          "field_type": "textarea",
-          "id": "1741185303428",
-          "label": "Message",
-          "required": true
+          "type": "p"
         }
       ]
+    },
+    "c6bdbeb9-07d2-4611-9ff3-515fa84bfb0c": {
+      "@type": "slate",
+      "plaintext": "Please do not hesitate to contact the organizers, if you have any questions!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Please do not hesitate to contact the organizers, if you have any questions!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e952d1b2-d234-494d-a249-92aabc3a155a": {
+      "@type": "title"
     }
   },
   "blocks_layout": {
     "items": [
       "e952d1b2-d234-494d-a249-92aabc3a155a",
-      "f5640342-aa72-4711-894f-b6948dfd7596",
+      "c6bdbeb9-07d2-4611-9ff3-515fa84bfb0c",
+      "7a1a3466-8f4e-49cd-9d0c-eda7a69a9828",
       "3d405c35-d08e-48c9-b070-afc2503f3b82"
     ]
   },
@@ -85,8 +71,8 @@
   "creators": [
     "admin"
   ],
-  "description": "",
-  "effective": "2025-03-05T11:36:00",
+  "description": "Plone Conference 2025 Contact Info",
+  "effective": "2025-03-05T11:36:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -99,9 +85,16 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-03-06T14:20:45+00:00",
-  "preview_caption": null,
-  "preview_image": null,
+  "modified": "2025-05-31T11:02:24+00:00",
+  "preview_caption": "Photo Atacan Ergin",
+  "preview_image": {
+    "blob_path": "7e95cf2fe5da43cbb0bd21caf23d5b94/preview_image/rantaraitti atacan ergin.jpg",
+    "content-type": "image/jpeg",
+    "filename": "rantaraitti atacan ergin.jpg",
+    "height": 1367,
+    "size": 602159,
+    "width": 2048
+  },
   "review_state": "published",
   "rights": "",
   "subjects": [],

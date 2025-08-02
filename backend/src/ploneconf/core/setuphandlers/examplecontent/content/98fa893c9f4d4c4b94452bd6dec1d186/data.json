@@ -1,0 +1,40 @@
+{
+  "@id": "/images/lutakko-harbour-visitjyvaskyla-atacan-ergin.jpg",
+  "@type": "Image",
+  "UID": "98fa893c9f4d4c4b94452bd6dec1d186",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:06+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "lutakko-harbour-visitjyvaskyla-atacan-ergin.jpg",
+  "image": {
+    "blob_path": "98fa893c9f4d4c4b94452bd6dec1d186/image/lutakko harbour visitjyvaskyla atacan ergin.jpg",
+    "content-type": "image/jpeg",
+    "filename": "lutakko harbour visitjyvaskyla atacan ergin.jpg",
+    "height": 1261,
+    "size": 446747,
+    "width": 2048
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:06+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "lutakko harbour visitjyvaskyla atacan ergin.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,40 @@
+{
+  "@id": "/images/kuokkala-bridge-juhana-konttinen.jpg",
+  "@type": "Image",
+  "UID": "aedfce7c78b84e879991ce05f003f634",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:05+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "kuokkala-bridge-juhana-konttinen.jpg",
+  "image": {
+    "blob_path": "aedfce7c78b84e879991ce05f003f634/image/kuokkala bridge juhana konttinen.jpg",
+    "content-type": "image/jpeg",
+    "filename": "kuokkala bridge juhana konttinen.jpg",
+    "height": 1360,
+    "size": 463705,
+    "width": 2048
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:05+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "kuokkala bridge juhana konttinen.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

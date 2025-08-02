@@ -1,0 +1,45 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    >
+
+  <genericsetup:upgradeSteps
+      profile="ploneconf.core:default"
+      source="1000"
+      destination="20250802001"
+      >
+    <genericsetup:upgradeStep
+        title="Remove current sponsorships"
+        handler=".remove_sponsors_db"
+        />
+    <genericsetup:upgradeStep
+        title="Remove current schedule"
+        handler=".remove_schedule"
+        />
+    <genericsetup:upgradeDepends
+        title="Installs kitconcept.voltolighttheme"
+        import_profile="profile-kitconcept.voltolighttheme:default"
+        />
+    <genericsetup:upgradeDepends
+        title="Installs plonegovbr.socialmedia"
+        import_profile="profile-plonegovbr.socialmedia:default"
+        />
+    <genericsetup:upgradeDepends
+        title="Installs collective.techevent"
+        import_profile="profile-collective.techevent:default"
+        />
+    <genericsetup:upgradeDepends
+        title="Apply event_settings behavior to the site root"
+        import_steps="typeinfo"
+        />
+    <genericsetup:upgradeDepends
+        title="Update navigation settings"
+        import_steps="plone.app.registry"
+        />
+    <genericsetup:upgradeStep
+        title="Configure collective.techevent"
+        handler=".configure_techevent"
+        />
+  </genericsetup:upgradeSteps>
+
+</configure>

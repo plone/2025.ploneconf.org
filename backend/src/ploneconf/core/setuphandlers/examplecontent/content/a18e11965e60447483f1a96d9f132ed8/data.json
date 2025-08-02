@@ -1,0 +1,40 @@
+{
+  "@id": "/pyconfi-2025/pycon-finland.png",
+  "@type": "Image",
+  "UID": "a18e11965e60447483f1a96d9f132ed8",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-04-07T06:45:28+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pycon-finland.png",
+  "image": {
+    "blob_path": "a18e11965e60447483f1a96d9f132ed8/image/PyCon-Finland.png",
+    "content-type": "image/png",
+    "filename": "PyCon-Finland.png",
+    "height": 1029,
+    "size": 38294,
+    "width": 1012
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-12T11:17:49+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "PyCon-Finland.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

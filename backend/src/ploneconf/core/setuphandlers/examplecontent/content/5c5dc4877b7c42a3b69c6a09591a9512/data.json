@@ -1,0 +1,80 @@
+{
+  "@id": "/schedule/20251019",
+  "@type": "Document",
+  "UID": "5c5dc4877b7c42a3b69c6a09591a9512",
+  "allow_discussion": null,
+  "blocks": {
+    "36da3c9e-718f-4e39-9804-a285a6099850": {
+      "@type": "description"
+    },
+    "539e8b29-d552-4c43-afc8-fe8926f87617": {
+      "@type": "title"
+    },
+    "c067f0e4-d7ec-4fbf-9c78-2536baa5b545": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "539e8b29-d552-4c43-afc8-fe8926f87617",
+      "36da3c9e-718f-4e39-9804-a285a6099850",
+      "c067f0e4-d7ec-4fbf-9c78-2536baa5b545"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-08-01T18:42:36+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Training day",
+  "effective": null,
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "20251019",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-08-01T18:44:41+00:00",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "October 19",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-08-01T18:44:26+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

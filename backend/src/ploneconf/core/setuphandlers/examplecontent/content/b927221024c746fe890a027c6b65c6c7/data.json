@@ -1,0 +1,332 @@
+{
+  "@id": "/sponsors/silver",
+  "@type": "SponsorLevel",
+  "UID": "b927221024c746fe890a027c6b65c6c7",
+  "allow_discussion": null,
+  "benefits": [],
+  "blocks": {
+    "2f59a685-e2a3-408c-bcc6-df4070b1fba1": {
+      "@type": "slate",
+      "plaintext": "Silver level sponsors are appreciated.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Silver level sponsors are appreciated. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3693ce2f-cb67-480f-8da2-e41cbd188e7d": {
+      "@type": "title"
+    },
+    "f2401095-ec33-4e8c-8bb3-2466e8fd5076": {
+      "@type": "accordion",
+      "collapsed": false,
+      "data": {
+        "blocks": {
+          "0e6eb19e-7c43-432f-a35f-29cae52c958b": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "5972d32d-b341-4c74-9c2d-0be62169c109": {
+                "@type": "slate"
+              },
+              "99b3aaae-1563-4cf8-bf2b-42fa9b072a47": {
+                "@type": "teaser",
+                "description": "kitconcept is a Plone agency with offices in Bonn, Germany and Barcelona, Catalunya. kitconcept is the driving force behind the development of Plone 6 and the upcoming Plone 7.  With 14 Plone core developers, 8 Plone Foundation Members, Two Release Managers, two (ex) members of the Plone board of directors, and numerous Plone team members (Framework, Security, Release, Marketing, AI, Testing/CI/CD) kitconcept is one of the largest and most influential Plone companies worldwide.",
+                "head_title": null,
+                "href": [
+                  {
+                    "@id": "../../resolveuid/7530e8ce39734b539e1443eee223d42a",
+                    "@type": "Sponsor",
+                    "Description": "kitconcept is a Plone agency with offices in Bonn, Germany and Barcelona, Catalunya. kitconcept is the driving force behind the development of Plone 6 and the upcoming Plone 7.  With 14 Plone core developers, 8 Plone Foundation Members, Two Release Managers, two (ex) members of the Plone board of directors, and numerous Plone team members (Framework, Security, Release, Marketing, AI, Testing/CI/CD) kitconcept is one of the largest and most influential Plone companies worldwide.",
+                    "Title": "kitconcept",
+                    "getRemoteUrl": null,
+                    "hasPreviewImage": null,
+                    "head_title": null,
+                    "image_field": "image",
+                    "title": "kitconcept"
+                  }
+                ],
+                "overwrite": false,
+                "styles": {
+                  "align": "left"
+                },
+                "theme": "default",
+                "title": "kitconcept"
+              },
+              "c098a19f-6170-4097-912e-6e8940d0b857": {
+                "@type": "teaser",
+                "description": "Your Vision. Our Solutions. Limitless Possibilities.",
+                "head_title": null,
+                "href": [
+                  {
+                    "@id": "../../resolveuid/371a7a7f8c2a4e1489547880583dd6bb",
+                    "@type": "Sponsor",
+                    "Description": "Your Vision. Our Solutions. Limitless Possibilities.",
+                    "Subject": [],
+                    "Title": "Enfold Systems",
+                    "description": "Your Vision. Our Solutions. Limitless Possibilities.",
+                    "effective": "2025-06-03T05:39:42+00:00",
+                    "getRemoteUrl": null,
+                    "hasPreviewImage": null,
+                    "head_title": null,
+                    "image_field": "image",
+                    "nav_title": null,
+                    "review_state": "published",
+                    "title": "Enfold Systems",
+                    "type_title": "Sponsor"
+                  }
+                ],
+                "overwrite": false,
+                "styles": {
+                  "align": "left"
+                },
+                "theme": "default",
+                "title": "Enfold Systems"
+              },
+              "e28f3abf-a61f-4df6-9999-f93c69475f20": {
+                "@type": "teaser",
+                "description": "Open source technology solutions",
+                "head_title": null,
+                "href": [
+                  {
+                    "@id": "../../resolveuid/c88ac75d04b748d48b14644556f11fee",
+                    "@type": "Sponsor",
+                    "Description": "Extraordinary websites for non-profits and research institutions",
+                    "Subject": [
+                      "Plone",
+                      "Sponsor"
+                    ],
+                    "Title": "Jazkarta",
+                    "description": "Open source technology solutions",
+                    "effective": "2025-04-14T09:33:21+00:00",
+                    "getRemoteUrl": null,
+                    "hasPreviewImage": null,
+                    "head_title": null,
+                    "image_field": "image",
+                    "nav_title": null,
+                    "review_state": "published",
+                    "title": "Jazkarta",
+                    "type_title": "Sponsor"
+                  }
+                ],
+                "overwrite": false,
+                "styles": {
+                  "align": "left"
+                },
+                "theme": "default",
+                "title": "Jazkarta"
+              },
+              "e9ea6c14-0a5a-4084-b9f9-7fd819802228": {
+                "@type": "teaser",
+                "description": "RedTurtle, as a system integrator, supports enterprises and public agencies in consulting, design and development of websites, intranets and mobile apps using Open Source solutions.",
+                "head_title": null,
+                "href": [
+                  {
+                    "@id": "../../resolveuid/8ac0ecc13dec4b5f9b3f0837e86739f8",
+                    "@type": "Sponsor",
+                    "Description": "RedTurtle, as a system integrator, supports enterprises and public agencies in consulting, design and development of websites, intranets and mobile apps using Open Source solutions.  RedTurtle uses the Plone CMS to build web and intranet solutions for large enterprises and large public administrations.  RedTurtle has been offering services related to Plone technology since 2005. RedTurtle is a global player in the Plone community and is an active member contributing addons and also in the core components of the project especially Volto.",
+                    "Subject": [
+                      "Plone",
+                      "Sponsor"
+                    ],
+                    "Title": "RedTurtle",
+                    "description": "RedTurtle, as a system integrator, supports enterprises and public agencies in consulting, design and development of websites, intranets and mobile apps using Open Source solutions.  RedTurtle uses the Plone CMS to build web and intranet solutions for large enterprises and large public administrations.  RedTurtle has been offering services related to Plone technology since 2005. RedTurtle is a global player in the Plone community and is an active member contributing addons and also in the core components of the project especially Volto.",
+                    "effective": "2025-05-20T06:21:12+00:00",
+                    "getRemoteUrl": null,
+                    "hasPreviewImage": null,
+                    "head_title": null,
+                    "image_field": "image",
+                    "nav_title": null,
+                    "review_state": "published",
+                    "title": "RedTurtle",
+                    "type_title": "Sponsor"
+                  }
+                ],
+                "overwrite": true,
+                "styles": {
+                  "align": "left"
+                },
+                "theme": "default",
+                "title": "RedTurtle"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "e28f3abf-a61f-4df6-9999-f93c69475f20",
+                "e9ea6c14-0a5a-4084-b9f9-7fd819802228",
+                "c098a19f-6170-4097-912e-6e8940d0b857",
+                "99b3aaae-1563-4cf8-bf2b-42fa9b072a47",
+                "5972d32d-b341-4c74-9c2d-0be62169c109"
+              ]
+            },
+            "selected": "355311b9-13cb-458b-9965-52b50890a906",
+            "title": "Sponsors"
+          },
+          "6d75665d-b039-4769-8415-b1283ac16f89": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "fce0883c-6402-4ae8-90f7-23c274f2f684": {
+                "@type": "slate",
+                "plaintext": "1500 euros",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "1500 euros"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "fce0883c-6402-4ae8-90f7-23c274f2f684"
+              ]
+            },
+            "title": "Investment"
+          },
+          "d5c2723d-0b5a-4f8a-9b73-9f4fb8ae6248": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "50a47adf-c0e7-4265-8274-ca84efc5fd65": {
+                "@type": "slate",
+                "plaintext": "2 complimentary tickets for the Plone Conference 2025, including PyCon Finland 2025 Logo at Registration Desk Logo in video shown between Talks Logo on the website, Sponsors page Logo in post-conference videos (YouTube) Social Media: Minimum of 3 mentions",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "2 complimentary tickets for the Plone Conference 2025, including PyCon Finland 2025"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo at Registration Desk"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in video shown between Talks"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo on the website, Sponsors page"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in post-conference videos (YouTube)"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Social Media: Minimum of 3 mentions"
+                          }
+                        ],
+                        "type": "li"
+                      }
+                    ],
+                    "type": "ul"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "50a47adf-c0e7-4265-8274-ca84efc5fd65"
+              ]
+            },
+            "title": "Benefits"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "d5c2723d-0b5a-4f8a-9b73-9f4fb8ae6248",
+            "6d75665d-b039-4769-8415-b1283ac16f89",
+            "0e6eb19e-7c43-432f-a35f-29cae52c958b"
+          ]
+        }
+      },
+      "filtering": false,
+      "non_exclusive": false,
+      "right_arrows": true,
+      "styles": {},
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "3693ce2f-cb67-480f-8da2-e41cbd188e7d",
+      "2f59a685-e2a3-408c-bcc6-df4070b1fba1",
+      "f2401095-ec33-4e8c-8bb3-2466e8fd5076"
+    ]
+  },
+  "color": "#000000",
+  "created": "2025-03-18T07:53:09+00:00",
+  "description": "Silver level sponsorship for Plone Conference 2025",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "silver",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-08-01T18:36:31+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "price": "",
+  "review_state": "published",
+  "title": "Silver",
+  "type_title": "Sponsorship Level",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T07:53:20+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T08:07:12+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

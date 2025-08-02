@@ -1,0 +1,40 @@
+{
+  "@id": "/images/sponsorship-levels-visual-selection.png",
+  "@type": "Image",
+  "UID": "80682965276a48a29d912d075f0b3c49",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-24T08:30:15+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "sponsorship-levels-visual-selection.png",
+  "image": {
+    "blob_path": "80682965276a48a29d912d075f0b3c49/image/Sponsorship levels - visual selection.png",
+    "content-type": "image/png",
+    "filename": "Sponsorship levels - visual selection.png",
+    "height": 2264,
+    "size": 403578,
+    "width": 2456
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-24T08:30:16+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Sponsorship levels - visual selection.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

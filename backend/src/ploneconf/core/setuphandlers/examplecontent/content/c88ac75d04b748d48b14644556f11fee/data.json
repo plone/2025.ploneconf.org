@@ -1,0 +1,52 @@
+{
+  "@id": "/sponsors/silver/jazkarta",
+  "@type": "Sponsor",
+  "UID": "c88ac75d04b748d48b14644556f11fee",
+  "allow_discussion": null,
+  "created": "2025-04-14T09:33:17+00:00",
+  "description": "Open source technology solutions",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "jazkarta",
+  "image": {
+    "blob_path": "c88ac75d04b748d48b14644556f11fee/image/jazkarta-logo.png",
+    "content-type": "image/png",
+    "filename": "jazkarta-logo.png",
+    "height": 600,
+    "size": 11583,
+    "width": 800
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-20T06:44:29+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": null,
+  "title": "Jazkarta",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-14T09:33:17+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-14T09:33:21+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

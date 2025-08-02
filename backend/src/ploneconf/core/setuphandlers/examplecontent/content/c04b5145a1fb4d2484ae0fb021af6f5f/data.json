@@ -1,0 +1,402 @@
+{
+  "@id": "/travel/arriving-in-jyvaskyla",
+  "@type": "Document",
+  "UID": "c04b5145a1fb4d2484ae0fb021af6f5f",
+  "allow_discussion": null,
+  "blocks": {
+    "171a66f4-0b25-45c3-9955-93d1ae53020e": {
+      "@type": "slate",
+      "plaintext": "Great summary of Travel info to Jyv\u00e4skyl\u00e4",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Great summary of Travel info to Jyv\u00e4skyl\u00e4"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "1b5392d1-0cf0-43c3-9846-f1e467b36d81": {
+      "@type": "slate",
+      "plaintext": " In the Jyv\u00e4skyl\u00e4 Region, you can experience the breathtaking and affecting nature, unique architecture along with culture, Unesco world heritage sites, the well-being brought by the sauna, some fabulous lightning sites and installations as well as thousands of interesting events. Read why Jyv\u00e4skyl\u00e4 Region is a unique place to visit . ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "In the Jyv\u00e4skyl\u00e4 Region, you can experience the breathtaking and affecting nature, unique architecture along with culture, Unesco world heritage sites, the well-being brought by the sauna, some fabulous lightning sites and installations as well as thousands of interesting events. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Read why Jyv\u00e4skyl\u00e4 Region is a unique place to visit"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://visitjyvaskyla.fi/en/why-jyvaskyla-region/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "blockquote"
+        }
+      ]
+    },
+    "2d67b236-5460-43b1-a6d5-da9efcc5a02c": {
+      "@type": "slate",
+      "plaintext": "All information at the Visit Jyv\u00e4skyl\u00e4 website",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "All information at the Visit Jyv\u00e4skyl\u00e4 website"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "2fefbc24-2f66-4814-8b89-b0cdf58b5503": {
+      "@type": "slate",
+      "plaintext": " https://www.visitfinland.com/en/places-to-go/lakeland ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://www.visitfinland.com/en/places-to-go/lakeland"
+                }
+              ],
+              "data": {
+                "url": "https://www.visitfinland.com/en/places-to-go/lakeland"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4a0ef281-66da-4d0b-9f87-3e54b561f36d": {
+      "@type": "slate",
+      "plaintext": " Jyv\u00e4skyl\u00e4 is an active city of about 150 000 residents, and a lot of students. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Jyv\u00e4skyl\u00e4 is an active city of about 150 000 residents, and a lot of students. "
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4d5441f4-d022-444d-8dcd-8d9a7d451e13": {
+      "@type": "slate",
+      "plaintext": " Train tickets can be bought from VR .",
+      "styles": {},
+      "theme": "grey",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Train tickets can be bought from VR"
+                }
+              ],
+              "data": {
+                "url": "https://www.vr.fi/en"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5c61f940-6205-4354-a7c3-1c22f79028aa": {
+      "@type": "slate",
+      "plaintext": "  https://visitjyvaskyla.fi/en/arriving/  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://visitjyvaskyla.fi/en/arriving/"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://visitjyvaskyla.fi/en/arriving/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "63c503ea-c552-40f6-a5d3-1edc8f85822c": {
+      "@type": "slate",
+      "plaintext": " https://www.jyu.fi/en/practical-information-for-jyvaskyla-summer-school ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://www.jyu.fi/en/practical-information-for-jyvaskyla-summer-school"
+                }
+              ],
+              "data": {
+                "url": "https://www.jyu.fi/en/practical-information-for-jyvaskyla-summer-school"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9d82a5ad-b342-4978-a251-ccdc4c84007e": {
+      "@type": "slate",
+      "plaintext": "Jyv\u00e4skyl\u00e4",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Jyv\u00e4skyl\u00e4"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "a0820cb0-afd8-4ba8-948d-15334d166303": {
+      "@type": "slate",
+      "plaintext": " Pro tip: Fly to Helsinki and take the train to Jyv\u00e4skyl\u00e4 from the airport (with 1-2 changes) .",
+      "styles": {},
+      "theme": "grey",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Pro tip: Fly to Helsinki and take the train to Jyv\u00e4skyl\u00e4 from the airport (with 1-2 changes)"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d04fd223-1759-4f38-bf17-291e38f916b4": {
+      "@type": "title"
+    },
+    "da375423-aa75-4fd7-8832-3e8524d42fa4": {
+      "@type": "image",
+      "align": "right",
+      "description": "Image: visitjyvaskyla.fi",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "https://visitjyvaskyla.fi/wp-content/uploads/2025/01/kartta-en-sininen.png"
+    },
+    "e5b9210e-f02a-4f6d-a791-685b5acb9ef9": {
+      "@type": "slate",
+      "plaintext": "The Jyv\u00e4skyl\u00e4 Region is located in the middle of beautiful Lakeland Finland and it is known especially for its nature, culture and sauna experiences.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The Jyv\u00e4skyl\u00e4 Region is located in the middle of beautiful Lakeland Finland and it is known especially for its nature, culture and sauna experiences."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f59eb0f5-21d3-4c60-b2d5-c81f6b1b5676": {
+      "@type": "slate",
+      "plaintext": "Several airlines fly to Finland, for example, to Helsinki and Tampere. Connecting flights from Helsinki to Jyv\u00e4skyl\u00e4 airport take an hour, and regular train and bus services complement the schedule. Transfers from the airport to train and bus stations are smooth with local transportation. The largest city in the region is Jyv\u00e4skyl\u00e4.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Several airlines fly to Finland, for example, to Helsinki and Tampere. Connecting flights from Helsinki to Jyv\u00e4skyl\u00e4 airport take an hour, and regular train and bus services complement the schedule. Transfers from the airport to train and bus stations are smooth with local transportation. The largest city in the region is Jyv\u00e4skyl\u00e4."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "d04fd223-1759-4f38-bf17-291e38f916b4",
+      "4a0ef281-66da-4d0b-9f87-3e54b561f36d",
+      "da375423-aa75-4fd7-8832-3e8524d42fa4",
+      "e5b9210e-f02a-4f6d-a791-685b5acb9ef9",
+      "9d82a5ad-b342-4978-a251-ccdc4c84007e",
+      "1b5392d1-0cf0-43c3-9846-f1e467b36d81",
+      "2fefbc24-2f66-4814-8b89-b0cdf58b5503",
+      "2d67b236-5460-43b1-a6d5-da9efcc5a02c",
+      "5c61f940-6205-4354-a7c3-1c22f79028aa",
+      "f59eb0f5-21d3-4c60-b2d5-c81f6b1b5676",
+      "a0820cb0-afd8-4ba8-948d-15334d166303",
+      "4d5441f4-d022-444d-8dcd-8d9a7d451e13",
+      "171a66f4-0b25-45c3-9955-93d1ae53020e",
+      "63c503ea-c552-40f6-a5d3-1edc8f85822c"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:15:47+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Jyv\u00e4skyl\u00e4 is pretty easy to reach. ",
+  "effective": "2025-03-17T12:20:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "arriving-in-jyvaskyla",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-04T07:19:51+00:00",
+  "preview_caption": "Photo Jukka Paakkinen",
+  "preview_image": {
+    "blob_path": "c04b5145a1fb4d2484ae0fb021af6f5f/preview_image/kanavuori photo Jukka Paakkinen.JPG",
+    "content-type": "image/jpeg",
+    "filename": "kanavuori photo Jukka Paakkinen.JPG",
+    "height": 1536,
+    "size": 371048,
+    "width": 1903
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Arriving in Jyv\u00e4skyl\u00e4",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:15:47+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T12:20:12+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

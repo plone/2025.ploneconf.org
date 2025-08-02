@@ -1,0 +1,40 @@
+{
+  "@id": "/pyconfi-2025/asko-pycon-small.jpeg",
+  "@type": "Image",
+  "UID": "7e9c5fd830b74221b561e5bdfd043480",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-04-17T09:43:13+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "asko-pycon-small.jpeg",
+  "image": {
+    "blob_path": "7e9c5fd830b74221b561e5bdfd043480/image/asko-pycon-small.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "asko-pycon-small.jpeg",
+    "height": 785,
+    "size": 418815,
+    "width": 1400
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-17T09:43:13+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "asko-pycon-small.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

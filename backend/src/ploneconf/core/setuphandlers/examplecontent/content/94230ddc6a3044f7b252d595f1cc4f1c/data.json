@@ -1,0 +1,40 @@
+{
+  "@id": "/images/karhunahas-photo-jukka-paakkinen.jpg",
+  "@type": "Image",
+  "UID": "94230ddc6a3044f7b252d595f1cc4f1c",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:03+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "karhunahas-photo-jukka-paakkinen.jpg",
+  "image": {
+    "blob_path": "94230ddc6a3044f7b252d595f1cc4f1c/image/karhunahas PHOTO JUKKA PAAKKINEN.JPG",
+    "content-type": "image/jpeg",
+    "filename": "karhunahas PHOTO JUKKA PAAKKINEN.JPG",
+    "height": 1536,
+    "size": 683377,
+    "width": 1144
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:03+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "karhunahas PHOTO JUKKA PAAKKINEN.JPG",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

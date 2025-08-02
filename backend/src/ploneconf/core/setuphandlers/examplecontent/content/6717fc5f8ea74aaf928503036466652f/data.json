@@ -1,0 +1,358 @@
+{
+  "@id": "/sponsors/platinum",
+  "@type": "SponsorLevel",
+  "UID": "6717fc5f8ea74aaf928503036466652f",
+  "allow_discussion": null,
+  "benefits": [],
+  "blocks": {
+    "3693ce2f-cb67-480f-8da2-e41cbd188e7d": {
+      "@type": "title"
+    },
+    "56c0bfde-f971-46b6-8bfe-a389ee218370": {
+      "@type": "slate",
+      "plaintext": "Be a major player amongst sponsors.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Be a major player amongst sponsors. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "befe39ab-9b97-4f76-9f54-f357d31fa551": {
+      "@type": "slate",
+      "plaintext": " Ready to sponsor or have questions? Contact us at conf@plone.org  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Ready to sponsor or have questions? Contact us at "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "conf@plone.org"
+                    }
+                  ],
+                  "data": {
+                    "url": "mailto:conf@plone.org"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "cbf5ed2a-b3ad-4e1c-a76e-3bc0fd51b75c": {
+      "@type": "accordion",
+      "collapsed": false,
+      "data": {
+        "blocks": {
+          "344d016e-10a2-48d1-b68e-cd9049767d66": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "1b4e6d87-0041-49e0-993e-82db24945f08": {
+                "@type": "slate",
+                "plaintext": "6000 euros",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "6000 euros"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "1b4e6d87-0041-49e0-993e-82db24945f08"
+              ]
+            },
+            "title": "Investment"
+          },
+          "359f6fb7-443f-4698-92f8-6b9195042f42": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "f36cd4df-57d6-4c33-9ba6-a3fbbfca6c54": {
+                "@type": "slate",
+                "plaintext": "6 complimentary tickets for the Plone Conference 2025, including PyCon Finland 2025 Logo at Registration Desk Logo at Training and Conference Rooms Logo on the website, Sponsors page Logo in video shown between Talks Logo in post-conference videos (YouTube) Social Media: Minimum of 6 mentions Material distributed to the attendees, provided by the sponsor",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "6 complimentary tickets for the Plone Conference 2025, including PyCon Finland 2025"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo at Registration Desk"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo at Training and Conference Rooms"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo on the website, Sponsors page"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in video shown between Talks"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in post-conference videos (YouTube)"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Social Media: Minimum of 6 mentions"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Material distributed to the attendees, provided by the sponsor"
+                          }
+                        ],
+                        "type": "li"
+                      }
+                    ],
+                    "type": "ul"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "f36cd4df-57d6-4c33-9ba6-a3fbbfca6c54"
+              ]
+            },
+            "title": "Benefits"
+          },
+          "7af7578a-5d16-4728-9fac-7fc585e3654a": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "5c606b3c-7102-4bdf-b629-a4a523ac099b": {
+                "@type": "slate",
+                "plaintext": "",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              "8357099a-e38a-4efa-b044-a981b1844880": {
+                "@type": "teaser",
+                "description": "Quaive is a digital workplace built for teams who value trust and transparency. It integrates document sharing and communication in a single, easy-to-use platform. ",
+                "head_title": null,
+                "href": [
+                  {
+                    "@id": "../../resolveuid/222b5238c6e14c6d82e06d2ce8b31751",
+                    "@type": "Sponsor",
+                    "Description": "Quaive is a digital workplace built for teams who value trust and transparency. It integrates document sharing and communication in a single, easy-to-use platform. ",
+                    "Subject": [],
+                    "Title": "Quaive",
+                    "description": "Quaive is a digital workplace built for teams who value trust and transparency. It integrates document sharing and communication in a single, easy-to-use platform. ",
+                    "effective": "2025-05-22T13:04:01+00:00",
+                    "getRemoteUrl": null,
+                    "hasPreviewImage": null,
+                    "head_title": null,
+                    "image_field": "image",
+                    "nav_title": null,
+                    "review_state": "published",
+                    "title": "Quaive",
+                    "type_title": "Sponsor"
+                  }
+                ],
+                "overwrite": true,
+                "styles": {
+                  "align": "left"
+                },
+                "theme": "default",
+                "title": "Quaive"
+              },
+              "dde66ad4-9172-446f-9897-07b1ae012195": {
+                "@type": "teaser",
+                "description": "Collaborative IT solutions for local governments",
+                "head_title": null,
+                "href": [
+                  {
+                    "@id": "../../resolveuid/f4beeb790c1e40f2ac649557a421aec7",
+                    "@type": "Sponsor",
+                    "Description": "Collaborative IT solutions for local governments",
+                    "Subject": [
+                      "Plone",
+                      "Sponsor"
+                    ],
+                    "Title": "iMio",
+                    "description": "Collaborative IT solutions for local governments",
+                    "effective": "2025-04-14T09:29:50+00:00",
+                    "getRemoteUrl": null,
+                    "hasPreviewImage": null,
+                    "head_title": null,
+                    "image_field": "image",
+                    "nav_title": null,
+                    "review_state": "published",
+                    "title": "iMio",
+                    "type_title": "Sponsor"
+                  }
+                ],
+                "overwrite": false,
+                "styles": {
+                  "align": "left"
+                },
+                "theme": "default",
+                "title": "iMio"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "dde66ad4-9172-446f-9897-07b1ae012195",
+                "8357099a-e38a-4efa-b044-a981b1844880",
+                "5c606b3c-7102-4bdf-b629-a4a523ac099b"
+              ]
+            },
+            "selected": "8357099a-e38a-4efa-b044-a981b1844880",
+            "title": "Sponsors"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "359f6fb7-443f-4698-92f8-6b9195042f42",
+            "344d016e-10a2-48d1-b68e-cd9049767d66",
+            "7af7578a-5d16-4728-9fac-7fc585e3654a"
+          ]
+        }
+      },
+      "filtering": false,
+      "non_exclusive": false,
+      "right_arrows": true,
+      "styles": {},
+      "theme": "default"
+    },
+    "d535fa5c-5177-477d-a628-828545a11c9e": {
+      "@type": "separator",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "shortLine": true
+      },
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "3693ce2f-cb67-480f-8da2-e41cbd188e7d",
+      "56c0bfde-f971-46b6-8bfe-a389ee218370",
+      "cbf5ed2a-b3ad-4e1c-a76e-3bc0fd51b75c",
+      "d535fa5c-5177-477d-a628-828545a11c9e",
+      "befe39ab-9b97-4f76-9f54-f357d31fa551"
+    ]
+  },
+  "color": "#000000",
+  "created": "2025-03-18T07:53:09+00:00",
+  "description": "Platinum level sponsorship for Plone Conference 2025",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "platinum",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-08-01T18:35:49+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "price": "",
+  "review_state": "published",
+  "title": "Platinum",
+  "type_title": "Sponsorship Level",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T07:53:18+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T08:02:05+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

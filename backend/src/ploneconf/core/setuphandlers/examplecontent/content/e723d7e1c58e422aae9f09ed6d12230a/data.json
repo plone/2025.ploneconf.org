@@ -1,0 +1,199 @@
+{
+  "@id": "/sponsors/sponsor-the-conference",
+  "@type": "Document",
+  "UID": "e723d7e1c58e422aae9f09ed6d12230a",
+  "allow_discussion": null,
+  "blocks": {
+    "3e1051e2-8989-4a06-ac8f-7e160f3bef37": {
+      "@type": "title"
+    },
+    "8fa388b8-1a76-4fbe-b9c6-7ba00eaf4c5a": {
+      "@type": "slate",
+      "plaintext": "Thank you!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Thank you! "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a04a9568-8f1b-426f-9c40-cf45e2d2d14a": {
+      "@type": "slate",
+      "plaintext": "Awesome! If you are ready to sponsor the Plone Conference or PyCon Finland, please provide the following information to conf@plone.org or just ask more questions if there is anything that feels unclear.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Awesome! If you are ready to sponsor the Plone Conference or PyCon Finland, please provide the following information to "
+            },
+            {
+              "children": [
+                {
+                  "text": "conf@plone.org"
+                }
+              ],
+              "data": {
+                "url": "mailto:conf@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": " or just ask more questions if there is anything that feels unclear. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ad93509a-f190-4b54-80c6-486143568c05": {
+      "@type": "slate",
+      "plaintext": "Company name Company website URL Sponsorship level Company logo (png and svg) Company social media channel urls Short description/tagline of what the company is",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Company name"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Company website URL"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Sponsorship level"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Company logo (png and svg)"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Company social media channel urls"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Short description/tagline of what the company is"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "ca5398bc-612e-4b82-ad0a-8a087e79fbf0": {
+      "@type": "image",
+      "align": "center",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../../resolveuid/80682965276a48a29d912d075f0b3c49"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "3e1051e2-8989-4a06-ac8f-7e160f3bef37",
+      "a04a9568-8f1b-426f-9c40-cf45e2d2d14a",
+      "ad93509a-f190-4b54-80c6-486143568c05",
+      "8fa388b8-1a76-4fbe-b9c6-7ba00eaf4c5a",
+      "ca5398bc-612e-4b82-ad0a-8a087e79fbf0"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-18T09:42:53+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Plone Conference 2025 sponsorship form",
+  "effective": "2025-03-18T09:44:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "sponsor-the-conference",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-04T12:16:28+00:00",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Sponsor the Conference",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T09:42:53+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T09:44:24+00:00"
+      },
+      {
+        "action": "reject",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-27T13:08:46+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,392 @@
+{
+  "@id": "/news/pycon-is-back-in-finland",
+  "@type": "News Item",
+  "UID": "5521ae7e14e64986868b4506212f621e",
+  "allow_discussion": null,
+  "blocks": {
+    "2274dd41-6c86-4571-8804-bcfcd0736b27": {
+      "@type": "slate",
+      "plaintext": "We are happy to announce the first PyCon Finland in nearly a decade on Friday, 17th October 2025, Jyv\u00e4skyl\u00e4 ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We are happy to announce the first "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/1894aa8e64d84c22ab08d9956fe9d665"
+              },
+              "type": "link"
+            },
+            {
+              "text": " in nearly a decade on "
+            },
+            {
+              "children": [
+                {
+                  "text": "Friday, 17th October 2025, Jyv\u00e4skyl\u00e4"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3cbe2e45-421a-4229-becc-f543bc2fef7b": {
+      "@type": "image",
+      "align": "center",
+      "alt": "Asko in Meetup",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Asko Soukka announces PyCon Finland in Helsinki in Helsinki Python meetup on April 15, 2025.",
+      "url": "../../resolveuid/6fb713cb6b934b5994b935b1cf1eadca"
+    },
+    "4730fb65-85b4-463a-81fa-8eeffde63989": {
+      "@type": "slate",
+      "plaintext": "Plone Conference expects 150-200 attendees from all around the world, and the whole week ticket includes PyCon Finland.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference expects 150-200 attendees from all around the world, and the "
+            },
+            {
+              "children": [
+                {
+                  "text": "whole week ticket"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": " includes PyCon Finland. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5c23f2f2-71ab-446e-8846-e2e201504176": {
+      "@type": "slate",
+      "plaintext": "Join PyCon Finland Discord channel .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Join "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland Discord channel"
+                }
+              ],
+              "data": {
+                "url": "https://discord.gg/XkrwKJgFKR"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7b032130-77b9-43f7-be82-04bcc7fc1fc0": {
+      "@type": "title"
+    },
+    "9e4dee6f-d17e-4808-bc93-b95e3e5760c4": {
+      "@type": "slate",
+      "plaintext": "Follow PyCon Finland in LinkedIn ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Follow "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland in LinkedIn"
+                }
+              ],
+              "data": {
+                "url": "https://www.linkedin.com/company/pyconfi/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9e903645-b001-4a4f-9b76-c1ff953f296a": {
+      "@type": "image",
+      "align": "right",
+      "alt": "",
+      "image_field": "image",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "../../resolveuid/b24bc3750dff4f74ab5df92ceea72ea5"
+    },
+    "c976d33b-0d1f-4011-9ad2-1886fb8c58b8": {
+      "@type": "slate",
+      "plaintext": "Stay Tuned",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Stay Tuned"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "cc954165-67ea-4f1c-8f55-57789102312e": {
+      "@type": "slate",
+      "plaintext": "We also have a special one-day ticket for PyCon Finland which are limited to 100, and are now on sale at 80\u20ac for early bird, and 100\u20ac regular price.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We also have a "
+            },
+            {
+              "children": [
+                {
+                  "text": "special one-day ticket"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": " for PyCon Finland which are limited to 100, and are now on sale at 80\u20ac for early bird, and 100\u20ac regular price. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e0d5081d-d7b3-4ea8-bd94-2400a0892306": {
+      "@type": "slate",
+      "plaintext": " The call for proposals is also now open! We're looking for talks on all topics related to Python.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "The call for proposals"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/63d3bc88d6f84ff0b1355508020a16f9"
+              },
+              "type": "link"
+            },
+            {
+              "text": " is also now open! We're looking for talks on all topics related to Python. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f67d307b-dc0f-4a29-b38c-b5dcc53b4fdd": {
+      "@type": "slate",
+      "plaintext": "It's a special one-day event in cooperation with Plone Conference 2025 (Mon-Sun 13-19 October).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "It's a special one-day event in cooperation with "
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Conference 2025"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " (Mon-Sun 13-19 October). "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f7dadcd4-8a6e-4c5c-af5a-03a51641edb0": {
+      "@type": "slate",
+      "plaintext": "if you've any questions, don't hesitate to ask here or contact us or any of the HelPy organisers , and we hope to see as many of you as possible in October!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "if you've any questions, don't hesitate to ask here or "
+            },
+            {
+              "children": [
+                {
+                  "text": "contact us"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/7e95cf2fe5da43cbb0bd21caf23d5b94"
+              },
+              "type": "link"
+            },
+            {
+              "text": " or any of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "HelPy organisers"
+                }
+              ],
+              "data": {
+                "url": "mailto:helsinki-python@googlegroups.com"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", and we hope to see as many of you as possible in October!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "7b032130-77b9-43f7-be82-04bcc7fc1fc0",
+      "9e903645-b001-4a4f-9b76-c1ff953f296a",
+      "2274dd41-6c86-4571-8804-bcfcd0736b27",
+      "f67d307b-dc0f-4a29-b38c-b5dcc53b4fdd",
+      "4730fb65-85b4-463a-81fa-8eeffde63989",
+      "cc954165-67ea-4f1c-8f55-57789102312e",
+      "e0d5081d-d7b3-4ea8-bd94-2400a0892306",
+      "f7dadcd4-8a6e-4c5c-af5a-03a51641edb0",
+      "3cbe2e45-421a-4229-becc-f543bc2fef7b",
+      "c976d33b-0d1f-4011-9ad2-1886fb8c58b8",
+      "9e4dee6f-d17e-4808-bc93-b95e3e5760c4",
+      "5c23f2f2-71ab-446e-8846-e2e201504176"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-04-17T09:35:11+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Friday, 17th October 2025, Jyv\u00e4skyl\u00e4. ",
+  "effective": "2025-04-17T09:36:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pycon-is-back-in-finland",
+  "image": {
+    "blob_path": "5521ae7e14e64986868b4506212f621e/image/pycon25.png",
+    "content-type": "image/png",
+    "filename": "pycon25.png",
+    "height": 303,
+    "size": 11354,
+    "width": 300
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-04-17T09:58:40+00:00",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "PyCon Finland Is Back!",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-17T09:35:11+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-04-17T09:36:23+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

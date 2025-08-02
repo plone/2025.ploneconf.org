@@ -1,0 +1,225 @@
+{
+  "@id": "/sponsors/pycon-finland-sponsor",
+  "@type": "SponsorLevel",
+  "UID": "fd697efc885f4b39a787c6f5e5c39259",
+  "allow_discussion": null,
+  "benefits": [],
+  "blocks": {
+    "02209f38-73b4-44e5-91a1-bef1c1944e58": {
+      "@type": "accordion",
+      "collapsed": false,
+      "data": {
+        "blocks": {
+          "2d7c815f-9b64-4826-893a-0568bccb5e54": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "5e795818-c3db-4feb-9280-9f40ed8091e8": {
+                "@type": "slate",
+                "plaintext": "1000 euros.",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "1000 euros. "
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "5e795818-c3db-4feb-9280-9f40ed8091e8"
+              ]
+            },
+            "title": "Investment"
+          },
+          "9245ec18-1a80-48f4-aa58-589ee034f209": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "bdf793e1-907e-4e53-b8d5-82ea110f7234": {
+                "@type": "slate"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "bdf793e1-907e-4e53-b8d5-82ea110f7234"
+              ]
+            },
+            "title": "Sponsors"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "2d7c815f-9b64-4826-893a-0568bccb5e54",
+            "9245ec18-1a80-48f4-aa58-589ee034f209"
+          ]
+        }
+      },
+      "filtering": false,
+      "non_exclusive": false,
+      "right_arrows": true,
+      "styles": {},
+      "theme": "default"
+    },
+    "0ec01a69-41a3-420e-a407-6a644fc273b8": {
+      "@type": "slate",
+      "plaintext": "If you want to specifically sponsor PyCon Finland, you may select this package.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "If you want to specifically sponsor PyCon Finland, you may select this package. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "36f7c951-0511-4d9b-b2d9-2c05401521b2": {
+      "@type": "slate"
+    },
+    "8dc84a3b-1957-4ca0-a69f-b0026b542d30": {
+      "@type": "slate",
+      "plaintext": "Benefits",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Benefits"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "92be6785-4cff-402c-b431-1de9c5d9b40b": {
+      "@type": "image",
+      "align": "right",
+      "alt": "",
+      "image_field": "image",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "../../resolveuid/4da0d231da28477daef57f4b163ddc39"
+    },
+    "a46305e6-3c06-4bf2-b4d4-ba9da34dbbb6": {
+      "@type": "slate",
+      "plaintext": "3 complimentary tickets for PyCon Finland 2025 Logo in video shown between Talks Logo on the Conference website, Sponsors page Logo in post-conference videos (YouTube) Social Media: Minimum of 2 mentions",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "3 complimentary tickets for PyCon Finland 2025"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Logo in video shown between Talks"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Logo on the Conference website, Sponsors page"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Logo in post-conference videos (YouTube)"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Social Media: Minimum of 2 mentions"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "b97dd632-0c43-407a-a4b3-3f8d363842c0": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "b97dd632-0c43-407a-a4b3-3f8d363842c0",
+      "0ec01a69-41a3-420e-a407-6a644fc273b8",
+      "92be6785-4cff-402c-b431-1de9c5d9b40b",
+      "8dc84a3b-1957-4ca0-a69f-b0026b542d30",
+      "a46305e6-3c06-4bf2-b4d4-ba9da34dbbb6",
+      "02209f38-73b4-44e5-91a1-bef1c1944e58",
+      "36f7c951-0511-4d9b-b2d9-2c05401521b2"
+    ]
+  },
+  "color": "#000000",
+  "created": "2025-06-04T12:17:56+00:00",
+  "description": "PyCon Finland Sponsor",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pycon-finland-sponsor",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-06-04T12:39:51+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "price": "",
+  "review_state": "published",
+  "title": "PyCon Finland Sponsor",
+  "type_title": "Sponsorship Level",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-06-04T12:17:56+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-06-04T12:39:51+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

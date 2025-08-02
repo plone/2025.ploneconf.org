@@ -1,0 +1,52 @@
+{
+  "@id": "/sponsors/silver/kitconcept",
+  "@type": "Sponsor",
+  "UID": "7530e8ce39734b539e1443eee223d42a",
+  "allow_discussion": null,
+  "created": "2025-07-03T18:00:39+00:00",
+  "description": "kitconcept is a Plone agency with offices in Bonn, Germany and Barcelona, Catalunya. kitconcept is the driving force behind the development of Plone 6 and the upcoming Plone 7.\n\nWith 14 Plone core developers, 8 Plone Foundation Members, Two Release Managers, two (ex) members of the Plone board of directors, and numerous Plone team members (Framework, Security, Release, Marketing, AI, Testing/CI/CD) kitconcept is one of the largest and most influential Plone companies worldwide.",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "kitconcept",
+  "image": {
+    "blob_path": "7530e8ce39734b539e1443eee223d42a/image/kitconcept.png",
+    "content-type": "image/png",
+    "filename": "kitconcept.png",
+    "height": 768,
+    "size": 45640,
+    "width": 1024
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-07-03T18:02:15+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": null,
+  "title": "kitconcept",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T18:00:39+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-03T18:02:15+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

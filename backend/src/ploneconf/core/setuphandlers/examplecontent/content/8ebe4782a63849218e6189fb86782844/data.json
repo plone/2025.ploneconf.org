@@ -1,0 +1,187 @@
+{
+  "@id": "/news/keynote-state-of-plone",
+  "@type": "News Item",
+  "UID": "8ebe4782a63849218e6189fb86782844",
+  "allow_discussion": null,
+  "blocks": {
+    "4e421c3a-584a-4f32-b375-b8f8385c5e86": {
+      "@type": "slate"
+    },
+    "6a94b83f-b201-4862-9840-d7c516a72506": {
+      "@type": "leadimage"
+    },
+    "709d9acf-4110-4b0b-baab-240441712d63": {
+      "@type": "slate",
+      "plaintext": "This year\u2019s State of Plone keynote will spotlight Plone 6.2 as an exciting evolution of the platform, introducing powerful new features and refinements that further enhance both the user and editing experience. Plone 6.2 represents another significant milestone in the system\u2019s ongoing maturity and innovation.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This year\u2019s State of Plone keynote will "
+            },
+            {
+              "children": [
+                {
+                  "text": "spotlight Plone 6.2"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " as an exciting evolution of the platform, introducing powerful new features and refinements that further enhance both the user and editing experience. Plone 6.2 represents another significant milestone in the system\u2019s ongoing maturity and innovation."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "959de67e-35e2-4b83-af2e-33f5b6f129e1": {
+      "@type": "slate",
+      "plaintext": "Plone release managers Timo Stollenwerk , Maurits van Rees and V\u00edctor Fern\u00e1ndez de Alba discuss the current state of Plone 6.2 and give a sneak peek to upcoming Plone 7.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone release managers "
+            },
+            {
+              "children": [
+                {
+                  "text": "Timo Stollenwerk"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "children": [
+                {
+                  "text": "Maurits van Rees"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "children": [
+                {
+                  "text": "V\u00edctor Fern\u00e1ndez de Alba"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " discuss the current state of Plone 6.2 and give a sneak peek to upcoming Plone 7.   "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ec142ca1-9e62-4c74-8df5-fbf5edd8372f": {
+      "@type": "slate",
+      "plaintext": "Looking ahead, we\u2019ll share an early look at Plone 7 - a bold leap forward. Actively developed throughout 2025, Plone 7 has been shaped by five strategic community-led sprints. With a strong focus on performance, flexibility, and accessibility, it will redefine content editing. A redesigned theming system will make customization more intuitive than ever, and Plone 7 will be the first CMS on the market to offer a fully accessible editing interface - a groundbreaking step toward inclusive digital publishing.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Looking ahead, we\u2019ll share an "
+            },
+            {
+              "children": [
+                {
+                  "text": "early look at Plone 7"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " - a bold leap forward. Actively developed throughout 2025, Plone 7 has been shaped by five strategic community-led sprints. With a strong focus on performance, flexibility, and accessibility, it will redefine content editing. A redesigned theming system will make customization more intuitive than ever, and Plone 7 will be the first CMS on the market to offer a fully accessible editing interface - a groundbreaking step toward inclusive digital publishing."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ef1e20d3-35ec-4657-a23b-bc3d83d1857d": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "ef1e20d3-35ec-4657-a23b-bc3d83d1857d",
+      "959de67e-35e2-4b83-af2e-33f5b6f129e1",
+      "709d9acf-4110-4b0b-baab-240441712d63",
+      "ec142ca1-9e62-4c74-8df5-fbf5edd8372f",
+      "6a94b83f-b201-4862-9840-d7c516a72506",
+      "4e421c3a-584a-4f32-b375-b8f8385c5e86"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-06-26T09:31:00+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "Plone release managers Timo Stollenwerk, Maurits van Rees and Victor fez de Alba discuss the current state of Plone 6.2 and give a sneak peek to upcoming Plone 7. ",
+  "effective": "2025-06-26T09:38:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "keynote-state-of-plone",
+  "image": {
+    "blob_path": "8ebe4782a63849218e6189fb86782844/image/keynote-state-of-plone.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "keynote-state-of-plone.jpeg",
+    "height": 1079,
+    "size": 494231,
+    "width": 1600
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-26T09:38:34+00:00",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Keynote: State of Plone - Plone 6.2 and Plone 7",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-06-26T09:31:00+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-06-26T09:38:34+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

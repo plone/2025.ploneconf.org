@@ -3,13 +3,32 @@
   "@type": "SponsorsDB",
   "UID": "25a96a9801a4427fbf354a7945fc22b3",
   "allow_discussion": null,
+  "benefits": [],
   "blocks": {
+    "0b39ae21-98d0-40f2-ae60-756c33802182": {
+      "@type": "image",
+      "align": "right",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "m",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "medium"
+      },
+      "theme": "default",
+      "url": "../resolveuid/80682965276a48a29d912d075f0b3c49"
+    },
     "1b7a519c-8d42-4866-9b55-5f171dc96998": {
       "@type": "title"
     },
     "24380047-2561-4d24-b815-638615c40b83": {
       "@type": "slate",
       "plaintext": "It doesn\u2019t matter if you are involved in Plone as a user (content creator, editor, site administrator), an integrator, a core developer, or if you provide solutions than can be used with our technologies. With your sponsorship you can help us organize an event where we can:",
+      "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
@@ -21,22 +40,71 @@
         }
       ]
     },
-    "4d9c79b2-70b9-4121-a4ab-3e6e1e077e0e": {
+    "5d30015f-6fa6-4fee-8ad7-e894aba6e482": {
       "@type": "slate",
-      "plaintext": "Sponsorship opportunities",
+      "plaintext": "Take a look at the different sponsorship levels and do not hesitate to contact us for more info or questions!",
+      "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
-              "text": "Sponsorship opportunities"
+              "text": "Take a look at the different sponsorship levels and do not hesitate to "
+            },
+            {
+              "children": [
+                {
+                  "text": "contact us"
+                }
+              ],
+              "data": {
+                "url": "mailto:conf@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": " for more info or questions!"
             }
           ],
-          "type": "h2"
+          "type": "p"
         }
       ]
     },
     "60f7328a-3bcc-4d41-a54c-0b0bea9c5b84": {
-      "@type": "sponsorsList"
+      "@type": "sponsorsShowcaseBlock",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        }
+      },
+      "title": ""
+    },
+    "6a092173-4564-4ff8-a21e-7d38bb4d2bea": {
+      "@type": "slate",
+      "plaintext": " Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving. ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving."
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
     },
     "6b9d8457-8654-44df-9a04-51f3b274c138": {
       "@type": "slate",
@@ -56,14 +124,16 @@
     },
     "771e90f8-0295-4f95-8d8a-1fbe18992ce6": {
       "@type": "slate",
-      "plaintext": "Train new people to use and develop Plone and Python Show other people amazing projects and solutions made with Plone Find new ways to improve our products Hang out with an amazing community of people from all over the world",
+      "plaintext": "Train new people to use and develop Plone, Python and React Show other people impressive projects and solutions made with Plone Find new ways to improve our products Hang out with an amazing community of people from all over the world Create meaningful contacts",
+      "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
               "children": [
                 {
-                  "text": "Train new people to use and develop Plone and Python"
+                  "text": "Train new people to use and develop Plone, Python and React"
                 }
               ],
               "type": "li"
@@ -71,7 +141,7 @@
             {
               "children": [
                 {
-                  "text": "Show other people amazing projects and solutions made with Plone"
+                  "text": "Show other people impressive projects and solutions made with Plone"
                 }
               ],
               "type": "li"
@@ -91,6 +161,14 @@
                 }
               ],
               "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Create meaningful contacts"
+                }
+              ],
+              "type": "li"
             }
           ],
           "type": "ul"
@@ -99,23 +177,14 @@
     },
     "7df3262f-c0ac-4ff4-a1ca-c81d93d373af": {
       "@type": "slate",
-      "plaintext": "This event attracts a wide variety of people every year, but everyone has the same thing in common: The community .",
+      "plaintext": "This event attracts a wide variety of professional people every year from over 20 countries around the world.",
+      "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
-              "text": "This event attracts a wide variety of people every year, but everyone has the same thing in common:\u00a0"
-            },
-            {
-              "children": [
-                {
-                  "text": "The community"
-                }
-              ],
-              "type": "strong"
-            },
-            {
-              "text": "."
+              "text": "This event attracts a wide variety of professional people every year from over 20 countries around the world. "
             }
           ],
           "type": "p"
@@ -124,33 +193,26 @@
     },
     "831e477e-0c8a-4054-aa5a-2c82c1cad741": {
       "@type": "slate",
-      "plaintext": "The Plone Conference is the annual gathering of the Plone community. We are honoured to be the organizers of the 23rd edition of this amazing event. We invite you to take advantage of one of our sponsorship packages to ensure maximum visibility for your company during the leading conference in the Plone industry.",
+      "plaintext": "The Plone Conference is the annual gathering of the Plone community.",
       "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
-              "text": "The Plone Conference is the annual gathering of the Plone community. We are honoured to be the organizers of the 23rd edition of this amazing event. We invite you to take advantage of one of our sponsorship packages to ensure\u00a0"
-            },
-            {
-              "children": [
-                {
-                  "text": "maximum visibility"
-                }
-              ],
-              "type": "b"
-            },
-            {
-              "text": "\u00a0for your company during the leading conference in the Plone industry."
+              "text": "The Plone Conference is the annual gathering of the Plone community. "
             }
           ],
           "type": "p"
         }
       ]
     },
+    "94ba71c8-5295-4a25-b09f-b01d286857ac": {
+      "@type": "slate"
+    },
     "af205131-54da-4344-86e8-1c591150acd3": {
       "@type": "listing",
-      "headline": "Packages",
+      "headline": "Sponsorship Packages",
       "headlineTag": "h2",
       "querystring": {
         "query": [
@@ -174,16 +236,76 @@
       },
       "styles": {},
       "theme": "grey",
-      "variation": "grid"
+      "variation": "summary"
     },
     "c5f446dd-c7e5-4f8c-899a-519120473eba": {
       "@type": "slate",
-      "plaintext": "The Plone Conference is an event organized by the community itself and supported by the Plone Foundation. We need your help to maintain its top quality and to keep it open. Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving.",
+      "plaintext": " The Plone Conference 2025 is organized by and hosted by hosted by the University of Jyv\u00e4skyl\u00e4 and supported by the Plone Foundation . This year, the conference includes also a special event, PyCon Finland .",
+      "styles": {},
+      "theme": "default",
       "value": [
         {
           "children": [
             {
-              "text": "The Plone Conference is an event organized by the community itself and supported by the Plone Foundation. We need your help to maintain its top quality and to keep it open. Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving."
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "The Plone Conference 2025"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8d4058a232e44bd6adb5666377c8738f"
+              },
+              "type": "link"
+            },
+            {
+              "text": " is organized by and hosted by hosted by the University of Jyv\u00e4skyl\u00e4 and supported by the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Foundation"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/foundation"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". This year, the conference includes also a special event, "
+            },
+            {
+              "children": [
+                {
+                  "text": "PyCon Finland"
+                }
+              ],
+              "data": {
+                "url": "../resolveuid/8d4058a232e44bd6adb5666377c8738f"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ed13bef2-1ec6-427a-b40f-3c2b6e67b60c": {
+      "@type": "slate",
+      "plaintext": "We invite you to take advantage of one of our sponsorship packages to ensure\u00a0maximum visibility\u00a0for your company during conference and to maintain the top quality of Plone and to keep it open.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We invite you to take advantage of one of our sponsorship packages to ensure\u00a0maximum visibility\u00a0for your company during conference and to maintain the top quality of Plone and to keep it open. "
             }
           ],
           "type": "p"
@@ -194,26 +316,24 @@
   "blocks_layout": {
     "items": [
       "1b7a519c-8d42-4866-9b55-5f171dc96998",
-      "4d9c79b2-70b9-4121-a4ab-3e6e1e077e0e",
       "831e477e-0c8a-4054-aa5a-2c82c1cad741",
       "c5f446dd-c7e5-4f8c-899a-519120473eba",
       "7df3262f-c0ac-4ff4-a1ca-c81d93d373af",
+      "ed13bef2-1ec6-427a-b40f-3c2b6e67b60c",
+      "6a092173-4564-4ff8-a21e-7d38bb4d2bea",
+      "0b39ae21-98d0-40f2-ae60-756c33802182",
+      "94ba71c8-5295-4a25-b09f-b01d286857ac",
       "24380047-2561-4d24-b815-638615c40b83",
       "771e90f8-0295-4f95-8d8a-1fbe18992ce6",
       "6b9d8457-8654-44df-9a04-51f3b274c138",
+      "5d30015f-6fa6-4fee-8ad7-e894aba6e482",
       "af205131-54da-4344-86e8-1c591150acd3",
       "60f7328a-3bcc-4d41-a54c-0b0bea9c5b84"
     ]
   },
-  "contributors": [],
   "created": "2025-03-05T14:07:24+00:00",
-  "creators": [
-    "admin"
-  ],
-  "description": "",
-  "effective": "2025-03-05T11:07:00",
+  "description": "Sponsoring the annual conference is the best way to help Plone and its community to keep growing and evolving.",
   "exclude_from_nav": false,
-  "expires": null,
   "exportimport.constrains": {},
   "exportimport.conversation": [],
   "id": "sponsors",
@@ -221,14 +341,11 @@
   "language": "##DEFAULT##",
   "layout": "view",
   "lock": {},
-  "modified": "2025-03-05T18:14:14+00:00",
+  "modified": "2025-06-24T11:01:55+00:00",
   "nav_title": null,
-  "preview_caption": null,
-  "preview_image": null,
+  "preview_caption_link": null,
   "review_state": "published",
-  "rights": "",
-  "subjects": [],
-  "title": "Sponsorship",
+  "title": "Sponsors",
   "type_title": "Sponsors Database",
   "version": "current",
   "workflow_history": {

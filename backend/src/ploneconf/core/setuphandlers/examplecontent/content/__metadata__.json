@@ -1,42 +1,328 @@
 {
   "__version__": "1.0.0",
   "_blob_files_": [
+    "8d4058a232e44bd6adb5666377c8738f/preview_image/agora-parkkis.jpg",
+    "1b8b0b690026425990f5dcb17c49dbab/preview_image/54177258359_ed410ca86d_k.jpg",
+    "7e95cf2fe5da43cbb0bd21caf23d5b94/preview_image/rantaraitti atacan ergin.jpg",
+    "040919e10d34462586f4c44d713fed77/preview_image/rantaraitti atacan ergin.jpg",
+    "887c1f312e1f405fa387d498c4200530/preview_image/CITY Of light juhana konttinen.jpg",
+    "07d4b4a2b9e047d3860e7dde13ae08e9/preview_image/ploneconf-2024-group.jpeg",
+    "62a5ea230f104e34a241d39eb7eda07b/preview_image/ploneconf-2025-logo-square.png",
+    "92a4d80ddf49415fa9e94b4f387ca223/image/ploneconf-2025-logo-banner.png",
+    "8b848eb264804efda68c4dd85ae330d6/image/Sponsorship levels - visual selection(1).png",
+    "8bcd56be266d41c8ac633dee8d172261/preview_image/agora-lobby.jpg",
+    "b45cded6dd8b483092b2002ab4d3c150/image/agora-parkkis.jpg",
+    "7fd9760f32004cb4a74ac8f26b532dda/image/agora-parkkis.jpg",
+    "400625f7b71e4eb98837ed1c75cd92e3/image/jyu-logo-en.svg",
+    "5abd6ecbd192409296889ef9d1d9eeb5/image/lahde-building.jpg",
+    "452339231d3f48448d34bf18d10f6b5d/image/martti-ahtisaarisali.jpg",
+    "63d3bc88d6f84ff0b1355508020a16f9/preview_image/victor-keynote.jpeg",
+    "a0afd107803e4001870ff40227541a9a/image/agora-lobby.jpg",
+    "639d259e919a48ffb447271555d4010f/image/bronze.png",
+    "c38b7aae5cc34b0ca1ec759e01852757/image/CITY Of light juhana konttinen.jpg",
+    "33b0ebc5a3134d679c47fd3f86b69dd1/image/COMPASS SQUARE atacan ergin.jpg",
+    "a75525fc258341369b4c4e550e76c411/image/conference-announcement.jpeg",
+    "73dfb248d39f4186a0f39f32b2967ac7/image/copper.png",
+    "b1fc4c3127064b4787938ee89a0fbe35/image/diamond.png",
+    "020c9c897f3140829c310e319e682246/image/gold.png",
+    "23d12c52239648c1a62de75fb815e5d0/image/HARJU  atacan ergin.jpg",
+    "5e228acfc2d24657ae09b0f402d4081d/image/kanavuori photo Jukka Paakkinen.JPG",
+    "94230ddc6a3044f7b252d595f1cc4f1c/image/karhunahas PHOTO JUKKA PAAKKINEN.JPG",
+    "7dd1f12fb6f047e3ad089889bb8001f4/image/ka\u0308rkistensilta PHOTO JUKKA PAAKKINEN.JPG",
+    "bc8d632a007044b0b901555af9a31e2e/image/kirveslampi IN LEIVONMA\u0308KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+    "e8f46f0b44904241a7b80cb13a8a9709/image/KUokkala bridge atacan ergin.jpg",
+    "aedfce7c78b84e879991ce05f003f634/image/kuokkala bridge juhana konttinen.jpg",
+    "d2feccd0da7d4c4d9c0d0b945faf16f2/image/kuokkalansilta 03 Juhana konttinen.jpg",
+    "a12ff8fcbc334ea98fb680d4890b5a4a/image/LIGHTS OF THE PEDESTRIAN STREET PHOTO KEIJO PENTTINEN.jpg",
+    "98fa893c9f4d4c4b94452bd6dec1d186/image/lutakko harbour visitjyvaskyla atacan ergin.jpg",
+    "f12c88f54ba54d679483bf4aac1742bb/image/martti-ahtisaarisali.jpg",
+    "72704b216d104cc3bf46dab502ec972f/image/PEDESTRIAN STREET atacan ergin.jpg",
+    "694d6ecc87c64f658c4060b5eead5b2b/image/platinum.png",
     "a58ccead718140c1baa98d43595fc3e6/image/plone-foundation.png",
-    "7eaee89477934c9582395c55ad66d435/image/pf_logo.png"
+    "4fe9f5ca8ecd4e50ab080f98c750c902/image/ploneconf-2025-logo-banner-small.png",
+    "a338482468444609afd827d5c4f4988e/image/ploneconf-2025-logo-square-small.png",
+    "d2d0bb652a6b4611b04aa16583438094/image/Python-logo-notext.svg.png",
+    "78398ae6bd3d4396ae071bd4a56dafc3/image/rantaraitti atacan ergin.jpg",
+    "72cdd5ec38e640b9a2f78df1cc58430c/image/silver.png",
+    "80682965276a48a29d912d075f0b3c49/image/Sponsorship levels - visual selection.png",
+    "6589c5a7c711423282e7ba000a5d2711/image/ploneconf-2025-logo-square-small.png",
+    "7c474422f0174b3b90a9aca71194d1f7/image/conference-announcement.jpeg",
+    "77873c4c01bc46b4881e18d1a22cdbdb/image/riksa-selittaa.jpg",
+    "c716068c8bc44909964dbeaa8ea92226/image/patrik-cropped.jpeg",
+    "8ebe4782a63849218e6189fb86782844/image/keynote-state-of-plone.jpeg",
+    "f7af37dc1d33439e8aad75f42014d82c/image/ploneconf-2025-logo-square-cropped.png",
+    "348e1698d0024c929979c0ae847cce26/image/grids.png",
+    "8150a67274d04ce48feba0586eae3486/image/plone6-wysiwyg.png",
+    "5521ae7e14e64986868b4506212f621e/image/pycon25.png",
+    "6fb713cb6b934b5994b935b1cf1eadca/image/asko-pycon-small.jpeg",
+    "6172a288153e450a9fd40565153b1f17/image/asko-pycon.jpg",
+    "b24bc3750dff4f74ab5df92ceea72ea5/image/pycon25.png",
+    "1894aa8e64d84c22ab08d9956fe9d665/preview_image/pycon25.png",
+    "7e9c5fd830b74221b561e5bdfd043480/image/asko-pycon-small.jpeg",
+    "a18e11965e60447483f1a96d9f132ed8/image/PyCon-Finland.png",
+    "2f0c14798d1c43739a953aba76aad21a/image/pycon25.png",
+    "c33aaef3d30241e3b71a6e51c1e1f00f/image/Interaktiv_Logo.svg",
+    "16003623e5bb4ae8b8d48c2d7310da24/image/nick.svg",
+    "c73a4d3e0d0a4c8892bce1b1e03e7695/image/starzel.png",
+    "7eaee89477934c9582395c55ad66d435/image/pf_logo.png",
+    "8f38215616f847128a39e11a2c478479/image/RGB-KAKSIKIELINEN-JYU-logo-keskitetty-varillinen.png",
+    "f4beeb790c1e40f2ac649557a421aec7/image/imio.png",
+    "222b5238c6e14c6d82e06d2ce8b31751/image/Quaive logo Square(1).png",
+    "4da0d231da28477daef57f4b163ddc39/image/PyCon-Finland.png",
+    "371a7a7f8c2a4e1489547880583dd6bb/image/enfold-logo.png",
+    "c88ac75d04b748d48b14644556f11fee/image/jazkarta-logo.png",
+    "7530e8ce39734b539e1443eee223d42a/image/kitconcept.png",
+    "8ac0ecc13dec4b5f9b3f0837e86739f8/image/redturtle.png",
+    "8f82c1589f4447529763c1223ed798dc/preview_image/ploneconf-2025-logo-square-small.png",
+    "7f9e255f668c40c3b01301006658b9e9/image/ploneconf-2025-logo-square.png",
+    "fd9cd6094e8a48afa804104a2e4ec87d/image/registration.png",
+    "75d4c72abf5045a292eb20c8f4d98435/preview_image/kirveslampi IN LEIVONMA\u0308KI NATIONAL PARK PHOTO JUKKA PAAKKINEN.JPG",
+    "3547cda61205410aa7a8a26fabf0f401/preview_image/lutakko harbour visitjyvaskyla atacan ergin.jpg",
+    "c04b5145a1fb4d2484ae0fb021af6f5f/preview_image/kanavuori photo Jukka Paakkinen.JPG",
+    "c2978c1cade04c28b5358a8de3bed37e/preview_image/agora-lobby.jpg",
+    "11f56585319a4efb9f71e9b2942bb726/preview_image/kuokkala bridge juhana konttinen.jpg",
+    "6cd8524679ca416ba1508e69cfa708e5/preview_image/Python-logo-notext.svg.png",
+    "3b0e7f03b1f74f489755fb1c8592c7d3/image/PyCon-Finland.png",
+    "plone_site_root/logo/ploneconf-2025-logo-small-2.png",
+    "plone_site_root/complementary_logo/pycon25.png"
   ],
   "_data_files_": [
     "plone_site_root/data.json",
     "8d4058a232e44bd6adb5666377c8738f/data.json",
     "1b8b0b690026425990f5dcb17c49dbab/data.json",
     "7e95cf2fe5da43cbb0bd21caf23d5b94/data.json",
+    "040919e10d34462586f4c44d713fed77/data.json",
+    "887c1f312e1f405fa387d498c4200530/data.json",
+    "1e96681baa164e6b937c1c2ce39023d3/data.json",
+    "07d4b4a2b9e047d3860e7dde13ae08e9/data.json",
+    "62a5ea230f104e34a241d39eb7eda07b/data.json",
+    "92a4d80ddf49415fa9e94b4f387ca223/data.json",
+    "c42b21c5a15348049b54e50cb83ac275/data.json",
+    "8b848eb264804efda68c4dd85ae330d6/data.json",
+    "8bcd56be266d41c8ac633dee8d172261/data.json",
+    "b45cded6dd8b483092b2002ab4d3c150/data.json",
+    "7fd9760f32004cb4a74ac8f26b532dda/data.json",
+    "400625f7b71e4eb98837ed1c75cd92e3/data.json",
+    "5abd6ecbd192409296889ef9d1d9eeb5/data.json",
+    "452339231d3f48448d34bf18d10f6b5d/data.json",
+    "63d3bc88d6f84ff0b1355508020a16f9/data.json",
     "a720393b3c0240e5bd27c43fcd2cfd1e/data.json",
+    "a0afd107803e4001870ff40227541a9a/data.json",
+    "639d259e919a48ffb447271555d4010f/data.json",
+    "c38b7aae5cc34b0ca1ec759e01852757/data.json",
+    "33b0ebc5a3134d679c47fd3f86b69dd1/data.json",
+    "a75525fc258341369b4c4e550e76c411/data.json",
+    "73dfb248d39f4186a0f39f32b2967ac7/data.json",
+    "b1fc4c3127064b4787938ee89a0fbe35/data.json",
+    "020c9c897f3140829c310e319e682246/data.json",
+    "23d12c52239648c1a62de75fb815e5d0/data.json",
+    "5e228acfc2d24657ae09b0f402d4081d/data.json",
+    "94230ddc6a3044f7b252d595f1cc4f1c/data.json",
+    "7dd1f12fb6f047e3ad089889bb8001f4/data.json",
+    "bc8d632a007044b0b901555af9a31e2e/data.json",
+    "e8f46f0b44904241a7b80cb13a8a9709/data.json",
+    "aedfce7c78b84e879991ce05f003f634/data.json",
+    "d2feccd0da7d4c4d9c0d0b945faf16f2/data.json",
+    "a12ff8fcbc334ea98fb680d4890b5a4a/data.json",
+    "98fa893c9f4d4c4b94452bd6dec1d186/data.json",
+    "f12c88f54ba54d679483bf4aac1742bb/data.json",
+    "72704b216d104cc3bf46dab502ec972f/data.json",
+    "694d6ecc87c64f658c4060b5eead5b2b/data.json",
     "a58ccead718140c1baa98d43595fc3e6/data.json",
+    "4fe9f5ca8ecd4e50ab080f98c750c902/data.json",
+    "a338482468444609afd827d5c4f4988e/data.json",
+    "d2d0bb652a6b4611b04aa16583438094/data.json",
+    "78398ae6bd3d4396ae071bd4a56dafc3/data.json",
+    "72cdd5ec38e640b9a2f78df1cc58430c/data.json",
+    "80682965276a48a29d912d075f0b3c49/data.json",
+    "91cd9339e78b442595685a4f73869afb/data.json",
+    "6589c5a7c711423282e7ba000a5d2711/data.json",
+    "7c474422f0174b3b90a9aca71194d1f7/data.json",
+    "77873c4c01bc46b4881e18d1a22cdbdb/data.json",
+    "c716068c8bc44909964dbeaa8ea92226/data.json",
+    "8ebe4782a63849218e6189fb86782844/data.json",
+    "f7af37dc1d33439e8aad75f42014d82c/data.json",
+    "348e1698d0024c929979c0ae847cce26/data.json",
+    "8150a67274d04ce48feba0586eae3486/data.json",
+    "5521ae7e14e64986868b4506212f621e/data.json",
+    "6fb713cb6b934b5994b935b1cf1eadca/data.json",
+    "6172a288153e450a9fd40565153b1f17/data.json",
+    "b24bc3750dff4f74ab5df92ceea72ea5/data.json",
+    "1894aa8e64d84c22ab08d9956fe9d665/data.json",
+    "7e9c5fd830b74221b561e5bdfd043480/data.json",
+    "a18e11965e60447483f1a96d9f132ed8/data.json",
+    "2f0c14798d1c43739a953aba76aad21a/data.json",
+    "7632cf838e1f410ea6a0bb201a3a6420/data.json",
+    "abb31c0badd9408aa20defa1801cdd1c/data.json",
+    "b48b43ab9d214d30b1b25eae6d73e26b/data.json",
+    "23b6af92ce2647fa9873fbf47a20d820/data.json",
+    "cff3c422eb0d427bbf346733d114e13b/data.json",
+    "663e086384464da0a9cbc9e134d8a493/data.json",
+    "b30b03fb71554db6a814fc11bb749d0c/data.json",
+    "5c5dc4877b7c42a3b69c6a09591a9512/data.json",
+    "6d2d95fa4ade4b7baf89c987cb0f171c/data.json",
+    "90ae256c7f354a6c8b6c6dc0cf34bafc/data.json",
+    "b511d5c470b143b49e6a58d1c2601398/data.json",
+    "d0c753d35eda404ba53a19af2aad83fe/data.json",
+    "abce5fbaea7748bbb6a78851aafc1bf9/data.json",
     "25a96a9801a4427fbf354a7945fc22b3/data.json",
+    "8bf8f3c0c2ff41d0af4f4028368ab8b7/data.json",
+    "c33aaef3d30241e3b71a6e51c1e1f00f/data.json",
+    "16003623e5bb4ae8b8d48c2d7310da24/data.json",
+    "c73a4d3e0d0a4c8892bce1b1e03e7695/data.json",
+    "292b0d480a2e4b9394a1b390e3e6aa08/data.json",
+    "666d4a5eaf9a4f2cb1719aebd9f56151/data.json",
+    "3637810a7d764faba6ff9f1a953f160f/data.json",
     "741ab3e39f554c068ef28b74a0e9d3e2/data.json",
-    "7eaee89477934c9582395c55ad66d435/data.json"
+    "7eaee89477934c9582395c55ad66d435/data.json",
+    "8f38215616f847128a39e11a2c478479/data.json",
+    "6717fc5f8ea74aaf928503036466652f/data.json",
+    "f4beeb790c1e40f2ac649557a421aec7/data.json",
+    "222b5238c6e14c6d82e06d2ce8b31751/data.json",
+    "fd697efc885f4b39a787c6f5e5c39259/data.json",
+    "4da0d231da28477daef57f4b163ddc39/data.json",
+    "b927221024c746fe890a027c6b65c6c7/data.json",
+    "371a7a7f8c2a4e1489547880583dd6bb/data.json",
+    "c88ac75d04b748d48b14644556f11fee/data.json",
+    "7530e8ce39734b539e1443eee223d42a/data.json",
+    "8ac0ecc13dec4b5f9b3f0837e86739f8/data.json",
+    "e723d7e1c58e422aae9f09ed6d12230a/data.json",
+    "4bf2a38a7c244072bca469643985aa96/data.json",
+    "8f82c1589f4447529763c1223ed798dc/data.json",
+    "7f9e255f668c40c3b01301006658b9e9/data.json",
+    "fd9cd6094e8a48afa804104a2e4ec87d/data.json",
+    "75d4c72abf5045a292eb20c8f4d98435/data.json",
+    "3547cda61205410aa7a8a26fabf0f401/data.json",
+    "c04b5145a1fb4d2484ae0fb021af6f5f/data.json",
+    "c2978c1cade04c28b5358a8de3bed37e/data.json",
+    "11f56585319a4efb9f71e9b2942bb726/data.json",
+    "6cd8524679ca416ba1508e69cfa708e5/data.json",
+    "3b0e7f03b1f74f489755fb1c8592c7d3/data.json"
   ],
   "default_page": {},
   "local_permissions": {
+    "020c9c897f3140829c310e319e682246": {},
+    "040919e10d34462586f4c44d713fed77": {},
+    "07d4b4a2b9e047d3860e7dde13ae08e9": {},
+    "11f56585319a4efb9f71e9b2942bb726": {},
+    "16003623e5bb4ae8b8d48c2d7310da24": {},
+    "1894aa8e64d84c22ab08d9956fe9d665": {},
     "1b8b0b690026425990f5dcb17c49dbab": {},
+    "1e96681baa164e6b937c1c2ce39023d3": {},
+    "222b5238c6e14c6d82e06d2ce8b31751": {},
+    "23b6af92ce2647fa9873fbf47a20d820": {},
+    "23d12c52239648c1a62de75fb815e5d0": {},
     "25a96a9801a4427fbf354a7945fc22b3": {
-      "ploneconf.core: Add SponsorsDB": {
+      "collective.techevent: Add SponsorsDB": {
         "acquire": false,
         "roles": []
       }
     },
+    "292b0d480a2e4b9394a1b390e3e6aa08": {},
+    "2f0c14798d1c43739a953aba76aad21a": {},
+    "33b0ebc5a3134d679c47fd3f86b69dd1": {},
+    "348e1698d0024c929979c0ae847cce26": {},
+    "3547cda61205410aa7a8a26fabf0f401": {},
+    "3637810a7d764faba6ff9f1a953f160f": {},
+    "371a7a7f8c2a4e1489547880583dd6bb": {},
+    "3b0e7f03b1f74f489755fb1c8592c7d3": {},
+    "400625f7b71e4eb98837ed1c75cd92e3": {},
+    "452339231d3f48448d34bf18d10f6b5d": {},
+    "4bf2a38a7c244072bca469643985aa96": {},
+    "4da0d231da28477daef57f4b163ddc39": {},
+    "4fe9f5ca8ecd4e50ab080f98c750c902": {},
+    "5521ae7e14e64986868b4506212f621e": {},
+    "5abd6ecbd192409296889ef9d1d9eeb5": {},
+    "5c5dc4877b7c42a3b69c6a09591a9512": {},
+    "5e228acfc2d24657ae09b0f402d4081d": {},
+    "6172a288153e450a9fd40565153b1f17": {},
+    "62a5ea230f104e34a241d39eb7eda07b": {},
+    "639d259e919a48ffb447271555d4010f": {},
+    "63d3bc88d6f84ff0b1355508020a16f9": {},
+    "6589c5a7c711423282e7ba000a5d2711": {},
+    "663e086384464da0a9cbc9e134d8a493": {},
+    "666d4a5eaf9a4f2cb1719aebd9f56151": {},
+    "6717fc5f8ea74aaf928503036466652f": {},
+    "694d6ecc87c64f658c4060b5eead5b2b": {},
+    "6cd8524679ca416ba1508e69cfa708e5": {},
+    "6d2d95fa4ade4b7baf89c987cb0f171c": {},
+    "6fb713cb6b934b5994b935b1cf1eadca": {},
+    "72704b216d104cc3bf46dab502ec972f": {},
+    "72cdd5ec38e640b9a2f78df1cc58430c": {},
+    "73dfb248d39f4186a0f39f32b2967ac7": {},
     "741ab3e39f554c068ef28b74a0e9d3e2": {},
+    "7530e8ce39734b539e1443eee223d42a": {},
+    "75d4c72abf5045a292eb20c8f4d98435": {},
+    "7632cf838e1f410ea6a0bb201a3a6420": {},
+    "77873c4c01bc46b4881e18d1a22cdbdb": {},
+    "78398ae6bd3d4396ae071bd4a56dafc3": {},
+    "7c474422f0174b3b90a9aca71194d1f7": {},
+    "7dd1f12fb6f047e3ad089889bb8001f4": {},
     "7e95cf2fe5da43cbb0bd21caf23d5b94": {},
+    "7e9c5fd830b74221b561e5bdfd043480": {},
     "7eaee89477934c9582395c55ad66d435": {},
+    "7f9e255f668c40c3b01301006658b9e9": {},
+    "7fd9760f32004cb4a74ac8f26b532dda": {},
+    "80682965276a48a29d912d075f0b3c49": {},
+    "8150a67274d04ce48feba0586eae3486": {},
+    "887c1f312e1f405fa387d498c4200530": {},
+    "8ac0ecc13dec4b5f9b3f0837e86739f8": {},
+    "8b848eb264804efda68c4dd85ae330d6": {},
+    "8bcd56be266d41c8ac633dee8d172261": {},
+    "8bf8f3c0c2ff41d0af4f4028368ab8b7": {},
     "8d4058a232e44bd6adb5666377c8738f": {},
+    "8ebe4782a63849218e6189fb86782844": {},
+    "8f38215616f847128a39e11a2c478479": {},
+    "8f82c1589f4447529763c1223ed798dc": {},
+    "90ae256c7f354a6c8b6c6dc0cf34bafc": {},
+    "91cd9339e78b442595685a4f73869afb": {},
+    "92a4d80ddf49415fa9e94b4f387ca223": {},
+    "94230ddc6a3044f7b252d595f1cc4f1c": {},
+    "98fa893c9f4d4c4b94452bd6dec1d186": {},
+    "a0afd107803e4001870ff40227541a9a": {},
+    "a12ff8fcbc334ea98fb680d4890b5a4a": {},
+    "a18e11965e60447483f1a96d9f132ed8": {},
+    "a338482468444609afd827d5c4f4988e": {},
     "a58ccead718140c1baa98d43595fc3e6": {},
     "a720393b3c0240e5bd27c43fcd2cfd1e": {},
+    "a75525fc258341369b4c4e550e76c411": {},
+    "abb31c0badd9408aa20defa1801cdd1c": {},
+    "abce5fbaea7748bbb6a78851aafc1bf9": {},
+    "aedfce7c78b84e879991ce05f003f634": {},
+    "b1fc4c3127064b4787938ee89a0fbe35": {},
+    "b24bc3750dff4f74ab5df92ceea72ea5": {},
+    "b30b03fb71554db6a814fc11bb749d0c": {},
+    "b45cded6dd8b483092b2002ab4d3c150": {},
+    "b48b43ab9d214d30b1b25eae6d73e26b": {},
+    "b511d5c470b143b49e6a58d1c2601398": {},
+    "b927221024c746fe890a027c6b65c6c7": {},
+    "bc8d632a007044b0b901555af9a31e2e": {},
+    "c04b5145a1fb4d2484ae0fb021af6f5f": {},
+    "c2978c1cade04c28b5358a8de3bed37e": {},
+    "c33aaef3d30241e3b71a6e51c1e1f00f": {},
+    "c38b7aae5cc34b0ca1ec759e01852757": {},
+    "c42b21c5a15348049b54e50cb83ac275": {},
+    "c716068c8bc44909964dbeaa8ea92226": {},
+    "c73a4d3e0d0a4c8892bce1b1e03e7695": {},
+    "c88ac75d04b748d48b14644556f11fee": {},
+    "cff3c422eb0d427bbf346733d114e13b": {},
+    "d0c753d35eda404ba53a19af2aad83fe": {},
+    "d2d0bb652a6b4611b04aa16583438094": {},
+    "d2feccd0da7d4c4d9c0d0b945faf16f2": {},
+    "e723d7e1c58e422aae9f09ed6d12230a": {},
+    "e8f46f0b44904241a7b80cb13a8a9709": {},
+    "f12c88f54ba54d679483bf4aac1742bb": {},
+    "f4beeb790c1e40f2ac649557a421aec7": {},
+    "f7af37dc1d33439e8aad75f42014d82c": {},
+    "fd697efc885f4b39a787c6f5e5c39259": {},
+    "fd9cd6094e8a48afa804104a2e4ec87d": {},
     "plone_site_root": {
       "Add portal member": {
         "acquire": false,
         "roles": [
           "Manager",
-          "Site Administrator",
-          "Owner"
+          "Owner",
+          "Site Administrator"
         ]
       },
       "Content rules: Manage rules": {
@@ -68,6 +354,64 @@
           "Authenticated"
         ]
       },
+      "collective.techevent: Add Keynote": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner",
+          "Contributor"
+        ]
+      },
+      "collective.techevent: Add Presenter": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner",
+          "Contributor"
+        ]
+      },
+      "collective.techevent: Add Slot": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner",
+          "Contributor"
+        ]
+      },
+      "collective.techevent: Add SponsorsDB": {
+        "acquire": false,
+        "roles": []
+      },
+      "collective.techevent: Add Talk": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner",
+          "Contributor"
+        ]
+      },
+      "collective.techevent: Add Training": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner",
+          "Contributor"
+        ]
+      },
+      "collective.techevent: Add Venue": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner",
+          "Contributor"
+        ]
+      },
       "plone.resource: Export ZIP file": {
         "acquire": false,
         "roles": [
@@ -80,17 +424,83 @@
           "Manager",
           "Site Administrator"
         ]
-      },
-      "ploneconf.core: Add SponsorsDB": {
-        "acquire": false,
-        "roles": []
       }
     }
   },
   "local_roles": {
+    "020c9c897f3140829c310e319e682246": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "040919e10d34462586f4c44d713fed77": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "07d4b4a2b9e047d3860e7dde13ae08e9": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "11f56585319a4efb9f71e9b2942bb726": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "16003623e5bb4ae8b8d48c2d7310da24": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "1894aa8e64d84c22ab08d9956fe9d665": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
     "1b8b0b690026425990f5dcb17c49dbab": {
       "local_roles": {
         "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "1e96681baa164e6b937c1c2ce39023d3": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "222b5238c6e14c6d82e06d2ce8b31751": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "23b6af92ce2647fa9873fbf47a20d820": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "23d12c52239648c1a62de75fb815e5d0": {
+      "local_roles": {
+        "rikupekka-oksanen": [
           "Owner"
         ]
       }
@@ -102,9 +512,282 @@
         ]
       }
     },
+    "292b0d480a2e4b9394a1b390e3e6aa08": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "2f0c14798d1c43739a953aba76aad21a": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "33b0ebc5a3134d679c47fd3f86b69dd1": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "348e1698d0024c929979c0ae847cce26": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "3547cda61205410aa7a8a26fabf0f401": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "3637810a7d764faba6ff9f1a953f160f": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "371a7a7f8c2a4e1489547880583dd6bb": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "3b0e7f03b1f74f489755fb1c8592c7d3": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "400625f7b71e4eb98837ed1c75cd92e3": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "452339231d3f48448d34bf18d10f6b5d": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "4bf2a38a7c244072bca469643985aa96": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "4da0d231da28477daef57f4b163ddc39": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "4fe9f5ca8ecd4e50ab080f98c750c902": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "5521ae7e14e64986868b4506212f621e": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "5abd6ecbd192409296889ef9d1d9eeb5": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "5c5dc4877b7c42a3b69c6a09591a9512": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "5e228acfc2d24657ae09b0f402d4081d": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "6172a288153e450a9fd40565153b1f17": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "62a5ea230f104e34a241d39eb7eda07b": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "639d259e919a48ffb447271555d4010f": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "63d3bc88d6f84ff0b1355508020a16f9": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "6589c5a7c711423282e7ba000a5d2711": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "663e086384464da0a9cbc9e134d8a493": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "666d4a5eaf9a4f2cb1719aebd9f56151": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "6717fc5f8ea74aaf928503036466652f": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "694d6ecc87c64f658c4060b5eead5b2b": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "6cd8524679ca416ba1508e69cfa708e5": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "6d2d95fa4ade4b7baf89c987cb0f171c": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "6fb713cb6b934b5994b935b1cf1eadca": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "72704b216d104cc3bf46dab502ec972f": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "72cdd5ec38e640b9a2f78df1cc58430c": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "73dfb248d39f4186a0f39f32b2967ac7": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
     "741ab3e39f554c068ef28b74a0e9d3e2": {
       "local_roles": {
         "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "7530e8ce39734b539e1443eee223d42a": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "75d4c72abf5045a292eb20c8f4d98435": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "7632cf838e1f410ea6a0bb201a3a6420": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "77873c4c01bc46b4881e18d1a22cdbdb": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "78398ae6bd3d4396ae071bd4a56dafc3": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "7c474422f0174b3b90a9aca71194d1f7": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "7dd1f12fb6f047e3ad089889bb8001f4": {
+      "local_roles": {
+        "rikupekka-oksanen": [
           "Owner"
         ]
       }
@@ -116,6 +799,13 @@
         ]
       }
     },
+    "7e9c5fd830b74221b561e5bdfd043480": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
     "7eaee89477934c9582395c55ad66d435": {
       "local_roles": {
         "admin": [
@@ -123,9 +813,156 @@
         ]
       }
     },
+    "7f9e255f668c40c3b01301006658b9e9": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "7fd9760f32004cb4a74ac8f26b532dda": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "80682965276a48a29d912d075f0b3c49": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8150a67274d04ce48feba0586eae3486": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "887c1f312e1f405fa387d498c4200530": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8ac0ecc13dec4b5f9b3f0837e86739f8": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8b848eb264804efda68c4dd85ae330d6": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8bcd56be266d41c8ac633dee8d172261": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8bf8f3c0c2ff41d0af4f4028368ab8b7": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
     "8d4058a232e44bd6adb5666377c8738f": {
       "local_roles": {
         "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "8ebe4782a63849218e6189fb86782844": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8f38215616f847128a39e11a2c478479": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "8f82c1589f4447529763c1223ed798dc": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "90ae256c7f354a6c8b6c6dc0cf34bafc": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "91cd9339e78b442595685a4f73869afb": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "92a4d80ddf49415fa9e94b4f387ca223": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "94230ddc6a3044f7b252d595f1cc4f1c": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "98fa893c9f4d4c4b94452bd6dec1d186": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "a0afd107803e4001870ff40227541a9a": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "a12ff8fcbc334ea98fb680d4890b5a4a": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "a18e11965e60447483f1a96d9f132ed8": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "a338482468444609afd827d5c4f4988e": {
+      "local_roles": {
+        "rikupekka-oksanen": [
           "Owner"
         ]
       }
@@ -144,6 +981,223 @@
         ]
       }
     },
+    "a75525fc258341369b4c4e550e76c411": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "abb31c0badd9408aa20defa1801cdd1c": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "abce5fbaea7748bbb6a78851aafc1bf9": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "aedfce7c78b84e879991ce05f003f634": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "b1fc4c3127064b4787938ee89a0fbe35": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "b24bc3750dff4f74ab5df92ceea72ea5": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "b30b03fb71554db6a814fc11bb749d0c": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "b45cded6dd8b483092b2002ab4d3c150": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "b48b43ab9d214d30b1b25eae6d73e26b": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "b511d5c470b143b49e6a58d1c2601398": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "b927221024c746fe890a027c6b65c6c7": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "bc8d632a007044b0b901555af9a31e2e": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c04b5145a1fb4d2484ae0fb021af6f5f": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c2978c1cade04c28b5358a8de3bed37e": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c33aaef3d30241e3b71a6e51c1e1f00f": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c38b7aae5cc34b0ca1ec759e01852757": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c42b21c5a15348049b54e50cb83ac275": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c716068c8bc44909964dbeaa8ea92226": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c73a4d3e0d0a4c8892bce1b1e03e7695": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "c88ac75d04b748d48b14644556f11fee": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "cff3c422eb0d427bbf346733d114e13b": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "d0c753d35eda404ba53a19af2aad83fe": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "d2d0bb652a6b4611b04aa16583438094": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "d2feccd0da7d4c4d9c0d0b945faf16f2": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "e723d7e1c58e422aae9f09ed6d12230a": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "e8f46f0b44904241a7b80cb13a8a9709": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "f12c88f54ba54d679483bf4aac1742bb": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "f4beeb790c1e40f2ac649557a421aec7": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "f7af37dc1d33439e8aad75f42014d82c": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "fd697efc885f4b39a787c6f5e5c39259": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
+    "fd9cd6094e8a48afa804104a2e4ec87d": {
+      "local_roles": {
+        "rikupekka-oksanen": [
+          "Owner"
+        ]
+      }
+    },
     "plone_site_root": {
       "local_roles": {
         "admin": [
@@ -153,14 +1207,116 @@
     }
   },
   "ordering": {
-    "1b8b0b690026425990f5dcb17c49dbab": 0,
-    "25a96a9801a4427fbf354a7945fc22b3": 43,
+    "020c9c897f3140829c310e319e682246": 25,
+    "040919e10d34462586f4c44d713fed77": 9,
+    "07d4b4a2b9e047d3860e7dde13ae08e9": 2,
+    "11f56585319a4efb9f71e9b2942bb726": 3,
+    "16003623e5bb4ae8b8d48c2d7310da24": 2,
+    "1894aa8e64d84c22ab08d9956fe9d665": 50,
+    "1b8b0b690026425990f5dcb17c49dbab": 3,
+    "1e96681baa164e6b937c1c2ce39023d3": 6,
+    "222b5238c6e14c6d82e06d2ce8b31751": 1,
+    "23b6af92ce2647fa9873fbf47a20d820": 10,
+    "23d12c52239648c1a62de75fb815e5d0": 5,
+    "25a96a9801a4427fbf354a7945fc22b3": 44,
+    "292b0d480a2e4b9394a1b390e3e6aa08": 6,
+    "2f0c14798d1c43739a953aba76aad21a": 1,
+    "33b0ebc5a3134d679c47fd3f86b69dd1": 3,
+    "348e1698d0024c929979c0ae847cce26": 1,
+    "3547cda61205410aa7a8a26fabf0f401": 1,
+    "3637810a7d764faba6ff9f1a953f160f": 3,
+    "371a7a7f8c2a4e1489547880583dd6bb": 2,
+    "3b0e7f03b1f74f489755fb1c8592c7d3": 0,
+    "400625f7b71e4eb98837ed1c75cd92e3": 0,
+    "452339231d3f48448d34bf18d10f6b5d": 4,
+    "4bf2a38a7c244072bca469643985aa96": 8,
+    "4da0d231da28477daef57f4b163ddc39": 0,
+    "4fe9f5ca8ecd4e50ab080f98c750c902": 17,
+    "5521ae7e14e64986868b4506212f621e": 4,
+    "5abd6ecbd192409296889ef9d1d9eeb5": 1,
+    "5c5dc4877b7c42a3b69c6a09591a9512": 11,
+    "5e228acfc2d24657ae09b0f402d4081d": 6,
+    "6172a288153e450a9fd40565153b1f17": 0,
+    "62a5ea230f104e34a241d39eb7eda07b": 7,
+    "639d259e919a48ffb447271555d4010f": 22,
+    "63d3bc88d6f84ff0b1355508020a16f9": 48,
+    "6589c5a7c711423282e7ba000a5d2711": 1,
+    "663e086384464da0a9cbc9e134d8a493": 7,
+    "666d4a5eaf9a4f2cb1719aebd9f56151": 1,
+    "6717fc5f8ea74aaf928503036466652f": 2,
+    "694d6ecc87c64f658c4060b5eead5b2b": 26,
+    "6cd8524679ca416ba1508e69cfa708e5": 49,
+    "6d2d95fa4ade4b7baf89c987cb0f171c": 1,
+    "6fb713cb6b934b5994b935b1cf1eadca": 1,
+    "72704b216d104cc3bf46dab502ec972f": 16,
+    "72cdd5ec38e640b9a2f78df1cc58430c": 27,
+    "73dfb248d39f4186a0f39f32b2967ac7": 23,
     "741ab3e39f554c068ef28b74a0e9d3e2": 0,
-    "7e95cf2fe5da43cbb0bd21caf23d5b94": 1,
-    "7eaee89477934c9582395c55ad66d435": 0,
+    "7530e8ce39734b539e1443eee223d42a": 3,
+    "75d4c72abf5045a292eb20c8f4d98435": 45,
+    "7632cf838e1f410ea6a0bb201a3a6420": 43,
+    "77873c4c01bc46b4881e18d1a22cdbdb": 0,
+    "78398ae6bd3d4396ae071bd4a56dafc3": 20,
+    "7c474422f0174b3b90a9aca71194d1f7": 0,
+    "7dd1f12fb6f047e3ad089889bb8001f4": 8,
+    "7e95cf2fe5da43cbb0bd21caf23d5b94": 4,
+    "7e9c5fd830b74221b561e5bdfd043480": 2,
+    "7eaee89477934c9582395c55ad66d435": 1,
+    "7f9e255f668c40c3b01301006658b9e9": 0,
+    "7fd9760f32004cb4a74ac8f26b532dda": 2,
+    "80682965276a48a29d912d075f0b3c49": 21,
+    "8150a67274d04ce48feba0586eae3486": 0,
+    "887c1f312e1f405fa387d498c4200530": 0,
+    "8ac0ecc13dec4b5f9b3f0837e86739f8": 1,
+    "8b848eb264804efda68c4dd85ae330d6": 5,
+    "8bcd56be266d41c8ac633dee8d172261": 1,
+    "8bf8f3c0c2ff41d0af4f4028368ab8b7": 5,
     "8d4058a232e44bd6adb5666377c8738f": 42,
+    "8ebe4782a63849218e6189fb86782844": 6,
+    "8f38215616f847128a39e11a2c478479": 0,
+    "8f82c1589f4447529763c1223ed798dc": 47,
+    "90ae256c7f354a6c8b6c6dc0cf34bafc": 4,
+    "91cd9339e78b442595685a4f73869afb": 46,
+    "92a4d80ddf49415fa9e94b4f387ca223": 0,
+    "94230ddc6a3044f7b252d595f1cc4f1c": 7,
+    "98fa893c9f4d4c4b94452bd6dec1d186": 14,
+    "a0afd107803e4001870ff40227541a9a": 1,
+    "a12ff8fcbc334ea98fb680d4890b5a4a": 13,
+    "a18e11965e60447483f1a96d9f132ed8": 0,
+    "a338482468444609afd827d5c4f4988e": 18,
     "a58ccead718140c1baa98d43595fc3e6": 0,
-    "a720393b3c0240e5bd27c43fcd2cfd1e": 41
+    "a720393b3c0240e5bd27c43fcd2cfd1e": 41,
+    "a75525fc258341369b4c4e550e76c411": 4,
+    "abb31c0badd9408aa20defa1801cdd1c": 5,
+    "abce5fbaea7748bbb6a78851aafc1bf9": 0,
+    "aedfce7c78b84e879991ce05f003f634": 11,
+    "b1fc4c3127064b4787938ee89a0fbe35": 24,
+    "b24bc3750dff4f74ab5df92ceea72ea5": 3,
+    "b30b03fb71554db6a814fc11bb749d0c": 8,
+    "b45cded6dd8b483092b2002ab4d3c150": 3,
+    "b48b43ab9d214d30b1b25eae6d73e26b": 6,
+    "b511d5c470b143b49e6a58d1c2601398": 3,
+    "b927221024c746fe890a027c6b65c6c7": 4,
+    "bc8d632a007044b0b901555af9a31e2e": 9,
+    "c04b5145a1fb4d2484ae0fb021af6f5f": 0,
+    "c2978c1cade04c28b5358a8de3bed37e": 2,
+    "c33aaef3d30241e3b71a6e51c1e1f00f": 1,
+    "c38b7aae5cc34b0ca1ec759e01852757": 2,
+    "c42b21c5a15348049b54e50cb83ac275": 8,
+    "c716068c8bc44909964dbeaa8ea92226": 5,
+    "c73a4d3e0d0a4c8892bce1b1e03e7695": 0,
+    "c88ac75d04b748d48b14644556f11fee": 0,
+    "cff3c422eb0d427bbf346733d114e13b": 9,
+    "d0c753d35eda404ba53a19af2aad83fe": 2,
+    "d2d0bb652a6b4611b04aa16583438094": 19,
+    "d2feccd0da7d4c4d9c0d0b945faf16f2": 12,
+    "e723d7e1c58e422aae9f09ed6d12230a": 7,
+    "e8f46f0b44904241a7b80cb13a8a9709": 10,
+    "f12c88f54ba54d679483bf4aac1742bb": 15,
+    "f4beeb790c1e40f2ac649557a421aec7": 0,
+    "f7af37dc1d33439e8aad75f42014d82c": 2,
+    "fd697efc885f4b39a787c6f5e5c39259": 9,
+    "fd9cd6094e8a48afa804104a2e4ec87d": 1
   },
   "relations": []
 }

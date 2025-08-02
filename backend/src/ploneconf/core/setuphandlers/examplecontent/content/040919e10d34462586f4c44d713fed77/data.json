@@ -1,0 +1,185 @@
+{
+  "@id": "/about/copy_of_contact",
+  "@type": "Document",
+  "UID": "040919e10d34462586f4c44d713fed77",
+  "allow_discussion": null,
+  "blocks": {
+    "3d405c35-d08e-48c9-b070-afc2503f3b82": {
+      "@type": "slate"
+    },
+    "7a1a3466-8f4e-49cd-9d0c-eda7a69a9828": {
+      "@type": "slate",
+      "plaintext": "Contact us via email conf@plone.org .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Contact us via email "
+            },
+            {
+              "children": [
+                {
+                  "text": "conf@plone.org"
+                }
+              ],
+              "data": {
+                "url": "mailto:conf@plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c6bdbeb9-07d2-4611-9ff3-515fa84bfb0c": {
+      "@type": "slate",
+      "plaintext": "Please do not hesitate to contact the organizers, if you have any questions!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Please do not hesitate to contact the organizers, if you have any questions!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e952d1b2-d234-494d-a249-92aabc3a155a": {
+      "@type": "title"
+    },
+    "f5640342-aa72-4711-894f-b6948dfd7596": {
+      "@type": "form",
+      "captcha": "honeypot",
+      "captcha_props": {
+        "id": "protected_1"
+      },
+      "configValidation": {
+        "required_fields": [
+          "default_to",
+          "default_from",
+          "default_subject",
+          "captcha"
+        ],
+        "schema_validation": [],
+        "valid": true
+      },
+      "default_from": "noreply@plone.org",
+      "default_subject": "Plone Conference Site",
+      "default_to": "conf@plone.org",
+      "email_otp_verification": false,
+      "lastChange": 1741185368326,
+      "remove_data_after_days": -1,
+      "send_email": true,
+      "show_cancel": false,
+      "store": true,
+      "subblocks": [
+        {
+          "field_id": "1741185193192",
+          "field_type": "text",
+          "id": "1741185193192",
+          "label": "Your name",
+          "required": true
+        },
+        {
+          "field_id": "1741185210504",
+          "field_type": "from",
+          "id": "1741185210504",
+          "label": "E-mail",
+          "required": true,
+          "use_as_bcc": false,
+          "use_as_reply_to": true
+        },
+        {
+          "field_id": "1741185224239",
+          "field_type": "single_choice",
+          "id": "1741185224239",
+          "input_values": [
+            "Tickets",
+            "Sponsorship",
+            "Code of Conduct",
+            "Travel / Accommodation",
+            "Invitation Letter",
+            "Call for Papers"
+          ],
+          "label": "Topic",
+          "required": true
+        },
+        {
+          "field_id": "1741185303428",
+          "field_type": "textarea",
+          "id": "1741185303428",
+          "label": "Message",
+          "required": true
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e952d1b2-d234-494d-a249-92aabc3a155a",
+      "c6bdbeb9-07d2-4611-9ff3-515fa84bfb0c",
+      "7a1a3466-8f4e-49cd-9d0c-eda7a69a9828",
+      "f5640342-aa72-4711-894f-b6948dfd7596",
+      "3d405c35-d08e-48c9-b070-afc2503f3b82"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-05T14:36:04+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Plone Conference 2025 Contact Form",
+  "effective": "2025-03-05T11:36:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "copy_of_contact",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-31T11:01:27+00:00",
+  "preview_caption": "Photo Atacan Ergin",
+  "preview_image": {
+    "blob_path": "040919e10d34462586f4c44d713fed77/preview_image/rantaraitti atacan ergin.jpg",
+    "content-type": "image/jpeg",
+    "filename": "rantaraitti atacan ergin.jpg",
+    "height": 1367,
+    "size": 602159,
+    "width": 2048
+  },
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Contact",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-31T11:01:27+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

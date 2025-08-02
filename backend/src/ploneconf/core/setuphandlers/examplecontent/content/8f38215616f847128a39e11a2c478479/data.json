@@ -1,0 +1,56 @@
+{
+  "@id": "/sponsors/organizer/university-of-jyvaskyla",
+  "@type": "Sponsor",
+  "UID": "8f38215616f847128a39e11a2c478479",
+  "allow_discussion": null,
+  "created": "2025-03-17T11:03:13+00:00",
+  "description": "Our naturally beautiful campus is home to a dynamic multidisciplinary research university \u2014  an open and collaborative community of  2,800 experts and over 14,300 students seeking answers to the pivotal ques\u00adtions of today and tomorrow.",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "university-of-jyvaskyla",
+  "image": {
+    "blob_path": "8f38215616f847128a39e11a2c478479/image/RGB-KAKSIKIELINEN-JYU-logo-keskitetty-varillinen.png",
+    "content-type": "image/png",
+    "filename": "RGB-KAKSIKIELINEN-JYU-logo-keskitetty-varillinen.png",
+    "height": 772,
+    "size": 33434,
+    "width": 1036
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-03-19T07:16:42+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>For more than 20 years, University of Jyv\u00e4skyl\u00e4 has utilized Plone for hundreds of different implementations, from public websites and intranets to e-commerce, learning environments, enrolment portals, digital workflows, video publishing platforms and many more. All of this based on open source code, with no licence fees and no restrictions. Recent implementations include the Researchvideo and ILPO portals. In 2025, the video portal Moniviestin will be renewed.</p><p></p><p>It is our pleasure the host the 23rd annual Plone Conference on October 13-19, 2025. Welcome!</p>",
+    "encoding": "utf8"
+  },
+  "title": "University of Jyv\u00e4skyl\u00e4",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T11:03:13+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T11:03:28+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

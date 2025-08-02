@@ -1,0 +1,40 @@
+{
+  "@id": "/about/plone-konferenssi-ja-pycon-finland/ploneconf-2025-logo-banner.png",
+  "@type": "Image",
+  "UID": "92a4d80ddf49415fa9e94b4f387ca223",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-04-11T09:56:40+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "ploneconf-2025-logo-banner.png",
+  "image": {
+    "blob_path": "92a4d80ddf49415fa9e94b4f387ca223/image/ploneconf-2025-logo-banner.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-banner.png",
+    "height": 340,
+    "size": 51315,
+    "width": 1540
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-04-11T09:56:40+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "ploneconf-2025-logo-banner.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

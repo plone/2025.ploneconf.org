@@ -1,0 +1,40 @@
+{
+  "@id": "/images/platinum.png",
+  "@type": "Image",
+  "UID": "694d6ecc87c64f658c4060b5eead5b2b",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-24T08:41:44+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "platinum.png",
+  "image": {
+    "blob_path": "694d6ecc87c64f658c4060b5eead5b2b/image/platinum.png",
+    "content-type": "image/png",
+    "filename": "platinum.png",
+    "height": 48,
+    "size": 2082,
+    "width": 48
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-24T08:41:44+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "platinum.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

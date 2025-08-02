@@ -1,0 +1,1119 @@
+{
+  "@id": "/about/plone-conference-history",
+  "@type": "Document",
+  "UID": "07d4b4a2b9e047d3860e7dde13ae08e9",
+  "allow_discussion": null,
+  "blocks": {
+    "04abcdb7-d0cf-4ddf-8a8d-c39fde32b106": {
+      "@type": "slate",
+      "plaintext": "The 2023 Plone Conference took place in Eibar, Basque Country, from October 2 to 8, 2023, with 162 attendees, and more than 1000 unique viewers in the online transmission.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The 2023 Plone Conference took place in Eibar, Basque Country, from October 2 to 8, 2023, with 162 attendees, and more than 1000 unique viewers in the online transmission."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0b2d2d08-ce00-4c8a-8983-deb2cf36508b": {
+      "@type": "slate",
+      "plaintext": " https://2022.ploneconf.org/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2022.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2022.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "0fe98c19-bc74-4ca1-98eb-bfa0ce024ec1": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2016.jpg/@@images/image-3456-e002bcadff5ce80611f03fa5d76425ef.jpeg"
+    },
+    "11c9de74-77c9-48f2-9570-6c3025e4b78b": {
+      "@type": "slate",
+      "plaintext": "2023 - Eibar, Basque Country",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2023 - Eibar, Basque Country"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "11f302d4-f236-495c-a075-1914b8bd172d": {
+      "@type": "slate",
+      "plaintext": "Bucharest, Romania, became the center of Plone activities from October 12 to 18, 2015, allowing the 200 attendees to explore the wonders of Eastern Europe.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Bucharest, Romania, became the center of Plone activities from October 12 to 18, 2015, allowing the 200 attendees to explore the wonders of Eastern Europe."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1294559b-522f-4c91-9e40-7dffc3fa63d3": {
+      "@type": "slate",
+      "plaintext": "The nation's capital, Washington DC, hosted the Plone Conference in 2008, from October 6 to 12. This event brought together 350 Plone enthusiasts amidst the backdrop of historic landmarks.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The nation's capital, Washington DC, hosted the Plone Conference in 2008, from October 6 to 12. This event brought together 350 Plone enthusiasts amidst the backdrop of historic landmarks."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2b819f94-272a-4367-a5dc-55fb1d9120d7": {
+      "@type": "slate",
+      "plaintext": "2017 - Barcelona, Catalonia",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2017 - Barcelona, Catalonia"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "2cf4a49e-44c6-4003-a7e4-0e74af24a739": {
+      "@type": "slate",
+      "plaintext": "2014 - Bristol, United Kingdom",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2014 - Bristol, United Kingdom"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "2f3a7239-5b9f-4cce-92fa-52127040222a": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2018.jpg/@@images/image-2000-3b943dc1b6034fe6cebfe67d417002e9.jpeg"
+    },
+    "38236411-8001-4e5e-844d-0d60c96b3e39": {
+      "@type": "slate",
+      "plaintext": "2006 - Seattle, United States",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2006 - Seattle, United States"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "38329ca8-5765-44a5-94f3-4e699142f663": {
+      "@type": "slate",
+      "plaintext": " https://2023.ploneconf.org/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2023.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2023.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "424a22be-e046-48e7-8200-a0a609d1ad02": {
+      "@type": "title"
+    },
+    "43106dde-28c0-4f03-bb3a-80d7cfc3146f": {
+      "@type": "slate",
+      "plaintext": "Ferrara, Italy, was the setting for the 2019 Plone Conference from October 21 to 27, with 173 attendees.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ferrara, Italy, was the setting for the 2019 Plone Conference from October 21 to 27, with 173 attendees."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "44c45173-8014-4d75-a297-c5d92923cc4e": {
+      "@type": "slate",
+      "plaintext": "Namur, Belgium, welcomed 151 attendees to the Plone community from October 10 to 16, 2022. The conference also had more than 1400 unique viewers in its online transmission.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Namur, Belgium, welcomed 151 attendees to the Plone community from October 10 to 16, 2022. The conference also had more than 1400 unique viewers in its online transmission."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4650ee47-aea9-482d-97d9-8bf7915c7248": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2009.jpg/@@images/image-2991-02269fc406d8b2430849bcb22978fa6a.jpeg"
+    },
+    "48eca429-3906-4722-8db0-f09e72856fd6": {
+      "@type": "slate",
+      "plaintext": "Bristol, United Kingdom, played host to the Plone Conference in 2010, from October 25\u201331, with 275 attendees.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Bristol, United Kingdom, played host to the Plone Conference in 2010, from October 25\u201331, with 275 attendees."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4d5797aa-c17e-4ff9-bdf1-0233a38d3232": {
+      "@type": "slate",
+      "plaintext": "Naples, Italy, welcomed both a rich historical backdrop and over 400 passionate Plone enthusiasts who gathered from October 8 to 12, 2007, to savor incredible food and dive into the world of Plone.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Naples, Italy, welcomed both a rich historical backdrop and over 400 passionate Plone enthusiasts who gathered from October 8 to 12, 2007, to savor incredible food and dive into the world of Plone."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4f7ef58e-e40a-4ace-8956-fddfff2d642d": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2020.jpg/@@images/image-1200-e3f4ca5a3c5617e29b978a44bdafa510.jpeg"
+    },
+    "4f97664b-d090-4866-a00c-d6161b1333ac": {
+      "@type": "slate",
+      "plaintext": " https://2024.ploneconf.org/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2024.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2024.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4fed46f2-b6f7-44ba-98d8-5a3c0a867a65": {
+      "@type": "slate",
+      "plaintext": "San Francisco, United States, provided the backdrop for the 2011 Plone Conference from November 1 to 8, with 265 attendees, that enjoyed the laid-back West Coast vibe while diving deep into Plone topics.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "San Francisco, United States, provided the backdrop for the 2011 Plone Conference from November 1 to 8, with 265 attendees, that enjoyed the laid-back West Coast vibe while diving deep into Plone topics."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "51215b2a-f7da-4aff-a9a0-522cb7176178": {
+      "@type": "slate",
+      "plaintext": "2004 - Vienna, Austria",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2004 - Vienna, Austria"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5771f3dd-d9c5-4d15-935d-298188e3555e": {
+      "@type": "slate",
+      "plaintext": "Budapest, Hungary, took center stage from October 28 to 30, 2009, with 420 attendees.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Budapest, Hungary, took center stage from October 28 to 30, 2009, with 420 attendees."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "590f4710-dbdd-40b4-ad85-9f0b6bddc8f1": {
+      "@type": "slate",
+      "plaintext": "2012 - Arnhem, Netherlands",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2012 - Arnhem, Netherlands"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5ca53d1f-8dac-4de3-926f-d4015e0a5503": {
+      "@type": "slate",
+      "plaintext": "2010 - Bristol, United Kingdom",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2010 - Bristol, United Kingdom"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5d360e51-a1dd-46f3-ad48-f3119d49ad17": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2023.jpg/@@images/image-1400-75e7b84ae2c493d947f8428f549a07f0.jpeg"
+    },
+    "5dab6683-7405-420e-a2ac-271a7f6d7cb3": {
+      "@type": "slate",
+      "plaintext": "In response to the Covid-19 pandemic, the Plone Conference transitioned to an online format in 2020, with 295 attendees participating during December 5-13.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "In response to the Covid-19 pandemic, the Plone Conference transitioned to an online format in 2020, with 295 attendees participating during December 5-13."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "620707b4-098e-4e6e-8a88-5d43ec3c61bc": {
+      "@type": "slate",
+      "plaintext": "2011 - San Francisco, United States",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2011 - San Francisco, United States"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "6322371c-0ac4-4236-98c6-353139424cbb": {
+      "@type": "slate",
+      "plaintext": "Due to the ongoing Covid-19 pandemic, the 2021 edition of the Plone Conference was held online, from October 23 to 31, with 268 attendees.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Due to the ongoing Covid-19 pandemic, the 2021 edition of the Plone Conference was held online, from October 23 to 31, with 268 attendees."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6b7fa51e-7b64-4e48-bd8a-a72a73e715a3": {
+      "@type": "slate",
+      "plaintext": "2013 - Brasilia, Brazil",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2013 - Brasilia, Brazil"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "75fd30aa-288c-430b-ae1a-a2fb156ad014": {
+      "@type": "slate",
+      "plaintext": "2022 - Namur, Belgium",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2022 - Namur, Belgium"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "75fdc01a-1a59-4a63-915c-df98ebee3731": {
+      "@type": "slate",
+      "plaintext": "Barcelona, Catalonia, welcomed 173 attendees to the Plone community from October 16 to 22, 2017, providing a sunny backdrop for discussions and networking.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Barcelona, Catalonia, welcomed 173 attendees to the Plone community from October 16 to 22, 2017, providing a sunny backdrop for discussions and networking."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7645bc4d-f39e-4d3e-9b90-aa8d5b1a7fe1": {
+      "@type": "slate",
+      "plaintext": "2016 - Boston, United States",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2016 - Boston, United States"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "774b5784-1aa8-4b52-bfee-e7f52d530736": {
+      "@type": "slate",
+      "plaintext": "2020 - Online",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2020 - Online"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "793c9662-5196-4631-a355-17f59fde68fc": {
+      "@type": "slate",
+      "plaintext": "2015 - Bucharest, Romania",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2015 - Bucharest, Romania"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "81b698e7-1832-4aa4-a2f5-5f06135915c6": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2008.jpg/@@images/image-4048-6ada75096dfc9281390357ec830c62c7.jpeg"
+    },
+    "82e4ddce-6f63-46de-b9cd-1c7461a4996d": {
+      "@type": "slate",
+      "plaintext": "Arnhem, Netherlands, welcomed 250 attendees to the Plone community from October 8 to 14, 2012, offering a taste of Dutch culture along with a diverse range of Plone-related discussions.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Arnhem, Netherlands, welcomed 250 attendees to the Plone community from October 8 to 14, 2012, offering a taste of Dutch culture along with a diverse range of Plone-related discussions."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "84549887-19fe-401b-b9d5-b9c1c46f7138": {
+      "@type": "slate",
+      "plaintext": "2008 - Washington DC, United States",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2008 - Washington DC, United States"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "861a4434-4217-4ff9-88d5-2ce4a56502f7": {
+      "@type": "slate",
+      "plaintext": "The 2024 Plone Conference took place in Bras\u00edlia, Brazil, from November 26 to December 1, 2024, with 291 attendees and 80 talks. The Conference was held together with a Brazilian regional Python Conference: Python Cerrado.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The 2024 Plone Conference took place in Bras\u00edlia, Brazil, from November 26 to December 1, 2024, with 291 attendees and 80 talks. The Conference was held together with a Brazilian regional Python Conference: Python Cerrado."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8c8a34c2-d388-45b5-9fa9-5300082c3f4c": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2019.jpg/@@images/image-2100-1c9980c882a67e481603da8aa8277d85.jpeg"
+    },
+    "92645709-93ff-481c-9bfe-2a32105b59af": {
+      "@type": "slate",
+      "plaintext": "The inaugural Plone Conference took place in the heart of New Orleans, United States, from October 15 to 17, 2003. With this edition, Plone enthusiasts from around the world united to kickstart a tradition that would continue for years to come.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The inaugural Plone Conference took place in the heart of New Orleans, United States, from October 15 to 17, 2003. With this edition, Plone enthusiasts from around the world united to kickstart a tradition that would continue for years to come."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "97cc46c7-aee6-4321-9e66-a72763cc5f08": {
+      "@type": "image",
+      "align": "center",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "large"
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2003.jpg/@@images/image-1600-2f0a56813e8d375c75068a1bc1da64c7.jpeg"
+    },
+    "9dcaafb6-43e2-4d84-8afd-630effe06a28": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2007.jpg/@@images/image-3024-b9221f03629fa42cb9f653245bed352c.jpeg"
+    },
+    "9e86172b-2cb2-43a3-96a5-4d3bbcc1b65c": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2004.jpg/@@images/image-728-e0143c09cf3f71e1604859b98de274ee.jpeg"
+    },
+    "a1b6d8b7-4421-4ddd-bf9e-1ad366792f0a": {
+      "@type": "slate",
+      "plaintext": "Boston, United States, played host to the Plone Conference in 2016, from October 17 to 23, with 150 attendees, offering a warm welcome back to the U.S. East Coast.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Boston, United States, played host to the Plone Conference in 2016, from October 17 to 23, with 150 attendees, offering a warm welcome back to the U.S. East Coast."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a99abb7b-f2a5-41b3-ac87-583f11d179ec": {
+      "@type": "slate",
+      "plaintext": "2009 - Budapest, Hungary",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2009 - Budapest, Hungary"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "b256d729-233f-4b6c-bd3c-3b104541efc4": {
+      "@type": "slate",
+      "plaintext": "2007 - Naples, Italy",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2007 - Naples, Italy"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "b44e36dc-4488-440d-b82c-b47ee9a1b0bf": {
+      "@type": "slate",
+      "plaintext": "2005 - Vienna, Austria",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2005 - Vienna, Austria"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "b4a07dc4-32b6-4837-be34-04021d3a728f": {
+      "@type": "slate",
+      "plaintext": "Vienna, Austria, played host to the Plone Conference in 2004, bringing the conference to the heart of Europe. Attendees reveled in the rich history of this picturesque city while diving deep into Plone's potential.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Vienna, Austria, played host to the Plone Conference in 2004, bringing the conference to the heart of Europe. Attendees reveled in the rich history of this picturesque city while diving deep into Plone's potential."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b6f4a2f7-563e-4f34-93b0-d04cec7eaf17": {
+      "@type": "slate",
+      "plaintext": "2024 - Bras\u00edlia, Brazil",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2024 - Bras\u00edlia, Brazil"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "bb1685c8-1a42-4f5a-94e9-4eb1084e032f": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2017.jpg/@@images/image-2048-6c4b8efc955c72aacf85a5e633f0c361.jpeg"
+    },
+    "c07bfab4-6ef2-4fa2-a5bf-c8ada1a9d465": {
+      "@type": "slate",
+      "plaintext": "2003 - New Orleans, United States",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2003 - New Orleans, United States"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "c7cb06fc-313d-408c-a535-3dde8366feeb": {
+      "@type": "image",
+      "align": "center",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "large"
+      },
+      "url": "https://sites.apptest.jyu.fi/frontpage/en/plone-conference-2025/about/plone-conference/conference-group.jpeg/@@images/image-1600-61144cdb360b785c49d543cf47465975.jpeg"
+    },
+    "c7f6e019-55e1-4422-bd16-3476f9598c97": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2012.jpg/@@images/image-1240-4c52663149a63b704c9d261c4256ea2f.jpeg"
+    },
+    "c828d3ec-2f4d-4536-aab2-4191b42ff901": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2021.png/@@images/image-1944-654422cc41541b29391002f90d06337a.png"
+    },
+    "ce2908e8-a9dd-49dd-93a6-316fa4ee62cf": {
+      "@type": "slate",
+      "plaintext": "The Plone Conference ventured to Asia, for the first time in 2019. The megacity of Tokyo, Japan, was the setting for the Conference, which took place from November 5 to 11, 2018, with around 150 attendees.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The Plone Conference ventured to Asia, for the first time in 2019. The megacity of Tokyo, Japan, was the setting for the Conference, which took place from November 5 to 11, 2018, with around 150 attendees."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ceafc676-4add-4f30-95ae-c3531505060c": {
+      "@type": "slate",
+      "plaintext": "2019 - Ferrara, Italy",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2019 - Ferrara, Italy"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "d3c49762-0ada-411e-baf6-52a48f260a79": {
+      "@type": "slate",
+      "plaintext": "In 2013, the Plone community was welcomed to South America by the Brazilian Python community. With 584 attendees, this edition was held in Brasilia, Brazil, from September 30 to October 6.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "In 2013, the Plone community was welcomed to South America by the Brazilian Python community. With 584 attendees, this edition was held in Brasilia, Brazil, from September 30 to October 6."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d4a36573-cbb7-4156-b3dc-9dac9220f557": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2013.jpg/@@images/image-3072-d4565e1ec4d7bf083b6842fd57b9df8c.jpeg"
+    },
+    "d5b96188-7082-4c0a-a163-159685ab373a": {
+      "@type": "slate",
+      "plaintext": "The Plone Conference returned to Vienna, Austria, in 2005, further solidifying its European presence. Attendees enjoyed the city's charm and explored the latest developments in the Plone ecosystem.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The Plone Conference returned to Vienna, Austria, in 2005, further solidifying its European presence. Attendees enjoyed the city's charm and explored the latest developments in the Plone ecosystem."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d6818ce6-709d-497d-9fb4-6fef4f3772f3": {
+      "@type": "slate",
+      "plaintext": "2018 - Tokyo, Japan",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2018 - Tokyo, Japan"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "d9eba6ea-8e11-4709-9d10-ed0f5e0b289e": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2014.jpg/@@images/image-5993-f90c6164cc94054889384a15c384aa8f.jpeg"
+    },
+    "e01d1260-bcb0-4ade-85ce-41fab5483564": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2010.jpg/@@images/image-1024-48b97eb07ce224cd9903b1dbd636e7be.jpeg"
+    },
+    "e10714a4-45d2-4a77-90c8-3926417b6495": {
+      "@type": "slate",
+      "plaintext": "Bristol, United Kingdom, once again hosted the Plone Conference in 2014. This edition took place from October 27 to 31, with 150 attendees.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Bristol, United Kingdom, once again hosted the Plone Conference in 2014. This edition took place from October 27 to 31, with 150 attendees."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e1778ab1-c5ac-48cd-be00-0cf0c2a9760a": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2022.jpg/@@images/image-1400-64cd13cef135143015a78b1b5525758e.jpeg"
+    },
+    "e5653cc3-61fa-4a48-b124-645381ea16fe": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2011.jpg/@@images/image-2876-473dbb0ba596addd5ad37b99dc1d631c.jpeg"
+    },
+    "ed17301c-aca7-4d73-befb-e9c27ce48614": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2015.jpg/@@images/image-3606-af542d14babf67996f7db7968f0b5e4c.jpeg"
+    },
+    "ee1367d0-4d5f-4871-9a64-a364d4ffdfcf": {
+      "@type": "image",
+      "align": "center",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "url": "https://2024.ploneconf.org/en/assets/ploneconf-gp-2006.jpg/@@images/image-2968-9f2c94a2b3f7c025d2774d15138cc744.jpeg"
+    },
+    "f0db0d7c-0b9d-4f27-8193-4f0fb0e0d11a": {
+      "@type": "slate",
+      "plaintext": "In 2006, 350 Plonistas ventured to Seattle, United States, from October 25 to 27, for the fourth Plone Conference. The Pacific Northwest provided a unique backdrop for collaboration and networking.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "In 2006, 350 Plonistas ventured to Seattle, United States, from October 25 to 27, for the fourth Plone Conference. The Pacific Northwest provided a unique backdrop for collaboration and networking."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f604faa9-001b-4eec-ae44-502c9aa5f0ad": {
+      "@type": "slate",
+      "plaintext": " The Plone Conference , the annual gathering of the vibrant Plone community, has been a cornerstone of the open-source CMS world for nearly two decades. From the first edition, back in 2003 to its latest edition in 2024, the conference has evolved into a global celebration of collaboration, innovation, and knowledge sharing.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "The Plone Conference"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/news-and-events/events/plone-conferences"
+              },
+              "type": "link"
+            },
+            {
+              "text": ", the annual gathering of the vibrant Plone community, has been a cornerstone of the open-source CMS world for nearly two decades. From the first edition, back in 2003 to its latest edition in 2024, the conference has evolved into a global celebration of collaboration, innovation, and knowledge sharing."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fdc0cf7a-5cd6-4f5d-9af4-2dd630e39ebd": {
+      "@type": "slate",
+      "plaintext": "Take a look at the previous conferences throughout the years.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Take a look at the previous conferences throughout the years. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fe0b50e2-d5b5-4112-8f8b-d0365f9a197d": {
+      "@type": "slate",
+      "plaintext": "2021 - Online",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2021 - Online"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "424a22be-e046-48e7-8200-a0a609d1ad02",
+      "f604faa9-001b-4eec-ae44-502c9aa5f0ad",
+      "fdc0cf7a-5cd6-4f5d-9af4-2dd630e39ebd",
+      "b6f4a2f7-563e-4f34-93b0-d04cec7eaf17",
+      "861a4434-4217-4ff9-88d5-2ce4a56502f7",
+      "4f97664b-d090-4866-a00c-d6161b1333ac",
+      "c7cb06fc-313d-408c-a535-3dde8366feeb",
+      "11c9de74-77c9-48f2-9570-6c3025e4b78b",
+      "04abcdb7-d0cf-4ddf-8a8d-c39fde32b106",
+      "38329ca8-5765-44a5-94f3-4e699142f663",
+      "5d360e51-a1dd-46f3-ad48-f3119d49ad17",
+      "75fd30aa-288c-430b-ae1a-a2fb156ad014",
+      "44c45173-8014-4d75-a297-c5d92923cc4e",
+      "0b2d2d08-ce00-4c8a-8983-deb2cf36508b",
+      "e1778ab1-c5ac-48cd-be00-0cf0c2a9760a",
+      "fe0b50e2-d5b5-4112-8f8b-d0365f9a197d",
+      "6322371c-0ac4-4236-98c6-353139424cbb",
+      "c828d3ec-2f4d-4536-aab2-4191b42ff901",
+      "774b5784-1aa8-4b52-bfee-e7f52d530736",
+      "5dab6683-7405-420e-a2ac-271a7f6d7cb3",
+      "4f7ef58e-e40a-4ace-8956-fddfff2d642d",
+      "ceafc676-4add-4f30-95ae-c3531505060c",
+      "43106dde-28c0-4f03-bb3a-80d7cfc3146f",
+      "8c8a34c2-d388-45b5-9fa9-5300082c3f4c",
+      "d6818ce6-709d-497d-9fb4-6fef4f3772f3",
+      "ce2908e8-a9dd-49dd-93a6-316fa4ee62cf",
+      "2f3a7239-5b9f-4cce-92fa-52127040222a",
+      "2b819f94-272a-4367-a5dc-55fb1d9120d7",
+      "75fdc01a-1a59-4a63-915c-df98ebee3731",
+      "bb1685c8-1a42-4f5a-94e9-4eb1084e032f",
+      "7645bc4d-f39e-4d3e-9b90-aa8d5b1a7fe1",
+      "a1b6d8b7-4421-4ddd-bf9e-1ad366792f0a",
+      "0fe98c19-bc74-4ca1-98eb-bfa0ce024ec1",
+      "793c9662-5196-4631-a355-17f59fde68fc",
+      "11f302d4-f236-495c-a075-1914b8bd172d",
+      "ed17301c-aca7-4d73-befb-e9c27ce48614",
+      "2cf4a49e-44c6-4003-a7e4-0e74af24a739",
+      "e10714a4-45d2-4a77-90c8-3926417b6495",
+      "d9eba6ea-8e11-4709-9d10-ed0f5e0b289e",
+      "6b7fa51e-7b64-4e48-bd8a-a72a73e715a3",
+      "d3c49762-0ada-411e-baf6-52a48f260a79",
+      "d4a36573-cbb7-4156-b3dc-9dac9220f557",
+      "590f4710-dbdd-40b4-ad85-9f0b6bddc8f1",
+      "82e4ddce-6f63-46de-b9cd-1c7461a4996d",
+      "c7f6e019-55e1-4422-bd16-3476f9598c97",
+      "620707b4-098e-4e6e-8a88-5d43ec3c61bc",
+      "4fed46f2-b6f7-44ba-98d8-5a3c0a867a65",
+      "e5653cc3-61fa-4a48-b124-645381ea16fe",
+      "5ca53d1f-8dac-4de3-926f-d4015e0a5503",
+      "48eca429-3906-4722-8db0-f09e72856fd6",
+      "e01d1260-bcb0-4ade-85ce-41fab5483564",
+      "a99abb7b-f2a5-41b3-ac87-583f11d179ec",
+      "5771f3dd-d9c5-4d15-935d-298188e3555e",
+      "4650ee47-aea9-482d-97d9-8bf7915c7248",
+      "84549887-19fe-401b-b9d5-b9c1c46f7138",
+      "1294559b-522f-4c91-9e40-7dffc3fa63d3",
+      "81b698e7-1832-4aa4-a2f5-5f06135915c6",
+      "b256d729-233f-4b6c-bd3c-3b104541efc4",
+      "4d5797aa-c17e-4ff9-bdf1-0233a38d3232",
+      "9dcaafb6-43e2-4d84-8afd-630effe06a28",
+      "38236411-8001-4e5e-844d-0d60c96b3e39",
+      "f0db0d7c-0b9d-4f27-8193-4f0fb0e0d11a",
+      "ee1367d0-4d5f-4871-9a64-a364d4ffdfcf",
+      "b44e36dc-4488-440d-b82c-b47ee9a1b0bf",
+      "d5b96188-7082-4c0a-a163-159685ab373a",
+      "51215b2a-f7da-4aff-a9a0-522cb7176178",
+      "b4a07dc4-32b6-4837-be34-04021d3a728f",
+      "9e86172b-2cb2-43a3-96a5-4d3bbcc1b65c",
+      "c07bfab4-6ef2-4fa2-a5bf-c8ada1a9d465",
+      "92645709-93ff-481c-9bfe-2a32105b59af",
+      "97cc46c7-aee6-4321-9e66-a72763cc5f08"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-17T12:13:43+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "2025 we are celebrating the 23rd annual Plone Conference!",
+  "effective": "2025-03-17T12:14:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "plone-conference-history",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-03-24T09:54:12+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "07d4b4a2b9e047d3860e7dde13ae08e9/preview_image/ploneconf-2024-group.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "ploneconf-2024-group.jpeg",
+    "height": 1066,
+    "size": 752940,
+    "width": 1600
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Plone Conferences",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-17T12:13:43+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-17T12:14:14+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

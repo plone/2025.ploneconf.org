@@ -1,0 +1,52 @@
+{
+  "@id": "/sponsors/bronze/nick",
+  "@type": "Sponsor",
+  "UID": "16003623e5bb4ae8b8d48c2d7310da24",
+  "allow_discussion": null,
+  "created": "2025-05-20T06:37:00+00:00",
+  "description": "A headless CMS build with Node.js",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "nick",
+  "image": {
+    "blob_path": "16003623e5bb4ae8b8d48c2d7310da24/image/nick.svg",
+    "content-type": "image/svg+xml",
+    "filename": "nick.svg",
+    "height": 512,
+    "size": 1714,
+    "width": 1900
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-20T06:39:04+00:00",
+  "review_state": "published",
+  "social_links": [],
+  "text": null,
+  "title": "Nick",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-20T06:37:00+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-20T06:39:04+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

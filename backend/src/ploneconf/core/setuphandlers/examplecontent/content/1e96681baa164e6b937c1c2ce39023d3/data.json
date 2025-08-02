@@ -1,0 +1,376 @@
+{
+  "@id": "/about/plone-conference-and-pycon-finland",
+  "@type": "Document",
+  "UID": "1e96681baa164e6b937c1c2ce39023d3",
+  "allow_discussion": null,
+  "blocks": {
+    "08107dfa-170a-481a-9e4a-4e6e248cb724": {
+      "@type": "slate",
+      "plaintext": "We welcome a wide range of talks, so feel free to submit your abstracts and come tell your story to the audience!",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We welcome a wide range of talks, so feel free to submit your abstracts and come tell your story to the audience!\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "37ec96b9-1efd-425f-90a3-48c96940cefd": {
+      "@type": "slate",
+      "plaintext": "Plone is a modern content management system, known especially for its security, usability and flexibility. Built on Python and React. 100% open source and free.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone is a modern content management system, known especially for its security, usability and flexibility. Built on Python and React. 100% open source and free.\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "39156a98-d6db-47f7-888a-075c5ea33204": {
+      "@type": "slate",
+      "plaintext": "Tickets",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Tickets"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "3d3a72e3-6a4b-42a1-ab88-f81f6519c656": {
+      "@type": "slate",
+      "plaintext": "All necessary information can easily be found on the conference website, along with contact information for the organizers: https://2025.ploneconf.org/ .",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "All necessary information can easily be found on the conference website, along with contact information for the organizers: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2025.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ".\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "428a7322-bc58-49cc-af33-5674bf5a0e0e": {
+      "@type": "slate",
+      "plaintext": "You are warmly welcome to the Plone Conference 2025!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You are warmly welcome to the Plone Conference 2025!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5c18f4a6-a6b3-4617-8612-1fa42044bad5": {
+      "@type": "slate",
+      "plaintext": "You can either get tickets for the whole conference week or just for PyCon Finland: https://2025.ploneconf.org/tickets ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You can either get tickets for the whole conference week or just for PyCon Finland: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/tickets"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/8f82c1589f4447529763c1223ed798dc"
+              },
+              "type": "link"
+            },
+            {
+              "text": "\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "75d6e5ff-7ecd-400a-a02e-9b36def53180": {
+      "@type": "slate",
+      "plaintext": "Plone Conference 2025 is the 23rd occasion of the event and it will be held on October 13-19, 2025 in Jyv\u00e4skyl\u00e4, Finland. It is hosted by the University of Jyv\u00e4skyl\u00e4 in collaboration with the Plone Foundation .",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference 2025 is the 23rd occasion of the event and it will be held on October 13-19, 2025 in Jyv\u00e4skyl\u00e4, Finland. It is hosted by the University"
+            },
+            {
+              "children": [
+                {
+                  "text": " of Jyv\u00e4skyl\u00e4"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/8f38215616f847128a39e11a2c478479"
+              },
+              "type": "link"
+            },
+            {
+              "text": " in collaboration with the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Foundation"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/foundation/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ".\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "875b8dc2-7686-49c6-b9f9-dad2b688ad4e": {
+      "@type": "slate",
+      "plaintext": "Expecting 150+ international professionals plus more from Finland, the conference will be a perfect opportunity to learn, connect and collaborate with new and very experienced developers.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Expecting 150+ international professionals plus more from Finland, the conference will be a perfect opportunity to learn, connect and collaborate with new and very experienced developers.\u00a0\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b027fd45-c093-45f7-ab2d-04fee7eb4797": {
+      "@type": "slate",
+      "plaintext": "Call for papers is now open, check instructions at: https://2025.ploneconf.org/call-for-papers ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Call for papers is now open, check instructions at: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/call-for-papers"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/63d3bc88d6f84ff0b1355508020a16f9"
+              },
+              "type": "link"
+            },
+            {
+              "text": "\u00a0\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "be59c2ac-3e6a-4a11-b745-ab957cbb360a": {
+      "@type": "slate",
+      "plaintext": "Early bird (or snake, if you will) ticket sales with discount prices starts on Apr 1, 2025.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Early bird (or snake, if you will) ticket sales with discount prices starts on Apr 1, 2025."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c05b8c94-559b-4cad-8c95-420c25152208": {
+      "@type": "slate",
+      "plaintext": "This year the conference will include a special one day event, PyCon Finland on Friday 17 October, 2025. During the day, the talk selection and the keynote will be specially focusing more on Python.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This year the conference will include a special one day event, PyCon Finland on Friday 17 October, 2025. During the day, the talk selection and the keynote will be specially focusing more on Python."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d69d6347-f3c9-4f57-a5e1-ea960fc375cd": {
+      "@type": "slate",
+      "plaintext": "Plone Conference, the annual gathering of the friendly and enthusiastic Plone community, has been a cornerstone of the open-source CMS world for over two decades.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone Conference, the annual gathering of the friendly and enthusiastic Plone community, has been a cornerstone of the open-source CMS world for over two decades.\u00a0"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e3dab375-b372-4bc2-a2e6-0cdf536aa993": {
+      "@type": "title"
+    },
+    "e93279ef-ea7a-4437-846b-55ef7c9abb51": {
+      "@type": "slate",
+      "plaintext": "Call for Papers",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Call for Papers"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "f572288e-dbb7-4edf-9f0f-4a8783155a0c": {
+      "@type": "slate",
+      "plaintext": "More info",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "More info"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "f5e93482-eea3-4e44-baa6-7ae36891064c": {
+      "@type": "slate",
+      "plaintext": " https://2025.ploneconf.org/ ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://2025.ploneconf.org/"
+                }
+              ],
+              "data": {
+                "url": "https://2025.ploneconf.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e3dab375-b372-4bc2-a2e6-0cdf536aa993",
+      "d69d6347-f3c9-4f57-a5e1-ea960fc375cd",
+      "f5e93482-eea3-4e44-baa6-7ae36891064c",
+      "37ec96b9-1efd-425f-90a3-48c96940cefd",
+      "75d6e5ff-7ecd-400a-a02e-9b36def53180",
+      "875b8dc2-7686-49c6-b9f9-dad2b688ad4e",
+      "c05b8c94-559b-4cad-8c95-420c25152208",
+      "e93279ef-ea7a-4437-846b-55ef7c9abb51",
+      "b027fd45-c093-45f7-ab2d-04fee7eb4797",
+      "08107dfa-170a-481a-9e4a-4e6e248cb724",
+      "39156a98-d6db-47f7-888a-075c5ea33204",
+      "5c18f4a6-a6b3-4617-8612-1fa42044bad5",
+      "be59c2ac-3e6a-4a11-b745-ab957cbb360a",
+      "f572288e-dbb7-4edf-9f0f-4a8783155a0c",
+      "3d3a72e3-6a4b-42a1-ab88-f81f6519c656",
+      "428a7322-bc58-49cc-af33-5674bf5a0e0e"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-04-11T09:25:08+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "plone-conference-and-pycon-finland",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-04-11T09:25:09+00:00",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Plone Conference and PyCon Finland",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-04-11T09:25:09+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

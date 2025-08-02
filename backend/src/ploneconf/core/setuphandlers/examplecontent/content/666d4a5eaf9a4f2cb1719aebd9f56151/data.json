@@ -1,0 +1,279 @@
+{
+  "@id": "/sponsors/diamond",
+  "@type": "SponsorLevel",
+  "UID": "666d4a5eaf9a4f2cb1719aebd9f56151",
+  "allow_discussion": null,
+  "benefits": [],
+  "blocks": {
+    "3693ce2f-cb67-480f-8da2-e41cbd188e7d": {
+      "@type": "title"
+    },
+    "6ffd2609-3bc8-4377-81d1-32dee2634345": {
+      "@type": "slate",
+      "plaintext": "Be the top dog.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Be the top dog. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9cbb02a8-e458-4a41-b475-616fa38704fd": {
+      "@type": "slate",
+      "plaintext": " Ready to sponsor or have questions? Contact us at conf@plone.org  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Ready to sponsor or have questions? Contact us at "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "conf@plone.org"
+                    }
+                  ],
+                  "data": {
+                    "url": "mailto:conf@plone.org"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c9fecdc7-375e-401c-b702-16c97425e0d7": {
+      "@type": "separator",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "shortLine": true
+      },
+      "theme": "default"
+    },
+    "cbf5ed2a-b3ad-4e1c-a76e-3bc0fd51b75c": {
+      "@type": "accordion",
+      "collapsed": false,
+      "data": {
+        "blocks": {
+          "3e7481d6-80e6-44e9-9e64-621c9fff788e": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "9bfca0de-7361-470e-b0e9-609fc169b751": {
+                "@type": "slate",
+                "plaintext": "10000 euros",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "10000 euros"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "9bfca0de-7361-470e-b0e9-609fc169b751"
+              ]
+            },
+            "title": "Investment"
+          },
+          "870a3fdf-f546-451f-a983-fc36494696b9": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "03bb6ff1-7c40-4380-ba48-83dda42992f7": {
+                "@type": "slate"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "03bb6ff1-7c40-4380-ba48-83dda42992f7"
+              ]
+            },
+            "title": "Sponsors"
+          },
+          "acbf4698-2e1b-44a2-a779-3aad93cd36c9": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "02adf8bb-c0b8-40c3-86db-1a8a3cd9e509": {
+                "@type": "slate",
+                "plaintext": "10 complimentary tickets for the Plone Conference 2025, including PyCon Finland 2025 Logo on Website: 480x360 (front-page) and 600x450 (sponsors) Logo at Registration Desk Logo at Training and Conference Rooms Logo in video shown between Talks Logo in post-conference videos (YouTube) Social Media: Minimum of 10 mentions Material distributed to the attendees, provided by the sponsor",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "10 complimentary tickets for the Plone Conference 2025, including PyCon Finland 2025"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo on Website: 480x360 (front-page) and 600x450 (sponsors)"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo at Registration Desk"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo at Training and Conference Rooms"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in video shown between Talks"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in post-conference videos (YouTube)"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Social Media: Minimum of 10 mentions"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Material distributed to the attendees, provided by the sponsor"
+                          }
+                        ],
+                        "type": "li"
+                      }
+                    ],
+                    "type": "ul"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "02adf8bb-c0b8-40c3-86db-1a8a3cd9e509"
+              ]
+            },
+            "title": "Benefits"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "acbf4698-2e1b-44a2-a779-3aad93cd36c9",
+            "3e7481d6-80e6-44e9-9e64-621c9fff788e",
+            "870a3fdf-f546-451f-a983-fc36494696b9"
+          ]
+        }
+      },
+      "filtering": false,
+      "non_exclusive": false,
+      "right_arrows": true,
+      "styles": {},
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "3693ce2f-cb67-480f-8da2-e41cbd188e7d",
+      "6ffd2609-3bc8-4377-81d1-32dee2634345",
+      "cbf5ed2a-b3ad-4e1c-a76e-3bc0fd51b75c",
+      "c9fecdc7-375e-401c-b702-16c97425e0d7",
+      "9cbb02a8-e458-4a41-b475-616fa38704fd"
+    ]
+  },
+  "color": "#000000",
+  "created": "2025-03-18T07:53:09+00:00",
+  "description": "Diamond level sponsorship for Plone Conference 2025",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "diamond",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-08-01T17:25:54+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "price": "",
+  "review_state": "published",
+  "title": "Diamond",
+  "type_title": "Sponsorship Level",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T07:53:09+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T07:58:04+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

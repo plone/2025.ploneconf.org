@@ -1,0 +1,711 @@
+{
+  "@id": "/call-for-papers",
+  "@type": "Document",
+  "UID": "63d3bc88d6f84ff0b1355508020a16f9",
+  "allow_discussion": null,
+  "blocks": {
+    "0f260b7c-de82-42c6-b7a5-c3d9d2b3fae1": {
+      "@type": "slate",
+      "plaintext": " Call for papers is now open! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Call for papers is now open!"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "259f3416-b3b6-41d6-aca6-b35f62ded39a": {
+      "@type": "slate",
+      "plaintext": " Do not worry about submitting a final version yet - we are interested in in wide variety of talks and the idea or abstract description does not have to be final! ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Do not worry about submitting a final version yet - we are interested in in wide variety of talks and the idea or abstract description does not have to be final!"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "25ac0982-da6e-4006-9717-f9382cba842b": {
+      "@type": "slate",
+      "plaintext": "April 1, 2025: Call for Proposals Opens July 31, 2025: Call for Proposals Closes September 3, 2025: Notifications Sent to Instructors and Trainers September 5, 2025: Schedule Published October 13-19, 2025: Conference Dates",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "April 1, 2025: Call for Proposals Opens"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "July 31, 2025: Call for Proposals Closes"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "September 3, 2025: Notifications Sent to Instructors and Trainers"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "September 5, 2025: Schedule Published"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "October 13-19, 2025: Conference Dates"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "310f9f86-ae66-49e4-975c-e86dcf661032": {
+      "@type": "slate",
+      "plaintext": "Plone Conference in general Talks specifically aimed for PyCon Finland on October 17.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Plone Conference in general"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Talks specifically aimed for PyCon Finland on October 17. "
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "3ca98bd9-2da6-4d91-934b-9526e33550f4": {
+      "@type": "slate",
+      "plaintext": "The conference organizers encourage a broad range of submissions. Whether you have extensive experience with Plone and Python or are new to these communities, your insights and perspectives are valuable. Proposals are welcomed in  English.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The conference organizers encourage a broad range of submissions. Whether you have extensive experience with Plone and Python or are new to these communities, your insights and perspectives are valuable. Proposals are welcomed in  English."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3eef0958-93d2-4bea-af1d-4afc90b9d5be": {
+      "@type": "__button",
+      "href": [
+        {
+          "@id": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219",
+          "title": "registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219"
+        }
+      ],
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Submit your talk!"
+    },
+    "489e2d71-0582-4ff1-bf2b-3a5e421ec0bf": {
+      "@type": "slate",
+      "plaintext": "Key Dates",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Key Dates"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "4e181580-e3d1-47e6-94bc-1b547f85f864": {
+      "@type": "title"
+    },
+    "68a8abc4-17ef-4015-8c02-3c9dfcbeed72": {
+      "@type": "slate",
+      "plaintext": "How to Submit",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "How to Submit"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "694a9ce1-f53f-4b1a-89fa-c4d9275a8450": {
+      "@type": "slate",
+      "plaintext": "You may easily select how you want your talk to be addressed.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "You may easily select how you want your talk to be addressed. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "778510c2-ce71-4975-a742-b662792b01d4": {
+      "@type": "slate",
+      "plaintext": "The conference will include a variety of sessions, structured to accommodate different levels of expertise and topics.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The conference will include a variety of sessions, structured to accommodate different levels of expertise and topics."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7e0a74f1-3317-45ae-9cec-f868eae18475": {
+      "@type": "slate",
+      "plaintext": "Plone development Plone use cases Web development Web design Volto Plone Classic Documentation Testing Python React CI/CD AI Security Open source Green ICT Community building Guillotina Zope Other related topics - don't hesitate to ask conf@plone.org !",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Plone development"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone use cases"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Web development"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Web design"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Volto"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Classic"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Documentation"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Testing"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Python"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "React"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "CI/CD"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "AI"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Security"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Open source"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Green ICT"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Community building"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Guillotina"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Zope"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Other related topics - don't hesitate to ask "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "conf@plone.org"
+                    }
+                  ],
+                  "data": {
+                    "url": "mailto:conf@plone.org"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": "!"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "9b6089cb-0183-4aeb-a8a2-0c692d703ec9": {
+      "@type": "slate",
+      "plaintext": "The selection process aims to reflect the diversity within the Plone and Python communities. The conference team is committed to supporting all presenters, regardless of their level of experience in public speaking.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The selection process aims to reflect the diversity within the Plone and Python communities. The conference team is committed to supporting all presenters, regardless of their level of experience in public speaking."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ac436f7b-b8d8-46da-bf50-d27c1da646cc": {
+      "@type": "slate",
+      "plaintext": "We are looking talks for:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "We are looking talks for: "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b2f91fb4-e496-424a-9489-6dd53cbe69e1": {
+      "@type": "slate",
+      "plaintext": "Conference Session Formats",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Conference Session Formats"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "b4244488-52f1-4b5a-8409-e0208d5fbaeb": {
+      "@type": "slate",
+      "plaintext": "Submission Guidelines",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Submission Guidelines"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "b6128eb5-b76f-42e7-99db-5d9ac0e356cb": {
+      "@type": "slate",
+      "plaintext": "Possible topics",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Possible topics"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c25d42b2-4d42-4cec-824a-d70f35638129": {
+      "@type": "slate",
+      "plaintext": "The Call for Papers for the Plone Conference 2025 is now open!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The Call for Papers for the Plone Conference 2025 is now open!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "dcb76923-c713-4413-82b6-75f721dc89d7": {
+      "@type": "slate",
+      "plaintext": "Prospective speakers and trainers are invited to submit their proposals by July 31st, 2025 (Anywhere on Earth, AoE).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Prospective speakers and trainers are invited to submit their proposals by July 31st, 2025 (Anywhere on Earth, AoE)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e30293a3-38dd-41c7-b020-0e6b27f20c6d": {
+      "@type": "image",
+      "align": "right",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "m",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "medium"
+      },
+      "theme": "default",
+      "url": "../resolveuid/a75525fc258341369b4c4e550e76c411"
+    },
+    "efb8f7b1-241c-4471-b553-afc1f7029c40": {
+      "@type": "slate",
+      "plaintext": "To submit your proposal, fill the Call for Papers form . The deadline for submissions is July 31, 2025.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "To submit your proposal, fill the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Call for Papers form"
+                }
+              ],
+              "data": {
+                "url": "https://registration.contio.fi/jyu/Registration/Login?id=4757-KONG_Digi-4219"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". The deadline for submissions is July 31, 2025."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f280a335-ea0a-40bd-90fc-ef84ff0756d5": {
+      "@type": "slate",
+      "plaintext": " Training Sessions (October 13-14) : These sessions will span from 2 to 6 hours. They are designed to cater to participants ranging from beginners to experts.  Talk Sessions (October 15-17) : There will be about 40 talk slots, each lasting 25 or 45 minutes. Topics will include Plone, Python, community building, and other tech-related subjects. Presentations are not required to be technical; they can also focus on broader, community-related issues.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Training Sessions (October 13-14)"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ": These sessions will span from 2 to 6 hours. They are designed to cater to participants ranging from beginners to experts."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Talk Sessions (October 15-17)"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ": There will be about 40 talk slots, each lasting 25 or 45 minutes. Topics will include Plone, Python, community building, and other tech-related subjects. Presentations are not required to be technical; they can also focus on broader, community-related issues. "
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "4e181580-e3d1-47e6-94bc-1b547f85f864",
+      "c25d42b2-4d42-4cec-824a-d70f35638129",
+      "dcb76923-c713-4413-82b6-75f721dc89d7",
+      "e30293a3-38dd-41c7-b020-0e6b27f20c6d",
+      "489e2d71-0582-4ff1-bf2b-3a5e421ec0bf",
+      "25ac0982-da6e-4006-9717-f9382cba842b",
+      "b2f91fb4-e496-424a-9489-6dd53cbe69e1",
+      "778510c2-ce71-4975-a742-b662792b01d4",
+      "f280a335-ea0a-40bd-90fc-ef84ff0756d5",
+      "b4244488-52f1-4b5a-8409-e0208d5fbaeb",
+      "3ca98bd9-2da6-4d91-934b-9526e33550f4",
+      "b6128eb5-b76f-42e7-99db-5d9ac0e356cb",
+      "7e0a74f1-3317-45ae-9cec-f868eae18475",
+      "9b6089cb-0183-4aeb-a8a2-0c692d703ec9",
+      "ac436f7b-b8d8-46da-bf50-d27c1da646cc",
+      "310f9f86-ae66-49e4-975c-e86dcf661032",
+      "694a9ce1-f53f-4b1a-89fa-c4d9275a8450",
+      "68a8abc4-17ef-4015-8c02-3c9dfcbeed72",
+      "efb8f7b1-241c-4471-b553-afc1f7029c40",
+      "259f3416-b3b6-41d6-aca6-b35f62ded39a",
+      "0f260b7c-de82-42c6-b7a5-c3d9d2b3fae1",
+      "3eef0958-93d2-4bea-af1d-4afc90b9d5be"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-18T07:27:36+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "The Call for Papers for the Plone Conference 2025 is now open! ",
+  "effective": "2025-03-18T08:34:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "call-for-papers",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-06-04T12:34:02+00:00",
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "63d3bc88d6f84ff0b1355508020a16f9/preview_image/victor-keynote.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "victor-keynote.jpeg",
+    "height": 898,
+    "size": 336735,
+    "width": 1600
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Call for Papers",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T07:27:36+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T08:34:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

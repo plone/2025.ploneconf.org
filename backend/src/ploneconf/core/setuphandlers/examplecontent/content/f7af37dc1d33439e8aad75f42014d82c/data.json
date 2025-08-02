@@ -1,0 +1,548 @@
+{
+  "@id": "/news/plone-conference-2025-website-released",
+  "@type": "News Item",
+  "UID": "f7af37dc1d33439e8aad75f42014d82c",
+  "allow_discussion": null,
+  "blocks": {
+    "12ec8215-b2d8-4580-9a24-12696870190c": {
+      "@type": "slate",
+      "plaintext": "Blocks and Grids and Bells and Whistles",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Blocks and Grids and Bells and Whistles"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "1ec00b2d-66e1-4f40-9254-1f6b955ba6b4": {
+      "@type": "slate",
+      "plaintext": "This is how editing this page looks like:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This is how editing "
+            },
+            {
+              "children": [
+                {
+                  "text": "this"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": " page looks like: "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "21489555-ce67-4552-b160-e65260dc4df8": {
+      "@type": "slate",
+      "plaintext": "Need sophisticated grid layout with dynamic teasers? Sure!",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Need sophisticated grid layout with dynamic teasers? Sure!"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "23f93770-28cb-4570-b28d-a9465928a858": {
+      "@type": "slate",
+      "plaintext": "Or better yet - Join Plone Conference 2025 and come see yourself what the fuzz is about! :)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Or better yet - Join "
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone Conference 2025"
+                }
+              ],
+              "data": {
+                "url": "../../resolveuid/8d4058a232e44bd6adb5666377c8738f"
+              },
+              "type": "link"
+            },
+            {
+              "text": " and come see yourself what the fuzz is about! :) "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2c319ada-df4a-492c-9dd1-44b2515d6e01": {
+      "@type": "slate",
+      "plaintext": "Check out the news on Plone 6.1 features . Or try the latest Plone demo site: https://demo.plone.org/ Or install the latest version yourself.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Check out the "
+            },
+            {
+              "children": [
+                {
+                  "text": "news on Plone 6.1 features"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/news-and-events/news/news-for-2025/plone-6-1-is-here"
+              },
+              "type": "link"
+            },
+            {
+              "text": ". Or try the latest Plone demo site: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://demo.plone.org/"
+                }
+              ],
+              "data": {
+                "url": "https://demo.plone.org/"
+              },
+              "type": "link"
+            },
+            {
+              "text": " Or "
+            },
+            {
+              "children": [
+                {
+                  "text": "install"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/download"
+              },
+              "type": "link"
+            },
+            {
+              "text": " the latest version yourself. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "34e9f7de-474a-4d1a-a4a1-6300b2ced094": {
+      "@type": "slate",
+      "plaintext": "Eat your own dogfood, as the saying goes :)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Eat your own dogfood, as the saying goes :) "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "68da2c70-f090-41a5-a2e8-3ea5e31e49c8": {
+      "@type": "slate",
+      "plaintext": "Need text? Just press Enter and a new text block appears.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Need text? Just press Enter and a new text block appears. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6f99ac9c-5984-4f16-8af9-88023c97abfe": {
+      "@type": "slate",
+      "plaintext": "In Plone 6 you can control how your page content is laid out using something we call Blocks .",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "In Plone 6 you can control how your page content is laid out using something we call "
+            },
+            {
+              "children": [
+                {
+                  "text": "Blocks"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "74c0599c-c742-4559-a936-2b28e8993ab1": {
+      "@type": "slate",
+      "plaintext": "Where Can I Get One?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Where Can I Get One? "
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "8fe915bb-c90e-4ee1-a2e5-ba81dcda747a": {
+      "@type": "slate",
+      "plaintext": "Need Image or Video?  Insert Image block or Video block.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Need Image or Video?  Insert Image block or Video block. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9702b4d4-5cee-425b-8711-499eb486688e": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../../resolveuid/348e1698d0024c929979c0ae847cce26"
+    },
+    "aaeb8cf6-06fe-4c2e-a4e8-655351b006ab": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b212f68b-49b6-4138-aa56-f58e2d42812d": {
+      "@type": "slate",
+      "plaintext": "This website is built with the latest Plone 6.1 with the latest Volto 18 frontend.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "This website is built with the "
+            },
+            {
+              "children": [
+                {
+                  "text": "latest Plone 6.1"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org/news-and-events/news/news-for-2025/plone-6-1-is-here"
+              },
+              "type": "link"
+            },
+            {
+              "text": " with the latest Volto 18 frontend. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b2d8afd0-bd1a-4c08-ab0b-e1dfd5052325": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "url": "../../resolveuid/8150a67274d04ce48feba0586eae3486"
+    },
+    "b701d568-16cf-4680-8b7a-54379364b5ca": {
+      "@type": "slate",
+      "plaintext": "Under the hood we have battle-tested, robust and multifunctional content management system with enterprise-level security features and detailed access management built on Python.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Under the hood we have battle-tested, robust and multifunctional content management system with enterprise-level security features and detailed access management built on Python. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "bc3ad2b0-8f06-4d8b-9524-72ddb8fb441d": {
+      "@type": "slate",
+      "plaintext": "For over 20 years, Plone CMS has had few things in focus: security , flexibility and in addition to the the first two - a very good user experience for content editors.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "For over 20 years, "
+            },
+            {
+              "children": [
+                {
+                  "text": "Plone CMS"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": " has had few things in focus: "
+            },
+            {
+              "children": [
+                {
+                  "text": "security"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "children": [
+                {
+                  "text": "flexibility"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " and in addition to the the first two - a very good "
+            },
+            {
+              "children": [
+                {
+                  "text": "user experience"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " for content editors. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c466fb0f-fcc8-44b3-88d8-10f659e412b2": {
+      "@type": "slate",
+      "plaintext": "Could not get any simpler than that?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Could not get any simpler than that?"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "c6e6ff8b-9268-45a9-8c2f-8114bec42976": {
+      "@type": "slate",
+      "plaintext": "Plone 6 has taken this to the greatest heights ever.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 has taken this to the greatest heights ever. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "df54dbd4-46ee-461d-bb61-3ab12b15a8d2": {
+      "@type": "slate",
+      "plaintext": "The new frontent for Plone 6 is built on React, and it's is made super-fast, very simple to use with modern editing experience.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The new frontent for Plone 6 is built on React, and it's is made super-fast, very simple to use with modern editing experience. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ead45a67-c384-4fa5-8e05-e8c2866b14c2": {
+      "@type": "title"
+    },
+    "f3b9b23b-208d-4322-8537-f4319a251b1b": {
+      "@type": "slate",
+      "plaintext": "Enterprise Level Content Management With Users in the Centre",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Enterprise Level Content Management With Users in the Centre"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "ead45a67-c384-4fa5-8e05-e8c2866b14c2",
+      "b212f68b-49b6-4138-aa56-f58e2d42812d",
+      "34e9f7de-474a-4d1a-a4a1-6300b2ced094",
+      "f3b9b23b-208d-4322-8537-f4319a251b1b",
+      "bc3ad2b0-8f06-4d8b-9524-72ddb8fb441d",
+      "c6e6ff8b-9268-45a9-8c2f-8114bec42976",
+      "b701d568-16cf-4680-8b7a-54379364b5ca",
+      "df54dbd4-46ee-461d-bb61-3ab12b15a8d2",
+      "1ec00b2d-66e1-4f40-9254-1f6b955ba6b4",
+      "b2d8afd0-bd1a-4c08-ab0b-e1dfd5052325",
+      "c466fb0f-fcc8-44b3-88d8-10f659e412b2",
+      "12ec8215-b2d8-4580-9a24-12696870190c",
+      "6f99ac9c-5984-4f16-8af9-88023c97abfe",
+      "68da2c70-f090-41a5-a2e8-3ea5e31e49c8",
+      "8fe915bb-c90e-4ee1-a2e5-ba81dcda747a",
+      "21489555-ce67-4552-b160-e65260dc4df8",
+      "9702b4d4-5cee-425b-8711-499eb486688e",
+      "aaeb8cf6-06fe-4c2e-a4e8-655351b006ab",
+      "74c0599c-c742-4559-a936-2b28e8993ab1",
+      "2c319ada-df4a-492c-9dd1-44b2515d6e01",
+      "23f93770-28cb-4570-b28d-a9465928a858"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-03-18T06:49:09+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "This website is built with the latest Plone 6.1",
+  "effective": "2025-03-18T10:33:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "plone-conference-2025-website-released",
+  "image": {
+    "blob_path": "f7af37dc1d33439e8aad75f42014d82c/image/ploneconf-2025-logo-square-cropped.png",
+    "content-type": "image/png",
+    "filename": "ploneconf-2025-logo-square-cropped.png",
+    "height": 480,
+    "size": 101852,
+    "width": 900
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-03-26T10:34:09+00:00",
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Plone Conference 2025 Website Released",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T06:49:09+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-26T10:33:59+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

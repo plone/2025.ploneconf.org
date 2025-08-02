@@ -1,0 +1,40 @@
+{
+  "@id": "/images/karkistensilta-photo-jukka-paakkinen.jpg",
+  "@type": "Image",
+  "UID": "7dd1f12fb6f047e3ad089889bb8001f4",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-17T09:50:03+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "karkistensilta-photo-jukka-paakkinen.jpg",
+  "image": {
+    "blob_path": "7dd1f12fb6f047e3ad089889bb8001f4/image/ka\u0308rkistensilta PHOTO JUKKA PAAKKINEN.JPG",
+    "content-type": "image/jpeg",
+    "filename": "ka\u0308rkistensilta PHOTO JUKKA PAAKKINEN.JPG",
+    "height": 1536,
+    "size": 202768,
+    "width": 864
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-17T09:50:03+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "k\u00e4rkistensilta PHOTO JUKKA PAAKKINEN.JPG",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

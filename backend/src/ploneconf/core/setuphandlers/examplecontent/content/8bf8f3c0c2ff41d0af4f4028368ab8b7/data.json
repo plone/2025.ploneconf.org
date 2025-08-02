@@ -1,0 +1,241 @@
+{
+  "@id": "/sponsors/bronze",
+  "@type": "SponsorLevel",
+  "UID": "8bf8f3c0c2ff41d0af4f4028368ab8b7",
+  "allow_discussion": null,
+  "benefits": [],
+  "blocks": {
+    "3693ce2f-cb67-480f-8da2-e41cbd188e7d": {
+      "@type": "title"
+    },
+    "c7608f61-4d11-4a2d-beb4-a8da65b1fdb3": {
+      "@type": "accordion",
+      "collapsed": false,
+      "data": {
+        "blocks": {
+          "0e6eb19e-7c43-432f-a35f-29cae52c958b": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "180b4655-cba1-4353-858d-6b17b0332a04": {
+                "@type": "slate"
+              },
+              "e28f3abf-a61f-4df6-9999-f93c69475f20": {
+                "@type": "listing",
+                "headlineTag": "h2",
+                "querystring": {
+                  "query": [
+                    {
+                      "i": "portal_type",
+                      "o": "plone.app.querystring.operation.selection.any",
+                      "v": [
+                        "Sponsor"
+                      ]
+                    },
+                    {
+                      "i": "path",
+                      "o": "plone.app.querystring.operation.string.relativePath",
+                      "v": ""
+                    }
+                  ],
+                  "sort_on": "sortable_title",
+                  "sort_order": "ascending"
+                },
+                "styles": {},
+                "theme": "default",
+                "variation": "summary"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "e28f3abf-a61f-4df6-9999-f93c69475f20",
+                "180b4655-cba1-4353-858d-6b17b0332a04"
+              ]
+            },
+            "title": "Sponsors"
+          },
+          "6d75665d-b039-4769-8415-b1283ac16f89": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "fce0883c-6402-4ae8-90f7-23c274f2f684": {
+                "@type": "slate",
+                "plaintext": "1000 euros",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "1000 euros"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "fce0883c-6402-4ae8-90f7-23c274f2f684"
+              ]
+            },
+            "title": "Investment"
+          },
+          "d5c2723d-0b5a-4f8a-9b73-9f4fb8ae6248": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "50a47adf-c0e7-4265-8274-ca84efc5fd65": {
+                "@type": "slate",
+                "plaintext": "1 complimentary ticket for the Plone Conference 2025, including PyCon Finland 2025 Logo at Registration Desk Logo in video shown between Talks Logo on the website, Sponsors page Logo in post-conference videos (YouTube) Social Media: Minimum of 2 mentions Material distributed to the attendees",
+                "styles": {},
+                "theme": "default",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "1 complimentary ticket for the Plone Conference 2025, including PyCon Finland 2025"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo at Registration Desk"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in video shown between Talks"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo on the website, Sponsors page"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Logo in post-conference videos (YouTube)"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Social Media: Minimum of 2 mentions"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Material distributed to the attendees"
+                          }
+                        ],
+                        "type": "li"
+                      }
+                    ],
+                    "type": "ul"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "50a47adf-c0e7-4265-8274-ca84efc5fd65"
+              ]
+            },
+            "title": "Benefits"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "d5c2723d-0b5a-4f8a-9b73-9f4fb8ae6248",
+            "6d75665d-b039-4769-8415-b1283ac16f89",
+            "0e6eb19e-7c43-432f-a35f-29cae52c958b"
+          ]
+        }
+      },
+      "filtering": false,
+      "non_exclusive": false,
+      "right_arrows": true,
+      "styles": {},
+      "theme": "default"
+    },
+    "cfeed97b-9527-44f2-96d5-d26257c8a654": {
+      "@type": "slate",
+      "plaintext": "Bronze level sponsors are appreciated.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Bronze level sponsors are appreciated. "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "3693ce2f-cb67-480f-8da2-e41cbd188e7d",
+      "cfeed97b-9527-44f2-96d5-d26257c8a654",
+      "c7608f61-4d11-4a2d-beb4-a8da65b1fdb3"
+    ]
+  },
+  "color": "#000000",
+  "created": "2025-03-18T07:53:09+00:00",
+  "description": "Bronze level sponsorship for Plone Conference 2025",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "bronze",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-08-01T18:36:45+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "price": "",
+  "review_state": "published",
+  "title": "Bronze",
+  "type_title": "Sponsorship Level",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-03-18T07:53:21+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "rikupekka-oksanen",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-03-18T08:10:16+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

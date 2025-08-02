@@ -1,0 +1,40 @@
+{
+  "@id": "/images/silver.png",
+  "@type": "Image",
+  "UID": "72cdd5ec38e640b9a2f78df1cc58430c",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-03-24T08:41:45+00:00",
+  "creators": [
+    "rikupekka-oksanen"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "silver.png",
+  "image": {
+    "blob_path": "72cdd5ec38e640b9a2f78df1cc58430c/image/silver.png",
+    "content-type": "image/png",
+    "filename": "silver.png",
+    "height": 48,
+    "size": 2219,
+    "width": 41
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-03-24T08:41:45+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "silver.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
