@@ -1,0 +1,8 @@
+#page-add,
+#page-document,
+#page-edit {
+  .sponsorTile .sponsorTile-link img.sponsorTile-logo {
+    -o-object-fit: contain !important;
+    object-fit: contain !important;
+  }
+}
