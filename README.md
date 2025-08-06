@@ -127,7 +127,7 @@ This repository has experimental support for developing with GitHub Codespaces. 
 make codespace-start
 ```
 
-This will eventually start proxied site at port 8000, with backend proxied at path /api.
+This will eventually start a proxied site at Codespaces port 8000, with its backend proxied at path /api. If your browser keeps reloading the proxied site, please, stop your local Volto or other Webpack development server first.
 
 ## Credits and Acknowledgements 🙏
 
