@@ -1,1 +1,1 @@
-Add @plone-collective/volto-techevent version 1.0.0-alpha.12. @ericof
+Add @plone-collective/volto-techevent version 1.0.0-alpha.13. @ericof

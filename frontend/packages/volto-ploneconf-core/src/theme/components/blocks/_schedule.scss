@@ -1,0 +1,13 @@
+#main .schedule {
+  .sessionTile {
+    .sessionBody .presenters .presenter,
+    .sessionTitle .title {
+      color: var(--techevent-schedule-reverse-color);
+      text-decoration: none;
+    }
+  }
+  .aside-indication .time-indication {
+    background-color: unset;
+    color: var(--techevent-schedule-reverse-color);
+  }
+}
