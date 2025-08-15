@@ -1,1 +1,1 @@
-Add collective.techevent 1.0.0a14. @ericof
+Add collective.techevent 1.0.0a15. @ericof

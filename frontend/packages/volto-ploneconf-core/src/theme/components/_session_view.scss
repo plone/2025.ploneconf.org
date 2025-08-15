@@ -1,0 +1,19 @@
+body.contenttype-keynote,
+body.contenttype-talk,
+body.contenttype-training {
+  .session-view {
+    .wrapper {
+      .sessionWrapper {
+        .sessionPresenters {
+          .presenterTile {
+            .presenterTitle {
+              .title {
+                color: var(--secondary-foreground-color) !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
