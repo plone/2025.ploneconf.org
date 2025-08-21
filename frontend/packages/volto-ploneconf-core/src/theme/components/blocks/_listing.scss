@@ -1,0 +1,13 @@
+.block.listing {
+  &.grid {
+    .card-container.presenter {
+      background-color: var(--primary-color) !important;
+      .presenterTile {
+        .presenterImage {
+          border-radius: 10%;
+          filter: drop-shadow(2px 2px var(--secondary-color));
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.presenter-view {
+  .card.profile {
+    .card-inner {
+      flex-direction: row-reverse;
+      align-items: center;
+      gap: $spacing-medium;
+      .image-wrapper {
+        img {
+          border-radius: 10%;
+          filter: drop-shadow(2px 2px var(--secondary-color));
+        }
+      }
+      .presenterDescription {
+        .documentDescription {
+          padding: $spacing-small 0;
+          border: unset;
+          color: var(--text-color);
+        }
+      }
+    }
+  }
+}

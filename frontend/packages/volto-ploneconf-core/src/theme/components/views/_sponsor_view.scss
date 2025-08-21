@@ -1,0 +1,21 @@
+.sponsor-view {
+  #sponsorLogo {
+    margin-top: $spacing-medium;
+    img {
+      height: 400px !important;
+      object-fit: contain;
+    }
+  }
+  .sponsorDescription {
+    margin: $spacing-small 0 0 0;
+    .documentDescription {
+      color: var(--text-color);
+    }
+  }
+  .sponsorText {
+    margin: $spacing-small 0;
+  }
+  .sponsorLinks {
+    margin: $spacing-small 0;
+  }
+}

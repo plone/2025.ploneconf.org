@@ -1,0 +1,23 @@
+.presenter-labels {
+  .presenterCategoryWrapper {
+    --techevent-presenter-category-background-color: var(--primary-color);
+    .icon.presenterCategory {
+      --techevent-presenter-category-background-color: var(
+        --primary-foreground-color
+      );
+      filter: drop-shadow(1px 1px var(--techevent-presenter-category-color));
+      &.speaker {
+        --techevent-presenter-category-background-color: var(--accent-color);
+      }
+      &.instructor {
+        --techevent-presenter-category-background-color: var(--secondary-color);
+        fill: var(--techevent-presenter-category-color) !important;
+      }
+      &.pf-member {
+        --techevent-presenter-category-background-color: var(
+          --quanta-color-icon-informative
+        );
+      }
+    }
+  }
+}
