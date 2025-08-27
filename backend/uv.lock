@@ -42,7 +42,7 @@ constraints = [
     { name = "collective-recipe-omelette", specifier = "==2.0.0" },
     { name = "collective-recipe-template", specifier = "==2.2" },
     { name = "collective-recipe-vscode", specifier = "==0.1.9" },
-    { name = "collective-techevent", specifier = "==1.0.0a17" },
+    { name = "collective-techevent", specifier = "==1.0.0a18" },
     { name = "collective-xmltestreport", specifier = "==2.0.2" },
     { name = "collective-z3cform-datagridfield", specifier = "==3.0.4" },
     { name = "colorama", specifier = "==0.4.6" },
@@ -217,7 +217,7 @@ constraints = [
     { name = "plone-resource", specifier = "==3.0.2" },
     { name = "plone-resourceeditor", specifier = "==4.0.1" },
     { name = "plone-rest", specifier = "==5.0.0" },
-    { name = "plone-restapi", specifier = "==9.15.1" },
+    { name = "plone-restapi", specifier = ">=9.15.2" },
     { name = "plone-rfc822", specifier = "==3.0.1" },
     { name = "plone-scale", specifier = "==4.2.0" },
     { name = "plone-schema", specifier = "==2.0.2" },
@@ -757,7 +757,7 @@ wheels = [
 
 [[package]]
 name = "collective-techevent"
-version = "1.0.0a17"
+version = "1.0.0a18"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "collective-z3cform-datagridfield" },
@@ -767,9 +767,9 @@ dependencies = [
     { name = "plonegovbr-socialmedia" },
     { name = "products-cmfplone" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c1/ed/f7a36441a696843e74640ac013ce85e121967aa38e03eb86fd3da4abbc40/collective_techevent-1.0.0a17.tar.gz", hash = "sha256:cf8fdd9c41065b5ede4f31ce1d588b332d8e58796cb19fcef1536548cc9373b9", size = 3560279 }
+sdist = { url = "https://files.pythonhosted.org/packages/2f/68/35ecc08c3b51a83c603a45194d5b154666f03b8b0b618ef9001eb4030971/collective_techevent-1.0.0a18.tar.gz", hash = "sha256:b0ef385ada1cb365d98b88fe6598596175d63b0379eafd7879dabaa199673fe4", size = 3561472 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/34/be/6666656132a6026a1c58b4ea500df19faa414a869651e7ca7cbd45b9a1b4/collective_techevent-1.0.0a17-py3-none-any.whl", hash = "sha256:5be8f6492914bee8db86299060537b6d7bf8fb25549fbb0ee1c89ff4b29aadc7", size = 3623345 },
+    { url = "https://files.pythonhosted.org/packages/90/10/b047ba770c7cd49df38a5b99ae3923234da3d7ffcd20278524e3ccc036c5/collective_techevent-1.0.0a18-py3-none-any.whl", hash = "sha256:490e5d20de2a61486ec443a01fc2b4a1fb31a7e3e615464881c3bc7e9af17a1f", size = 3625393 },
 ]
 
 [[package]]
@@ -3338,7 +3338,7 @@ wheels = [
 
 [[package]]
 name = "plone-restapi"
-version = "9.15.1"
+version = "9.15.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "packaging" },
@@ -3350,9 +3350,9 @@ dependencies = [
     { name = "pytz" },
     { name = "setuptools" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/94/16/96c1549aeead4b42fbe0e319d43082d1b9054a4d040b66906174a4765ee3/plone_restapi-9.15.1.tar.gz", hash = "sha256:80948ff894b7d0f0a9424abe0452150a4d237d75083cf4eb6306ecfa826769cd", size = 2972384 }
+sdist = { url = "https://files.pythonhosted.org/packages/77/57/f426be2a333d75b6d2e56f6b0b4cc02905ba502782ace731b0701a67849a/plone_restapi-9.15.2.tar.gz", hash = "sha256:489133964f587bca5381868fc8765e6e909fe63d0331cf63687b990e5e6473e3", size = 2972912 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c7/ea/f6f7ed80fb3ec67d0f1ae4ff69a3549ddab3b34145e8bee50df215b6d4a6/plone.restapi-9.15.1-py3-none-any.whl", hash = "sha256:b3c2bfa0bb77763dfbc9a27c11ef04921f50cc403096b6f876961faf7566528f", size = 3092966 },
+    { url = "https://files.pythonhosted.org/packages/7b/0f/5252520e045cc683b9af6d1f1459b2915be1fefe6ffd7f8197606c44e41e/plone.restapi-9.15.2-py3-none-any.whl", hash = "sha256:b4574b7a6246098c934418e209fcc66f6dcb35c8e6686d934303a3c770e96c70", size = 3093339 },
 ]
 
 [package.optional-dependencies]
@@ -3695,14 +3695,14 @@ test = [
 [package.metadata]
 requires-dist = [
     { name = "collective-honeypot" },
-    { name = "collective-techevent", specifier = "==1.0.0a17" },
+    { name = "collective-techevent", specifier = "==1.0.0a18" },
     { name = "collective-volto-formsupport" },
     { name = "kitconcept-voltolighttheme", specifier = "==7.0.0a21" },
     { name = "pas-plugins-authomatic", specifier = "==2.0.0" },
     { name = "plone-api" },
     { name = "plone-app-discussion" },
     { name = "plone-app-upgrade" },
-    { name = "plone-restapi" },
+    { name = "plone-restapi", specifier = ">=9.15.2" },
     { name = "plone-volto" },
     { name = "plonegovbr-socialmedia", specifier = ">=2.0.0a5" },
     { name = "products-cmfplone", specifier = "==6.1.2" },
