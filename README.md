@@ -1,9 +1,7 @@
 # Plone Conference 2025 🚀
 
 [![Built with Cookieplone](https://img.shields.io/badge/built%20with-Cookieplone-0083be.svg?logo=cookiecutter)](https://github.com/plone/cookiecutter-plone/)
-[![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Backend Tests](https://github.com/plone/2025.ploneconf.org/actions/workflows/backend.yml/badge.svg)](https://github.com/plone/2025.ploneconf.org/actions/workflows/backend.yml)
-[![Frontend Tests](https://github.com/plone/2025.ploneconf.org/actions/workflows/frontend.yml/badge.svg)](https://github.com/plone/2025.ploneconf.org/actions/workflows/frontend.yml)
+[![CI](https://github.com/plone/2025.ploneconf.org/actions/workflows/main.yml/badge.svg)](https://github.com/plone/2025.ploneconf.org/actions/workflows/main.yml)
 
 Site for the 2025 edition of the Plone Conference
 
@@ -128,6 +126,58 @@ make codespace-start
 ```
 
 This will eventually start a proxied site at Codespaces port 8000, with its backend proxied at path /api. If your browser keeps reloading the proxied site, please, stop your local Volto or other Webpack development server first.
+
+## Deployment
+
+### Staging
+
+Every push to the `main` branch triggers a GitHub workflow.
+If all steps complete successfully, the project is automatically deployed to the [staging environment](https://testing.ploneconf.org).
+
+### Live
+
+Deployment to the [live environment](https://2025.ploneconf.org) happens whenever a new release is created.
+
+Releases are managed with [`repoplone`](https://github.com/ericof/repoplone).
+
+The usual workflow is:
+
+1. **Check the changelog**
+   At the repository root, run:
+   ```bash
+   uvx repoplone changelog
+   ```
+   This will show how the [Changelog](./CHANGELOG.md) will be updated. Confirm that the changes look correct.
+
+2. **Create the release**
+   If everything looks good, create a new release with:
+   ```bash
+   uvx repoplone release <version>
+   ```
+   The `<version>` must follow the format:
+   ```
+   YYYYMMDD.R
+   ```
+   where:
+   - `YYYYMMDD` = release date
+   - `R` = point release for that day
+
+   Example:
+   ```bash
+   uvx repoplone release 20250826.2
+   ```
+
+   This will produce the following versions/tags:
+   - **Repository tag**: `20250826.2`
+   - **GitHub release**: `20250826.2`
+   - **Container images**: `20250826.2`
+   - **Backend package**: `20250826.2`
+   - **Frontend package**: `20250826.2.0`
+
+3. **Automatic deployment**
+   Once the release is created, GitHub Actions will:
+   - Build container images for the new tag
+   - Deploy them to the live environment
 
 ## Credits and Acknowledgements 🙏
 
