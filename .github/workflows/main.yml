@@ -9,6 +9,8 @@ on:
       - ".github/workflows/frontend.yml"
       - ".github/workflows/main.yml"
       - "devops/**"
+    tags-ignore:
+      - '**'
   workflow_dispatch:
 
 env:
