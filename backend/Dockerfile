@@ -1,38 +1,58 @@
-# syntax=docker/dockerfile:1
-ARG PLONE_VERSION=6.1.0
-FROM plone/server-builder:${PLONE_VERSION} AS builder
+# syntax=docker/dockerfile:1.9
+ARG KC_VERSION=latest
+FROM ghcr.io/kitconcept/core-builder:${KC_VERSION:-latest} AS builder
 
-WORKDIR /app
-
-
-# Add local code
-COPY scripts/ scripts/
-COPY . src
-
-# Install local requirements and pre-compile mo files
+# Move skeleton folder
 RUN <<EOT
-    set -e
-    sed -i 's/plone.autoinclude==1.0.1/plone.autoinclude==2.0.0/g' /app/constraints.txt
-    bin/pip install uv hatch hatchling wheel
-    cd /app/src
-    ../bin/hatch build
-    cd /app
-    bin/uv pip install /app/src/dist/*.whl -c /app/constraints.txt
-    bin/python /compile_mo.py
-    rm -Rf src
+    mv /app /app_base
+EOT
+# Install dependencies
+RUN --mount=type=cache,target=/root/.cache \
+    --mount=type=bind,source=uv.lock,target=uv.lock \
+    --mount=type=bind,source=pyproject.toml,target=pyproject.toml \
+    uv sync \
+        --locked \
+        --no-dev \
+        --no-group test \
+        --group container \
+        --no-install-project
+
+COPY . /src
+WORKDIR /src
+
+# Install package
+RUN --mount=type=cache,target=/root/.cache \
+    uv sync \
+        --locked \
+        --no-dev \
+        --no-group test \
+        --group container \
+        --no-editable
+
+# Move skeleton files to /app
+RUN <<EOT
+    mv /app_base/* /app
+    rm -Rf /app_base
+    mv scripts/create_site.py /app/scripts/create_site.py
 EOT
 
-FROM plone/server-prod-config:${PLONE_VERSION}
+# Compile translation files
+RUN <<EOT
+    /app/bin/python /compile_mo.py
+EOT
+
+FROM ghcr.io/kitconcept/core-prod:${KC_VERSION:-latest}
 
 LABEL maintainer="Plone Foundation <admins@plone.org>" \
       org.label-schema.name="2025.ploneconf.org-backend" \
       org.label-schema.description="Plone Conference 2025 backend image." \
       org.label-schema.vendor="Plone Foundation"
 
-# Copy /app from builder
-COPY --from=builder /app /app
+# Copy the pre-built `/app` directory to the runtime container
+# and change the ownership to user app and group app in one step.
+COPY --from=builder --chown=500:500 /app /app
 
 RUN <<EOT
-    set -e
     ln -s /data /app/var
+    chown -R 500:500 /data
 EOT
