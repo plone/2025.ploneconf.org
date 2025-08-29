@@ -100,7 +100,7 @@ jobs:
   deploy:
     concurrency: deploy_testing
     needs: [config, backend, frontend]
-    if: always() && github.event_name != 'pull_request'
+    if: ${{ always() && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && !contains(needs.*.result, 'failure') }}
     timeout-minutes: 8
     runs-on: ubuntu-latest
     environment:
@@ -113,7 +113,6 @@ jobs:
 
       - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
-        if: ${{ always() && github.ref == 'refs/heads/main' && !contains(needs.*.result, 'failure') }}
         with:
           registry: 'ghcr.io'
           username: ${{ github.actor }}
