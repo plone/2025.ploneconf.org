@@ -9,7 +9,7 @@ on:
       - ".github/workflows/frontend.yml"
       - ".github/workflows/main.yml"
       - "devops/**"
-    tags-ignore:
+    branches:
       - '**'
   workflow_dispatch:
 
@@ -100,7 +100,7 @@ jobs:
   deploy:
     concurrency: deploy_testing
     needs: [config, backend, frontend]
-    if: always() && github.event_name != 'pull_request'
+    if: ${{ always() && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && !contains(needs.*.result, 'failure') }}
     timeout-minutes: 8
     runs-on: ubuntu-latest
     environment:
@@ -108,40 +108,11 @@ jobs:
         url: https://${{ needs.config.outputs.DEPLOY_ENVIRONMENT }}
     steps:
 
-      - name: Verify container builds
-        id: verify_image_builds
-        env:
-          NEED_BACKEND: ${{ needs.config.outputs.backend }}
-          NEED_FRONTEND: ${{ needs.config.outputs.frontend }}
-          FINISHED_BACKEND: ${{ needs.backend.result }}
-          FINISHED_FRONTEND: ${{ needs.frontend.result }}
-          GITHUB_REF: ${{ github.ref }}
-        run: |
-          if [[ "${NEED_BACKEND}" == "true" && "${FINISHED_BACKEND}" != "success" ]]; then
-            echo "::warning::Backend image not built succesfully, but required for deploy"
-          fi
-          if [[ "${NEED_FRONTEND}" == "true" && "${FINISHED_FRONTEND}" != "success" ]]; then
-            echo "::warning::Fontend image not built succesfully, but required for deploy"
-          fi
-          if [[ "${NEED_FRONTEND}" == "false" && "${NEED_BACKEND}" == "false" ]]; then
-            echo "::warning::Merge to main, but no deploy needed. Aborting."
-          fi
-          if [[ "${GITHUB_REF}" != "refs/heads/main" ]]; then
-            echo "::warning::No merge to main. Aborting."
-          fi
-
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Test vars
-        run: |
-          echo "DEPLOY_ENVIRONMENT=${{ needs.config.outputs.DEPLOY_ENVIRONMENT }}"
-          echo "PLONE_VERSION=${{ needs.config.outputs.PLONE_VERSION }}"
-          echo "VOlTO_VERSION=${{ needs.config.outputs.VOLTO_VERSION }}"
-
       - name: Deploy
         uses: kitconcept/docker-stack-deploy@v1.2.0
-        if: ${{ always() && github.ref == 'refs/heads/main' && !contains(needs.*.result, 'failure') }}
         with:
           registry: 'ghcr.io'
           username: ${{ github.actor }}
@@ -170,5 +141,23 @@ jobs:
             BASIC_AUTH_USER=${{ vars.BASIC_AUTH_USER }}
             BASIC_AUTH_PASSWORD_FRONTEND=${{ vars.BASIC_AUTH_PASSWORD_FRONTEND }}
             BASIC_AUTH_PASSWORD_CLASSICUI=${{ vars.BASIC_AUTH_PASSWORD_CLASSICUI }}
-
           deploy_timeout: 480
+
+  report:
+    name: "Final report"
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    needs:
+      - config
+      - backend
+      - frontend
+      - deploy
+    steps:
+      - name: Write report
+        run: |
+          echo '# Workflow Report' >> $GITHUB_STEP_SUMMARY
+          echo '| Job ID | Conclusion |' >> $GITHUB_STEP_SUMMARY
+          echo '| --- | --- |' >> $GITHUB_STEP_SUMMARY
+          echo '| config | ${{ needs.config.result }} |' >> $GITHUB_STEP_SUMMARY
+          echo '| backend | ${{ needs.backend.result }} |' >> $GITHUB_STEP_SUMMARY
+          echo '| frontend | ${{ needs.frontend.result }} |' >> $GITHUB_STEP_SUMMARY
