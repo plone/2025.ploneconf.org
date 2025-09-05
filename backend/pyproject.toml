@@ -38,7 +38,7 @@ dependencies = [
     "collective.volto.formsupport",
     "pas.plugins.authomatic==2.0.0",
     "collective.honeypot",
-    "collective.techevent==1.0.0a18",
+    "collective.techevent[users]==1.0.0a18",
     "kitconcept.voltolighttheme==7.0.0a21",
     "plone.app.upgrade",
     "plone.app.discussion",

@@ -22,4 +22,18 @@
           name="plone_workflow"
           remove="true"
   />
+  <object meta_type="Workflow"
+          name="iterated_publication_workflow"
+  />
+  <bindings>
+    <type type_id="Talk">
+      <bound-workflow workflow_id="iterated_publication_workflow" />
+    </type>
+    <type type_id="Keynote">
+      <bound-workflow workflow_id="iterated_publication_workflow" />
+    </type>
+    <type type_id="Presenter">
+      <bound-workflow workflow_id="iterated_publication_workflow" />
+    </type>
+  </bindings>
 </object>

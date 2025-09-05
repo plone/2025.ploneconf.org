@@ -772,6 +772,12 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/90/10/b047ba770c7cd49df38a5b99ae3923234da3d7ffcd20278524e3ccc036c5/collective_techevent-1.0.0a18-py3-none-any.whl", hash = "sha256:490e5d20de2a61486ec443a01fc2b4a1fb31a7e3e615464881c3bc7e9af17a1f", size = 3625393 },
 ]
 
+[package.optional-dependencies]
+users = [
+    { name = "products-membrane" },
+    { name = "pyotp" },
+]
+
 [[package]]
 name = "collective-volto-formsupport"
 version = "3.2.2"
@@ -3658,7 +3664,7 @@ name = "ploneconf-core"
 source = { editable = "." }
 dependencies = [
     { name = "collective-honeypot" },
-    { name = "collective-techevent" },
+    { name = "collective-techevent", extra = ["users"] },
     { name = "collective-volto-formsupport" },
     { name = "kitconcept-voltolighttheme" },
     { name = "pas-plugins-authomatic" },
@@ -3695,7 +3701,7 @@ test = [
 [package.metadata]
 requires-dist = [
     { name = "collective-honeypot" },
-    { name = "collective-techevent", specifier = "==1.0.0a18" },
+    { name = "collective-techevent", extras = ["users"], specifier = "==1.0.0a18" },
     { name = "collective-volto-formsupport" },
     { name = "kitconcept-voltolighttheme", specifier = "==7.0.0a21" },
     { name = "pas-plugins-authomatic", specifier = "==2.0.0" },
@@ -4127,6 +4133,19 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/12/aa/f6d280c1d4801176fd88e3f859869fa69c57a6f26b6c657786367b06fa2a/products_mailhost-6.0.tar.gz", hash = "sha256:e82983a6c5b48a4555e4335c9110ccb046d52aa3c01ca2ba5be38eca51ddc116", size = 27538 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/dc/95/f6fc197262ec5f8d799472b77ad796a7cd16e6a27835f1c3618d01d21269/Products.MailHost-6.0-py3-none-any.whl", hash = "sha256:c042dbea252b53db0b42a2a61e1967c9665facdd95a37717207e5d56c9b84c92", size = 29977 },
+]
+
+[[package]]
+name = "products-membrane"
+version = "7.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "products-cmfplone" },
+    { name = "setuptools" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/2f/82/612d2dd7b1baaaaa722b9bfb914cce51d640d17ed9f8f1ab4b4d5ca03b4e/products_membrane-7.0.0.tar.gz", hash = "sha256:842a6196fe289e1d65e2329a631fe18d9d42e45093d21947686a5a48fe1bdfeb", size = 67458 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/f0/1d/1bd16a26898185a30074ef92635ee3e0c66cdfb554f91387de221c205620/products_membrane-7.0.0-py3-none-any.whl", hash = "sha256:8bcf21ab527b31ad5f0ae3b02e4ea4689ffae053fa7632a5e53500078e85795a", size = 69918 },
 ]
 
 [[package]]

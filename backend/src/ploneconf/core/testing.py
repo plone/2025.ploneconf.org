@@ -4,6 +4,7 @@ from plone.app.testing import FunctionalTesting
 from plone.app.testing import IntegrationTesting
 from plone.app.testing import PloneSandboxLayer
 from plone.app.testing import applyProfile
+from plone.testing import zope as zope_testing
 from plone.testing.zope import WSGI_SERVER_FIXTURE
 
 import ploneconf.core
@@ -17,6 +18,10 @@ class Layer(PloneSandboxLayer):
         # The z3c.autoinclude feature is disabled in the Plone fixture base
         # layer.
         import plone.restapi
+        import Products.membrane
+
+        self.loadZCML(package=Products.membrane)
+        zope_testing.installProduct(app, "Products.membrane")
 
         self.loadZCML(package=plone.restapi)
         self.loadZCML(package=ploneconf.core)

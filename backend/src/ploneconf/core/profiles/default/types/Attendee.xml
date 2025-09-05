@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+        meta_type="Dexterity FTI"
+        name="Attendee"
+        i18n:domain="collective.techevent"
+>
+
+  <!-- Allowed content types -->
+  <property name="allowed_content_types"
+            purge="true"
+  >
+    <element value="Talk" />
+    <element value="Presenter" />
+    <element value="Keynote" />
+  </property>
+</object>
