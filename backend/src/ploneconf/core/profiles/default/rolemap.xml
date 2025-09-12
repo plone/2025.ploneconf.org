@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rolemap>
   <permissions>
-    <!-- -*- extra stuff goes here -*- -->
+    <permission acquire="False"
+                name="iterate : Check in content"
+    >
+      <role name="Manager" />
+      <role name="Site Administrator" />
+      <!-- Note: Reviewer role would be hard to support,
+           because removing drafts under membrane user objects after check in
+           requires admin rights in practice. -->
+    </permission>
   </permissions>
 </rolemap>

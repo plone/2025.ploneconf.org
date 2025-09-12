@@ -3,4 +3,14 @@
         name="portal_types"
 >
 
+  <object meta_type="Dexterity FTI"
+          name="Keynote"
+  />
+  <object meta_type="Dexterity FTI"
+          name="Presenter"
+  />
+  <object meta_type="Dexterity FTI"
+          name="Talk"
+  />
+
 </object>

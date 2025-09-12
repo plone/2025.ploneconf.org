@@ -642,10 +642,10 @@
       "title": "Short Talk"
     },
     {
-      "@id": "28c13e1a-b15a-4310-8777-cf06e1f6fcb1",
+      "@id": "30bfbb5f-f764-4ef0-b9b6-ea69baa0a172",
       "color": "#a84747",
       "duration": 45,
-      "id": "28c13e1a-b15a-4310-8777-cf06e1f6fcb1",
+      "id": "30bfbb5f-f764-4ef0-b9b6-ea69baa0a172",
       "title": "Long Talk"
     }
   ],
@@ -665,10 +665,10 @@
       "title": "1 Day"
     },
     {
-      "@id": "704ba19f-2e39-40c1-919f-645a2eeb2366",
+      "@id": "d324077d-ca56-4947-965c-efd3b09a2b26",
       "color": "#892020",
       "duration": 960,
-      "id": "704ba19f-2e39-40c1-919f-645a2eeb2366",
+      "id": "d324077d-ca56-4947-965c-efd3b09a2b26",
       "title": "2 Days"
     }
   ],
