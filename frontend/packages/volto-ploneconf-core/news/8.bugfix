@@ -1,0 +1,1 @@
+Fix issue where search facet dropdown opens behind SessionTile, because SessionTile uses Container with z-index: 10 in volto-light-theme @datakurre
