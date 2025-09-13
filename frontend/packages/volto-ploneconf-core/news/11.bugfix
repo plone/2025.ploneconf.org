@@ -1,0 +1,1 @@
+Fix regression caused by setting z-index for react-select-container with too loose selector @datakurre
