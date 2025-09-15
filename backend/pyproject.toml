@@ -39,7 +39,7 @@ dependencies = [
     "pas.plugins.authomatic==2.0.0",
     "collective.honeypot",
     "collective.techevent[users]==1.0.0a20",
-    "kitconcept.voltolighttheme==7.0.0a21",
+    "kitconcept.voltolighttheme==7.0.0b2",
     "plone.app.upgrade",
     "plone.app.discussion",
 ]
@@ -285,7 +285,7 @@ constraint-dependencies = [
     "jsonschema-specifications==2025.4.1",
     "jsonschema==4.24.0",
     "keyring==25.6.0",
-    "kitconcept.voltolighttheme==7.0.0a21",
+    "kitconcept.voltolighttheme==7.0.0b2",
     "legacy-cgi==2.6.2",
     "lockfile==0.12.2",
     "lxml-html-clean==0.4.2",

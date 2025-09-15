@@ -93,7 +93,7 @@ constraints = [
     { name = "jsonschema", specifier = "==4.24.0" },
     { name = "jsonschema-specifications", specifier = "==2025.4.1" },
     { name = "keyring", specifier = "==25.6.0" },
-    { name = "kitconcept-voltolighttheme", specifier = "==7.0.0a21" },
+    { name = "kitconcept-voltolighttheme", specifier = "==7.0.0b2" },
     { name = "legacy-cgi", specifier = "==2.6.2" },
     { name = "lockfile", specifier = "==0.12.2" },
     { name = "lxml", specifier = "==5.4.0" },
@@ -1242,7 +1242,7 @@ wheels = [
 
 [[package]]
 name = "kitconcept-voltolighttheme"
-version = "7.0.0a21"
+version = "7.0.0b2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "plone-api" },
@@ -1251,9 +1251,9 @@ dependencies = [
     { name = "plonegovbr-socialmedia" },
     { name = "products-cmfplone" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/2b/3e/96a5f44a3147ab44ff68e066b990849e435df3b252466e9bf8b85f7f5c25/kitconcept_voltolighttheme-7.0.0a21.tar.gz", hash = "sha256:fa72e8fbbd866ff1e564b294b4964fd6515ff188c5d784a4a093aa743a31010e", size = 8995694, upload-time = "2025-08-01T00:47:51.366Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/52/51/204398833c8611606ce8581a0f4db4345c5b690c0783cac813d4431687ed/kitconcept_voltolighttheme-7.0.0b2.tar.gz", hash = "sha256:a55587f8fe8bbc3af4dc5bed0c70d65b3a8af015904452658de043669dcadafb", size = 9000116, upload-time = "2025-09-12T21:10:25.768Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a2/22/d3a552912218a105787d3fc947a474317b4f88a7682c6b6c99145980d9eb/kitconcept_voltolighttheme-7.0.0a21-py3-none-any.whl", hash = "sha256:41f4eca316530203f1da10cf05d0c0fe0d0991f1a033d9599d05bcc1c2c19c6f", size = 9044123, upload-time = "2025-08-01T00:47:55.206Z" },
+    { url = "https://files.pythonhosted.org/packages/1c/2a/8d3ff4757e88d57a7ba02bd64bb68a465beb0f36fbefc28aca1dccf5d33f/kitconcept_voltolighttheme-7.0.0b2-py3-none-any.whl", hash = "sha256:e9b4164d45298fe8c5fe966289bcfd3992ee8b92215fdfb237b24c8265707ba5", size = 9056037, upload-time = "2025-09-12T21:10:23.209Z" },
 ]
 
 [[package]]
@@ -3703,7 +3703,7 @@ requires-dist = [
     { name = "collective-honeypot" },
     { name = "collective-techevent", extras = ["users"], specifier = "==1.0.0a20" },
     { name = "collective-volto-formsupport" },
-    { name = "kitconcept-voltolighttheme", specifier = "==7.0.0a21" },
+    { name = "kitconcept-voltolighttheme", specifier = "==7.0.0b2" },
     { name = "pas-plugins-authomatic", specifier = "==2.0.0" },
     { name = "plone-api" },
     { name = "plone-app-discussion" },
