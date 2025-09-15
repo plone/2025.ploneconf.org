@@ -42,7 +42,7 @@ constraints = [
     { name = "collective-recipe-omelette", specifier = "==2.0.0" },
     { name = "collective-recipe-template", specifier = "==2.2" },
     { name = "collective-recipe-vscode", specifier = "==0.1.9" },
-    { name = "collective-techevent", extras = ["users"], specifier = "==1.0.0a19" },
+    { name = "collective-techevent", extras = ["users"], specifier = "==1.0.0a20" },
     { name = "collective-xmltestreport", specifier = "==2.0.2" },
     { name = "collective-z3cform-datagridfield", specifier = "==3.0.4" },
     { name = "colorama", specifier = "==0.4.6" },
@@ -757,7 +757,7 @@ wheels = [
 
 [[package]]
 name = "collective-techevent"
-version = "1.0.0a19"
+version = "1.0.0a20"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "collective-z3cform-datagridfield" },
@@ -767,9 +767,9 @@ dependencies = [
     { name = "plonegovbr-socialmedia" },
     { name = "products-cmfplone" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/71/af/480e58b7835d2052c2ed4d4dcfeb81028056ad7937abeff92b596859718e/collective_techevent-1.0.0a19.tar.gz", hash = "sha256:6ed7daad35efd9e0ee84f3c0acd733202603ebcc62ce72bac53b70c06d607735", size = 3562273, upload-time = "2025-09-09T13:22:42.129Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/0c/ae/bdead343864454caa6520919274cd5c394019cc8d53f6109825350ce680a/collective_techevent-1.0.0a20.tar.gz", hash = "sha256:1a02c33e623772647042f3a0dc506aa2d6f53f0924a224a7cfac11e6e4d8cbd7", size = 3562273, upload-time = "2025-09-15T19:56:39.936Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/9c/e1/0ae36a8a851f207d444c023fd967f604e1f0dca3f4ff6603a8afae9b6b72/collective_techevent-1.0.0a19-py3-none-any.whl", hash = "sha256:225c3597730cfe0797ba1e190cc3a68b53755c6eb937c25fcbfbf3151d6fdae7", size = 3625962, upload-time = "2025-09-09T13:22:40.343Z" },
+    { url = "https://files.pythonhosted.org/packages/08/0c/f1ea76a9a7512db6f5fa3a82a415cfcd6bb0000fbe058c03b922ff1fa1c7/collective_techevent-1.0.0a20-py3-none-any.whl", hash = "sha256:c32d431851fd4a3da6a531c04cf136e24a5f6acb8a1be6e6082014773cf291c2", size = 3625960, upload-time = "2025-09-15T19:56:41.893Z" },
 ]
 
 [package.optional-dependencies]
@@ -3701,7 +3701,7 @@ test = [
 [package.metadata]
 requires-dist = [
     { name = "collective-honeypot" },
-    { name = "collective-techevent", extras = ["users"], specifier = "==1.0.0a19" },
+    { name = "collective-techevent", extras = ["users"], specifier = "==1.0.0a20" },
     { name = "collective-volto-formsupport" },
     { name = "kitconcept-voltolighttheme", specifier = "==7.0.0a21" },
     { name = "pas-plugins-authomatic", specifier = "==2.0.0" },
