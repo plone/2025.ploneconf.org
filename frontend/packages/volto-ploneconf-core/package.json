@@ -44,11 +44,11 @@
   ],
   "dependencies": {
     "@plone/components": "workspace:*",
-    "@kitconcept/volto-light-theme": "7.0.0-alpha.21",
+    "@kitconcept/volto-light-theme": "7.0.0-beta.2",
     "@kitconcept/volto-social-blocks": "1.0.0-alpha.8",
     "@plone-collective/volto-authomatic": "3.0.0-alpha.3",
     "@plone-collective/volto-eventbrite-block": "^1.0.0-alpha.2",
-    "@plone-collective/volto-techevent": "1.0.0-alpha.19",
+    "@plone-collective/volto-techevent": "1.0.0-alpha.20",
     "@mbarde/volto-image-crop-widget": "0.5.1",
     "@plonegovbr/volto-social-media": "^2.0.0-alpha.6",
     "volto-form-block": "3.11.0",
