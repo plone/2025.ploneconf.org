@@ -8,6 +8,20 @@
 
 <!-- towncrier release notes start -->
 
+## 20250916.1.0 (2025-09-16)
+
+### Feature
+
+- Update techevent to version 1.0.0a19 @datakurre [#10](https://github.com/plone/volto-ploneconf-core/issue/10)
+- Update @kitconcept/volto-light-theme to version 7.0.0-beta.2. @ericof 
+- Update @plone-collective/volto-techevent to version 1.0.0-alpha.20. @ericof 
+
+### Bugfix
+
+- Fix issue where search facet dropdown opens behind SessionTile, because SessionTile uses Container with z-index: 10 in volto-light-theme @datakurre [#8](https://github.com/plone/volto-ploneconf-core/issue/8)
+- Fix session language on session tile to render capitalized @datakurre [#9](https://github.com/plone/volto-ploneconf-core/issue/9)
+- Fix regression caused by setting z-index for react-select-container with too loose selector @datakurre [#11](https://github.com/plone/volto-ploneconf-core/issue/11)
+
 ## 20250828.2.0 (2025-08-28)
 
 ## 20250828.1.0 (2025-08-28)
