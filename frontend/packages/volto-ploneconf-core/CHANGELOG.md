@@ -8,6 +8,12 @@
 
 <!-- towncrier release notes start -->
 
+## 20250916.2.0 (2025-09-16)
+
+### Internal
+
+- Upgrade @plone/volto to version 18.26.0. @ericof 
+
 ## 20250916.1.0 (2025-09-16)
 
 ### Feature

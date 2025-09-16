@@ -1,6 +1,6 @@
 {
   "name": "volto-ploneconf-core",
-  "version": "20250916.1.0",
+  "version": "20250916.2.0",
   "description": "Site for the 2025 edition of the Plone Conference",
   "main": "src/index.ts",
   "license": "MIT",
