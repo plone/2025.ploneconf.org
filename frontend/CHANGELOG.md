@@ -8,6 +8,12 @@
 
 <!-- towncrier release notes start -->
 
+## 20250917.1.0 (2025-09-17)
+
+### Feature
+
+- Update @plone-collective/volto-techevent to version 1.0.0-alpha.21. @datakurre 
+
 ## 20250916.2.0 (2025-09-16)
 
 ### Internal

@@ -1,6 +1,6 @@
 {
   "name": "volto-ploneconf-core-dev",
-  "version": "20250916.2.0",
+  "version": "20250917.1.0",
   "description": "Site for the 2025 edition of the Plone Conference",
   "author": "Plone Foundation",
   "homepage": "https://github.com/plone/volto-ploneconf-core",
