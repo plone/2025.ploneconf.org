@@ -54,7 +54,7 @@ def update_attendees_permissions(context):
             "collective.techevent: Add Keynote",
         ]
         for permission in permissions:
-            content.manage_permission(
+            obj.manage_permission(
                 permission,
                 roles=default_roles,
                 acquire=False,
