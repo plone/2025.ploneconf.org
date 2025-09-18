@@ -40,6 +40,7 @@ dependencies = [
     "collective.honeypot",
     "collective.techevent[users]==1.0.0a21",
     "kitconcept.voltolighttheme==7.0.0b2",
+    "plone.app.iterate",
     "plone.app.upgrade",
     "plone.app.discussion",
 ]
