@@ -40,3 +40,22 @@ def update_role_mappings(context):
             )
         },
     )
+
+
+def update_attendees_permissions(context):
+    """Update attendees container permission to allow working copies."""
+    pc = api.portal.get_tool("portal_catalog")
+    brains = pc.unrestrictedSearchResults(portal_type="Attendees")
+    for brain in brains:
+        obj = brain._unrestrictedGetObject()
+        default_roles = ["Manager", "Site Administrator", "Owner", "Contributor"]
+        permissions = [
+            "collective.techevent: Add Talk",
+            "collective.techevent: Add Keynote",
+        ]
+        for permission in permissions:
+            content.manage_permission(
+                permission,
+                roles=default_roles,
+                acquire=False,
+            )
