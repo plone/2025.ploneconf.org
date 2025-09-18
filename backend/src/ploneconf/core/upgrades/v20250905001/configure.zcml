@@ -32,6 +32,10 @@
         title="Reindex content permissions after workflow update"
         handler=".update_role_mappings"
         />
+    <genericsetup:upgradeStep
+        title="Update attendees container permission to allow working copies"
+        handler=".update_attendees_permissions"
+        />
   </genericsetup:upgradeSteps>
 
 </configure>
