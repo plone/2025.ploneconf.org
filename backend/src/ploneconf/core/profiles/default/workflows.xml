@@ -35,5 +35,8 @@
     <type type_id="Presenter">
       <bound-workflow workflow_id="iterated_publication_workflow" />
     </type>
+    <type type_id="Training">
+      <bound-workflow workflow_id="iterated_publication_workflow" />
+    </type>
   </bindings>
 </object>
