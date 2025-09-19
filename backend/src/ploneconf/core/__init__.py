@@ -5,7 +5,7 @@ from zope.i18nmessageid import MessageFactory
 import logging
 
 
-__version__ = "20250919.1"
+__version__ = "20250919.2"
 
 PACKAGE_NAME = "ploneconf.core"
 
