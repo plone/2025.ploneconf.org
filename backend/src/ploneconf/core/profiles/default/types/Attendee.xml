@@ -10,6 +10,7 @@
             purge="true"
   >
     <element value="Talk" />
+    <element value="Training" />
     <element value="Presenter" />
     <element value="Keynote" />
   </property>
