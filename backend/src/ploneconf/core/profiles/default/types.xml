@@ -12,5 +12,8 @@
   <object meta_type="Dexterity FTI"
           name="Talk"
   />
+  <object meta_type="Dexterity FTI"
+          name="Training"
+  />
 
 </object>

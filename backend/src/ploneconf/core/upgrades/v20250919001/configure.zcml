@@ -1,0 +1,36 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    >
+
+  <genericsetup:upgradeSteps
+      profile="ploneconf.core:default"
+      source="20250905001"
+      destination="20250919001"
+      >
+    <genericsetup:upgradeDepends
+        title="Apply presenter_roles behavior to trainings; Allow attendees to draft iterate content"
+        import_steps="typeinfo"
+        />
+    <genericsetup:upgradeDepends
+        title="Restrict check in permission to Site Administrator"
+        import_steps="rolemap"
+        />
+    <genericsetup:upgradeDepends
+        title="Requires Editor role to use check out on published content"
+        import_steps="workflow"
+        />
+    <genericsetup:upgradeStep
+        title="Move simple_publication_workflow history to iterated_publication_workflow"
+        handler=".move_workflow_history"
+        />
+    <genericsetup:upgradeStep
+        title="Reindex content permissions after workflow update"
+        handler=".update_role_mappings"
+        />
+    <genericsetup:upgradeStep
+        title="Update attendees container permission to allow working copies"
+        handler=".update_attendees_permissions"
+        />
+  </genericsetup:upgradeSteps>
+</configure>
