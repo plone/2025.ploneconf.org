@@ -2,3 +2,20 @@
 .navigation .item:hover::before {
   border-bottom: 9px solid var(--secondary-color, #000);
 }
+.navigation ul.desktop-menu .submenu-inner h2 {
+  border-bottom: 1px solid;
+  font-weight: 600;
+}
+
+.navigation ul.desktop-menu .submenu-inner .subitem-wrapper {
+  border-left: none;
+}
+
+.navigation ul.desktop-menu .submenu a span {
+  border-bottom: 1px solid;
+}
+
+.navigation ul.desktop-menu .submenu a span:hover,
+.navigation ul.desktop-menu .submenu-inner h2:hover {
+  border-bottom: none;
+}
