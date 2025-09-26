@@ -1,3 +1,8 @@
+## 20250926.2 (2025-09-26)
+
+No significant changes.
+
+
 ## 20250926.1 (2025-09-26)
 
 No significant changes.

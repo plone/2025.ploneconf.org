@@ -8,6 +8,12 @@
 
 <!-- towncrier release notes start -->
 
+## 20250926.2.0 (2025-09-26)
+
+### Feature
+
+- Update dropdown menu styles @rioksane [#21](https://github.com/plone/volto-ploneconf-core/issue/21)
+
 ## 20250926.1.0 (2025-09-26)
 
 ### Feature
